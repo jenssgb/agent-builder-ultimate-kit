@@ -1,0 +1,469 @@
+SOCIAL MEDIA GUIDELINES
+Marketing Team | Version 2.0 | Updated: January 2024
+
+=============================================================================
+OVERVIEW
+=============================================================================
+
+PURPOSE:
+These guidelines ensure consistent, on-brand, and effective social media
+presence across all company-owned channels.
+
+GOALS:
+✓ Build brand awareness and thought leadership
+✓ Engage with customers and prospects
+✓ Drive traffic to website and product
+✓ Provide customer support and build community
+✓ Generate leads and support sales efforts
+
+=============================================================================
+PLATFORM-SPECIFIC GUIDELINES
+=============================================================================
+
+LINKEDIN (Primary B2B Channel)
+
+Audience: Decision-makers, professionals, enterprise customers
+Post Frequency: 5x per week (Mon-Fri)
+Best Times: Tue-Thu, 8-10am, 12pm, 5-6pm (local time)
+
+Content Mix:
+- 40% Thought leadership (industry insights, trends, research)
+- 30% Product updates (features, releases, use cases)
+- 20% Customer stories (testimonials, case studies, success)
+- 10% Company culture (team, events, behind-the-scenes)
+
+Post Types:
+✓ Text posts: 1200-1500 characters (sweet spot)
+✓ Images: 1200x627px, brand colors, clear CTA
+✓ Videos: 30-90 seconds, subtitles required
+✓ Carousels: 5-10 slides, educational content
+✓ Polls: Engage audience, gather insights
+✓ Articles: Long-form thought leadership (1000-2000 words)
+
+Hashtag Strategy:
+- Use 3-5 relevant hashtags
+- Mix: 2 brand (#CompanyProduct, #OurCommunity)
+- Mix: 2-3 industry (#B2BSaaS, #EnterpriseIT, #DigitalTransformation)
+- Create and track campaign hashtags
+
+Engagement:
+✓ Respond to all comments within 2 hours (business hours)
+✓ Like and thank positive comments
+✓ Address concerns professionally and publicly (DM for sensitive issues)
+✓ Share employee posts (with permission)
+✓ Engage with industry leaders and influencers
+
+---
+
+TWITTER/X (Real-time Engagement)
+
+Audience: Tech-savvy users, developers, early adopters
+Post Frequency: 3-5x per day
+Best Times: Mon-Fri, 9am, 12pm, 3pm, 5pm
+
+Content Mix:
+- 30% Quick tips and how-tos
+- 25% Industry news and commentary
+- 20% Product updates and launches
+- 15% Customer shoutouts and retweets
+- 10% Company culture and fun
+
+Post Types:
+✓ Text tweets: 240 characters (leave room for RTs)
+✓ Images: 1200x675px
+✓ Videos: 15-45 seconds, fast-paced
+✓ GIFs: Use sparingly for personality
+✓ Threads: For complex topics (5-7 tweets max)
+✓ Polls: Quick surveys, engagement
+
+Hashtag Strategy:
+- Use 1-2 hashtags maximum
+- Trending hashtags only when relevant
+- Create campaign hashtags for launches
+
+Engagement:
+✓ Monitor brand mentions in real-time
+✓ Respond within 30 minutes during business hours
+✓ Retweet customer praise and testimonials
+✓ Engage in industry conversations
+✓ Support customer tweets (even without mentions)
+
+---
+
+INSTAGRAM (Visual Brand Storytelling)
+
+Audience: Younger professionals, creative teams, brand enthusiasts
+Post Frequency: 3x per week (Feed), Daily (Stories)
+Best Times: Tue-Fri, 11am-1pm, 7-9pm
+
+Feed Content Mix:
+- 40% Product visuals (UI screenshots, features, demos)
+- 30% Customer stories (user-generated content, testimonials)
+- 20% Company culture (team, office, events)
+- 10% Industry insights (infographics, tips)
+
+Post Types:
+✓ Square images: 1080x1080px, vibrant brand colors
+✓ Carousel: 5-10 images telling a story
+✓ Reels: 15-30 seconds, trending audio, captions
+✓ Stories: Daily updates, polls, Q&A, behind-the-scenes
+
+Hashtag Strategy:
+- Use 20-25 hashtags (mix of sizes)
+- 5-7 large (100K+ posts)
+- 10-12 medium (10K-100K posts)
+- 5-8 small/niche (1K-10K posts)
+- Include in first comment (not caption)
+
+Engagement:
+✓ Respond to all DMs within 4 hours
+✓ Reply to all comments within 24 hours
+✓ Like and comment on customer posts tagging us
+✓ Collaborate with micro-influencers in our industry
+✓ Feature user-generated content (with permission)
+
+Stories Strategy:
+- Behind-the-scenes: Team working, office tour
+- Quick tips: Product features, how-tos
+- Polls/Questions: Engage audience, gather feedback
+- Product demos: Show features in action
+- Team highlights: Introduce team members
+
+---
+
+YOUTUBE (Educational Content)
+
+Audience: Visual learners, researchers, technical users
+Post Frequency: 2x per month (minimum)
+Video Length: 5-15 minutes (tutorials), 1-3 minutes (product demos)
+
+Content Types:
+✓ Product tutorials (step-by-step guides)
+✓ Feature demos (new releases, highlights)
+✓ Customer testimonials (video case studies)
+✓ Webinar recordings (educational content)
+✓ Behind-the-scenes (company culture, team)
+
+Video Specs:
+- Resolution: 1920x1080 (Full HD)
+- Format: MP4, H.264 codec
+- Thumbnail: 1280x720, text overlay, brand colors
+- Intro: 5-second branded intro (optional)
+- Outro: CTA with links to website, subscribe
+
+Optimization:
+✓ Keyword-rich titles (50-60 characters)
+✓ Detailed descriptions (200-300 words)
+✓ Timestamps for key sections
+✓ Tags: 10-15 relevant keywords
+✓ Custom thumbnail with text
+✓ Closed captions (auto-generated + reviewed)
+
+Engagement:
+✓ Pin top comment with resources/links
+✓ Respond to all comments within 48 hours
+✓ Create playlists by topic
+✓ Cross-promote on other channels
+✓ Include CTAs (subscribe, visit website, download)
+
+=============================================================================
+CONTENT CALENDAR & PLANNING
+=============================================================================
+
+WEEKLY CONTENT THEMES:
+
+Monday: #MotivationMonday
+- Inspirational quotes about productivity/innovation
+- Success stories from customers
+- Industry insights to start the week
+
+Tuesday: #TipTuesday
+- Product tips and tricks
+- How-to guides
+- Best practices
+
+Wednesday: #WednesdayWisdom
+- Thought leadership content
+- Industry trends and analysis
+- Expert interviews
+
+Thursday: #ThrowbackThursday
+- Company milestones and history
+- Product evolution
+- Customer success stories
+
+Friday: #FeatureFriday
+- Spotlight on product features
+- New releases and updates
+- Demo videos
+
+CONTENT PLANNING:
+- Plan content 2 weeks in advance
+- Create content batch (1 day per week)
+- Schedule posts using approved tools (Hootsuite, Buffer)
+- Leave 20% capacity for real-time/reactive content
+- Review analytics weekly, adjust strategy monthly
+
+=============================================================================
+VISUAL GUIDELINES
+=============================================================================
+
+IMAGE SPECIFICATIONS:
+
+LinkedIn:
+- Feed post: 1200x627px
+- Article header: 1200x627px
+- Company cover: 1128x191px
+- Profile logo: 300x300px
+
+Twitter/X:
+- Tweet image: 1200x675px
+- Header image: 1500x500px
+- Profile image: 400x400px
+
+Instagram:
+- Feed post: 1080x1080px (square)
+- Stories: 1080x1920px (9:16)
+- Reels: 1080x1920px (9:16)
+- Profile image: 320x320px
+
+YouTube:
+- Video thumbnail: 1280x720px
+- Channel banner: 2560x1440px
+- Profile image: 800x800px
+
+DESIGN ELEMENTS:
+✓ Always include logo (bottom right corner)
+✓ Use brand colors (Blue, Teal, Coral)
+✓ Typography: Inter Bold for headlines
+✓ White space: 20% minimum
+✓ CTAs: Clear and prominent
+✓ Images: High-quality, on-brand photography
+
+TEMPLATES:
+Use pre-approved Canva templates from:
+brand.company.com/social-templates
+
+=============================================================================
+WRITING GUIDELINES
+=============================================================================
+
+TONE OF VOICE:
+✓ Professional yet conversational
+✓ Helpful and supportive
+✓ Confident but not boastful
+✓ Friendly and approachable
+✓ Inclusive and respectful
+
+WRITING BEST PRACTICES:
+
+Do:
+✓ Use short, punchy sentences
+✓ Ask questions to engage audience
+✓ Include clear call-to-action
+✓ Add value (educate, inspire, entertain)
+✓ Use emojis sparingly (2-3 per post)
+✓ Proofread before posting
+✓ Tag relevant accounts and people
+
+Don't:
+✗ Use corporate jargon or buzzwords
+✗ Make unsubstantiated claims
+✗ Engage in controversial topics (politics, religion)
+✗ Overpromote (follow 80/20 rule: 80% value, 20% promotion)
+✗ Post anything you wouldn't say in person
+✗ Use all caps or excessive punctuation!!!
+
+EMOJIS:
+Approved emojis to use:
+✓ 🚀 (launch, growth)
+✓ 💡 (ideas, tips)
+✓ 🎯 (goals, targets)
+✓ 📊 (data, analytics)
+✓ 💻 (technology, software)
+✓ 🤝 (partnership, teamwork)
+✓ ⭐ (excellence, highlights)
+✓ 📢 (announcements)
+
+Avoid:
+✗ Overuse (more than 3 per post)
+✗ Unclear meanings
+✗ Unprofessional emojis
+
+HASHTAGS:
+
+Best Practices:
+✓ Research hashtag volume before using
+✓ Create branded campaign hashtags
+✓ Use title case for readability (#NewProduct not #newproduct)
+✓ Track hashtag performance monthly
+✓ Avoid banned or controversial hashtags
+
+Platform Limits:
+- LinkedIn: 3-5 hashtags
+- Twitter: 1-2 hashtags
+- Instagram: 20-25 hashtags (first comment)
+- YouTube: Tags field (15-20 keywords)
+
+=============================================================================
+CRISIS MANAGEMENT & RESPONSE
+=============================================================================
+
+NEGATIVE COMMENTS:
+
+Response Protocol:
+1. Assess severity (minor complaint vs. major issue)
+2. Respond publicly with empathy
+3. Offer to move to DM for resolution
+4. Follow up privately with solution
+5. Follow up publicly once resolved
+6. Document in CRM
+
+Example Response:
+"We're sorry to hear about your experience, [Name]. This isn't the level
+of service we aim for. We'd like to make this right. Please DM us your
+account details so we can investigate and resolve this quickly. Thank you
+for your patience."
+
+Escalation Criteria:
+⚠️ Escalate to Manager if:
+- Legal threat or lawsuit mentioned
+- Executive-level customer complaint
+- Viral negative post (>100 shares/retweets)
+- Data breach or security concern
+- Media inquiry
+
+SOCIAL MEDIA CRISIS:
+
+If a crisis occurs (major outage, security breach, PR issue):
+1. PAUSE scheduled posts immediately
+2. Notify Marketing Director and PR team
+3. Wait for official company statement
+4. Post company statement across all channels
+5. Monitor mentions and respond with approved talking points
+6. Resume regular posting only when crisis is resolved
+
+=============================================================================
+COMPLIANCE & LEGAL
+=============================================================================
+
+REQUIRED DISCLOSURES:
+
+Sponsored Content:
+- Must include #ad or #sponsored (FTC requirement)
+- Disclose material connections
+- Follow platform-specific disclosure rules
+
+User-Generated Content:
+- Obtain written permission before reposting
+- Credit original creator (@mention + caption credit)
+- Use permission form: brand.company.com/ugc-form
+
+Contests & Giveaways:
+- Include official rules and T&Cs
+- Comply with platform policies
+- Disclose odds, eligibility, end date
+- "No purchase necessary" statement
+
+Copyright:
+✓ Only use licensed images (Unsplash, Pexels, company library)
+✓ Credit photographers when required
+✓ Don't use customer photos without permission
+✓ Respect music copyrights in videos
+
+Privacy:
+✗ Never share customer data or info
+✗ Don't screenshot customer DMs without consent
+✗ Blur faces in candid photos (unless permission)
+
+=============================================================================
+ANALYTICS & REPORTING
+=============================================================================
+
+KEY METRICS TO TRACK:
+
+Awareness:
+- Impressions
+- Reach
+- Follower growth
+- Share of voice
+
+Engagement:
+- Likes, comments, shares
+- Engagement rate (interactions / impressions)
+- Click-through rate
+- Video views and completion rate
+
+Conversion:
+- Website traffic from social
+- Lead generation
+- Sign-ups
+- Demo requests
+
+REPORTING SCHEDULE:
+- Weekly: Key metrics dashboard
+- Monthly: Detailed platform reports
+- Quarterly: Strategy review and adjustments
+
+TOOLS:
+- Native analytics (LinkedIn, Twitter, Instagram, YouTube)
+- Hootsuite Analytics
+- Google Analytics (UTM tracking)
+
+=============================================================================
+APPROVAL PROCESS
+=============================================================================
+
+APPROVAL REQUIRED FOR:
+- Product announcements
+- Press releases
+- Executive posts
+- Legal/financial information
+- Partnership announcements
+- Anything controversial or sensitive
+
+APPROVAL WORKFLOW:
+1. Content Creator: Draft post
+2. Marketing Manager: Review and approve copy/creative
+3. Product/Legal (if needed): Review technical/legal accuracy
+4. Marketing Director: Final approval for major announcements
+
+SELF-APPROVAL:
+Approved content types (no review needed):
+- Tips and how-tos (existing product features)
+- Customer retweets/reposts
+- Industry news shares (with company commentary)
+- Weekly themed posts (#TipTuesday, etc.)
+- Engagement responses
+
+=============================================================================
+RESOURCES & TOOLS
+=============================================================================
+
+TOOLS WE USE:
+- Scheduling: Hootsuite
+- Design: Canva Pro (brand templates)
+- Analytics: Native + Hootsuite Analytics
+- Hashtag research: Hashtagify, RiteTag
+- Image library: Unsplash, company brand portal
+- Video editing: Descript, CapCut
+
+BRAND ASSETS:
+- Logo files: brand.company.com/logos
+- Social templates: brand.company.com/social-templates
+- Image library: brand.company.com/photos
+- Video assets: brand.company.com/videos
+
+TEAM CONTACTS:
+- Social Media Manager: social@company.com
+- Marketing Director: marketing@company.com
+- Brand Team: brand@company.com
+- PR/Crisis: pr@company.com
+
+=============================================================================
+
+Questions? Contact the Social Media Team
+social@company.com
+
+Version 2.0 | Updated January 2024
+Internal Use Only

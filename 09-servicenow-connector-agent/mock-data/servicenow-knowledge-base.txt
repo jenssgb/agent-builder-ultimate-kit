@@ -1,0 +1,892 @@
+SERVICENOW KNOWLEDGE BASE ARTICLES
+IT Knowledge Management | Exported: January 15, 2024
+
+=============================================================================
+KB0001234: How to Reset Your Password
+=============================================================================
+
+Category: Account Management > Passwords
+Status: Published
+Author: IT Support Team
+Created: October 5, 2023
+Last Modified: January 10, 2024
+Views: 8,547
+Rating: 4.8/5 (312 ratings)
+Helpful: 289 | Not Helpful: 23
+
+SUMMARY:
+Step-by-step guide to reset your account password for company systems.
+
+ARTICLE CONTENT:
+
+## Overview
+If you've forgotten your password or need to reset it for security reasons,
+you can do so through our self-service portal. No need to contact IT Support!
+
+## Prerequisites
+- Valid employee ID
+- Access to your registered email or mobile phone
+- If locked out completely, contact IT Support: ext. 5500
+
+## Step-by-Step Instructions
+
+### Option 1: Self-Service Reset (Recommended)
+
+1. **Go to Password Reset Portal**
+   - Navigate to: https://password.company.com
+   - Or click "Forgot Password?" on any company login page
+
+2. **Enter Your Username**
+   - Enter your company email (e.g., john.doe@company.com)
+   - Click "Next"
+
+3. **Verify Your Identity**
+   - Choose verification method:
+     * Email verification code (sent to registered email)
+     * SMS code (sent to registered mobile)
+     * Security questions (if configured)
+
+4. **Enter Verification Code**
+   - Check your email or phone for 6-digit code
+   - Code valid for 10 minutes
+   - Enter code and click "Verify"
+
+5. **Create New Password**
+   - Enter new password (must meet requirements below)
+   - Confirm new password
+   - Click "Reset Password"
+
+6. **Success!**
+   - You'll see confirmation message
+   - Use new password to log in immediately
+   - Old password invalidated instantly
+
+### Option 2: Contact IT Support
+
+If self-service doesn't work:
+- Call IT Support: ext. 5500
+- Hours: Monday-Friday, 8am-6pm ET
+- After hours: Create ticket in ServiceNow portal
+
+## Password Requirements
+
+Your new password must meet ALL of these criteria:
+✓ At least 12 characters long
+✓ Contains uppercase letter (A-Z)
+✓ Contains lowercase letter (a-z)
+✓ Contains number (0-9)
+✓ Contains special character (!@#$%^&*)
+✓ Cannot be same as last 5 passwords
+✓ Cannot contain your name or username
+✓ Must be different from old password by at least 4 characters
+
+**Example of strong password:** MyC0mpany!2024
+
+## Troubleshooting
+
+**Problem: "Username not found"**
+- Solution: Verify you're using your company email
+- Check for typos in email address
+- Contact IT Support if persists
+
+**Problem: "Verification code not received"**
+- Solution: Wait 2-3 minutes (may take time to arrive)
+- Check spam/junk folder
+- Request new code
+- Verify phone number/email is correct in employee profile
+
+**Problem: "Password doesn't meet requirements"**
+- Solution: Review requirements above
+- Use password strength meter on reset page
+- Try adding more characters or special symbols
+
+**Problem: "Account is locked"**
+- Solution: Wait 30 minutes (auto-unlock)
+- Or contact IT Support to unlock immediately: ext. 5500
+
+## Post-Reset Actions
+
+After resetting your password:
+1. Update password on all devices (laptop, phone, tablet)
+2. Re-authenticate any apps that saved old password
+3. Clear browser cache and cookies (recommended)
+
+## Related Articles
+- KB0001240: How to Enable Multi-Factor Authentication
+- KB0001235: Password Best Practices
+- KB0001250: Account Locked - What to Do
+
+## Feedback
+Was this article helpful? Rate it below or suggest improvements.
+
+---
+
+=============================================================================
+KB0001245: Connecting to Company VPN
+=============================================================================
+
+Category: Network > VPN
+Status: Published
+Author: Network Operations Team
+Created: September 15, 2023
+Last Modified: January 8, 2024
+Views: 12,384
+Rating: 4.6/5 (521 ratings)
+Helpful: 478 | Not Helpful: 43
+
+SUMMARY:
+Instructions for installing and using the company VPN to access internal
+resources remotely.
+
+ARTICLE CONTENT:
+
+## What is VPN?
+
+Virtual Private Network (VPN) creates a secure encrypted connection to
+company network, allowing you to access internal resources (file shares,
+intranet, databases) from anywhere.
+
+## Who Needs VPN?
+
+VPN required for:
+✓ Remote employees working from home
+✓ Traveling employees accessing company resources
+✓ Contractors needing access to internal systems
+✓ Anyone accessing sensitive data outside office
+
+## Supported Devices
+
+- Windows 10/11
+- macOS 11+ (Big Sur and newer)
+- iOS 15+ (iPhone, iPad)
+- Android 11+
+- Linux (Ubuntu 20.04+)
+
+## Installation
+
+### Windows Installation
+
+1. **Download VPN Client**
+   - Go to: https://vpn.company.com/download
+   - Click "Download for Windows"
+   - Save installer file: `CompanyVPN-Setup.exe`
+
+2. **Install Client**
+   - Run `CompanyVPN-Setup.exe`
+   - Accept license agreement
+   - Click "Install" (requires admin rights)
+   - Restart computer when prompted
+
+3. **Configure VPN**
+   - Launch "Company VPN" from Start Menu
+   - VPN server: `vpn.company.com`
+   - Click "Save"
+
+### macOS Installation
+
+1. **Download VPN Client**
+   - Go to: https://vpn.company.com/download
+   - Click "Download for macOS"
+   - Open `CompanyVPN.dmg`
+
+2. **Install Client**
+   - Drag app to Applications folder
+   - Open "Company VPN" from Applications
+   - Allow system extension (System Preferences > Security)
+
+3. **Configure VPN**
+   - Server address: `vpn.company.com`
+   - Click "Connect"
+
+### Mobile (iOS/Android)
+
+1. **Download App**
+   - iOS: App Store → Search "Company VPN"
+   - Android: Play Store → Search "Company VPN"
+   - Install app
+
+2. **Configure**
+   - Open app
+   - Enter server: `vpn.company.com`
+   - Tap "Connect"
+
+## Connecting to VPN
+
+1. **Open VPN Client**
+   - Launch "Company VPN" application
+
+2. **Enter Credentials**
+   - Username: Your company email
+   - Password: Your current company password
+
+3. **Multi-Factor Authentication**
+   - Approve push notification on phone (if using MFA)
+   - Or enter 6-digit code from authenticator app
+
+4. **Connected!**
+   - Green icon indicates connected
+   - All traffic now routed through company network
+
+## Disconnecting from VPN
+
+- Open VPN client
+- Click "Disconnect"
+- VPN icon turns gray
+
+**Important:** Always disconnect when not needed to preserve bandwidth.
+
+## Troubleshooting
+
+**Problem: "Cannot connect to VPN server"**
+- Solution 1: Check internet connection (VPN needs internet)
+- Solution 2: Verify VPN server address: `vpn.company.com`
+- Solution 3: Disable other VPNs (only one VPN at a time)
+- Solution 4: Restart VPN client
+
+**Problem: "Authentication failed"**
+- Solution: Verify username (should be full company email)
+- Check password (same as company login)
+- Reset password if forgotten: KB0001234
+- Check MFA device is available
+
+**Problem: "VPN connects but can't access resources"**
+- Solution: Verify VPN status (should be green/connected)
+- Try accessing resources by IP instead of name
+- Clear DNS cache: `ipconfig /flushdns` (Windows)
+- Contact IT Support if persists
+
+**Problem: "VPN slow or dropping connection"**
+- Solution: Check internet speed (need at least 5 Mbps)
+- Move closer to WiFi router
+- Disconnect and reconnect VPN
+- Try different VPN server (Advanced settings)
+
+**Problem: "Split tunneling not working"**
+- Solution: Check VPN settings > Advanced > Split Tunneling
+- Ensure enabled if you want local and VPN traffic
+- Restart VPN after changing settings
+
+## VPN Best Practices
+
+✓ **Connect only when needed** (saves bandwidth)
+✓ **Disconnect when done** (security best practice)
+✓ **Use on trusted networks only** (not public WiFi without caution)
+✓ **Keep VPN client updated** (auto-updates enabled by default)
+✓ **Don't share VPN credentials** (against security policy)
+✓ **Report issues immediately** (IT Support: ext. 5500)
+
+## Performance Tips
+
+For better VPN performance:
+- Close unnecessary applications
+- Pause large downloads/uploads
+- Use wired connection instead of WiFi (when possible)
+- Select VPN server closest to you geographically
+
+## Security Reminders
+
+⚠️ **Important:**
+- VPN does NOT make public WiFi 100% safe
+- Still avoid sensitive transactions on public WiFi
+- Use company laptop (not personal devices for work data)
+- Lock computer when away from desk (even on VPN)
+
+## Related Articles
+- KB0001250: VPN Split Tunneling Configuration
+- KB0001255: Accessing File Shares via VPN
+- KB0001260: VPN for Linux Users
+- KB0001234: Password Reset Instructions
+
+## Need Help?
+Contact IT Support:
+- Phone: ext. 5500
+- Email: itsupport@company.com
+- Portal: https://support.company.com
+- Hours: 24/7 (emergency), 8am-6pm ET (general support)
+
+---
+
+=============================================================================
+KB0001300: Setting Up Multi-Factor Authentication (MFA)
+=============================================================================
+
+Category: Security > Authentication
+Status: Published
+Author: Information Security Team
+Created: November 20, 2023
+Last Modified: January 12, 2024
+Views: 6,892
+Rating: 4.9/5 (401 ratings)
+Helpful: 387 | Not Helpful: 14
+
+SUMMARY:
+Enable Multi-Factor Authentication (MFA) to add an extra layer of security
+to your company account.
+
+ARTICLE CONTENT:
+
+## What is MFA?
+
+Multi-Factor Authentication (MFA) requires two forms of verification:
+1. **Something you know** (password)
+2. **Something you have** (phone, security key)
+
+This prevents unauthorized access even if your password is compromised.
+
+## Why Enable MFA?
+
+✓ **Required for certain roles** (IT, Finance, HR, Executives)
+✓ **Protects sensitive data** (company & customer information)
+✓ **Prevents account takeovers** (most common security breach)
+✓ **Required for remote access** (VPN, internal systems)
+✓ **Company security policy** (all employees by Q2 2024)
+
+## MFA Methods
+
+Choose one of these methods:
+
+### 1. Mobile Authenticator App (Recommended)
+
+**Best for:** Everyone with smartphone
+**Apps:**
+- Microsoft Authenticator (recommended)
+- Google Authenticator
+- Authy
+
+**Pros:**
+✓ Works offline
+✓ Most secure
+✓ Free
+
+### 2. SMS Text Message
+
+**Best for:** Users without smartphone or prefer texts
+**Pros:**
+✓ Simple and familiar
+✓ No app installation
+
+**Cons:**
+⚠️ Less secure than app (SIM swapping risk)
+⚠️ Requires cell signal
+
+### 3. Phone Call
+
+**Best for:** Users with phone but no smartphone
+**Pros:**
+✓ Works on any phone
+✓ Automated voice call
+
+### 4. Hardware Security Key (Advanced)
+
+**Best for:** High-security roles, IT admins
+**Examples:** YubiKey, Titan Security Key
+**Pros:**
+✓ Most secure option
+✓ Phishing-resistant
+
+**Cons:**
+⚠️ Costs money ($25-50)
+⚠️ Can be lost (order backup)
+
+## Setup Instructions
+
+### Method 1: Mobile Authenticator App
+
+**Step 1: Download App**
+- iOS: App Store → "Microsoft Authenticator"
+- Android: Play Store → "Microsoft Authenticator"
+- Install and open app
+
+**Step 2: Enable MFA on Account**
+- Go to: https://account.company.com/security
+- Click "Enable Multi-Factor Authentication"
+- Choose "Authenticator App"
+
+**Step 3: Scan QR Code**
+- Open Microsoft Authenticator app
+- Tap "+" to add account
+- Tap "Work or school account"
+- Scan QR code displayed on screen
+
+**Step 4: Verify Setup**
+- App will show 6-digit code
+- Enter code on website
+- Click "Verify"
+
+**Step 5: Save Backup Codes**
+- Download 10 backup codes (use if phone unavailable)
+- Store securely (password manager or safe place)
+- Each code single-use only
+
+**Done!** MFA is now enabled.
+
+### Method 2: SMS Text Message
+
+**Step 1: Enable MFA**
+- Go to: https://account.company.com/security
+- Click "Enable Multi-Factor Authentication"
+- Choose "Text Message"
+
+**Step 2: Add Phone Number**
+- Enter mobile phone number (include country code)
+- Format: +1-555-123-4567
+- Click "Send Code"
+
+**Step 3: Verify Number**
+- Check phone for 6-digit code
+- Enter code on website
+- Click "Verify"
+
+**Step 4: Save Backup Codes**
+- Download backup codes
+- Store securely
+
+**Done!** MFA enabled via SMS.
+
+### Method 3: Hardware Security Key
+
+**Step 1: Purchase Key**
+- Recommended: YubiKey 5 NFC ($45)
+- Buy from: yubico.com or Amazon
+- Order 2 keys (primary + backup)
+
+**Step 2: Enable MFA**
+- Go to: https://account.company.com/security
+- Click "Enable Multi-Factor Authentication"
+- Choose "Security Key"
+
+**Step 3: Register Key**
+- Insert key into USB port
+- Click "Register Key"
+- Touch gold disk on key when it blinks
+- Give key a name (e.g., "Primary YubiKey")
+
+**Step 4: Register Backup Key**
+- Click "Add Another Key"
+- Insert backup key
+- Touch to register
+- Name it (e.g., "Backup YubiKey")
+
+**Done!** Security key MFA enabled.
+
+## Using MFA After Setup
+
+### Logging In With MFA
+
+**Authenticator App:**
+1. Enter username and password
+2. Open authenticator app on phone
+3. Enter 6-digit code shown
+4. Click "Verify"
+
+**SMS:**
+1. Enter username and password
+2. Wait for text message (may take 30 seconds)
+3. Enter 6-digit code from text
+4. Click "Verify"
+
+**Security Key:**
+1. Enter username and password
+2. Insert security key into USB
+3. Touch key when it blinks
+4. Authenticated!
+
+### "Remember This Device" Option
+
+Check "Don't ask again for 30 days" to skip MFA on trusted devices.
+
+⚠️ **Only use on:**
+- Your personal laptop
+- Your work desktop
+- Devices you control
+
+❌ **Never use on:**
+- Public computers (library, hotel, cafe)
+- Shared computers
+- Someone else's device
+
+## Troubleshooting
+
+**Problem: "Lost phone with authenticator app"**
+- Solution 1: Use backup codes you saved
+- Solution 2: Contact IT Support to disable MFA temporarily: ext. 5500
+- Solution 3: Use recovery phone number (if configured)
+
+**Prevention:** Set up multiple MFA methods (app + SMS backup)
+
+**Problem: "Not receiving SMS codes"**
+- Solution 1: Wait 2-3 minutes (may be delayed)
+- Solution 2: Check phone signal strength
+- Solution 3: Verify phone number in account settings
+- Solution 4: Use backup codes or contact IT Support
+
+**Problem: "Code says invalid/expired"**
+- Solution: Authenticator codes expire every 30 seconds
+- Enter code immediately after it refreshes
+- Check device time is correct (auto-sync enabled)
+
+**Problem: "Lost security key"**
+- Solution 1: Use backup security key
+- Solution 2: Use backup codes
+- Solution 3: Contact IT Support to register new key
+
+**Prevention:** Always register 2 security keys (primary + backup)
+
+**Problem: "MFA required but never set it up"**
+- Solution: Use temporary bypass code from manager
+- Set up MFA immediately (see instructions above)
+- Contact IT Support if blocked: ext. 5500
+
+## Changing MFA Method
+
+To switch MFA methods:
+1. Go to: https://account.company.com/security
+2. Click "Manage MFA Methods"
+3. Click "Add Method" to add new
+4. Click "Remove" next to old method
+5. Verify change with current MFA method
+
+## Backup Codes
+
+**What are they?**
+10 single-use codes for emergency access (if phone unavailable).
+
+**When to use:**
+- Phone lost/stolen/broken
+- Authenticator app not working
+- Traveling without phone
+
+**How to use:**
+1. Enter username and password
+2. Click "Use backup code"
+3. Enter one of your 10 codes
+4. Code is consumed (can't reuse)
+
+**Important:**
+- Download codes during MFA setup
+- Store in password manager or safe place
+- Print copy and store in wallet
+- Request new codes if you run out
+
+To get new backup codes:
+- Go to: https://account.company.com/security
+- Click "Generate New Backup Codes"
+- Old codes invalidated immediately
+
+## Security Best Practices
+
+✓ **Use authenticator app** (most secure option)
+✓ **Set up backup MFA method** (SMS or backup key)
+✓ **Save backup codes** (store securely)
+✓ **Never share codes** (even with IT - they won't ask)
+✓ **Report phishing** (suspicious MFA requests)
+✓ **Keep app updated** (auto-updates recommended)
+✓ **Don't screenshot codes** (security risk)
+
+## Company MFA Policy
+
+**Effective Q2 2024:** MFA required for all employees
+
+**Currently Required:**
+- IT Department
+- Finance Department
+- Human Resources
+- Executives
+- Anyone accessing customer data
+- Remote employees (VPN access)
+
+**Timeline:**
+- Q1 2024: IT, Finance, HR (complete)
+- Q2 2024: All employees (mandatory)
+- Q3 2024: Contractors and vendors
+
+## Related Articles
+- KB0001234: Password Reset Instructions
+- KB0001310: Account Security Best Practices
+- KB0001315: Recognizing Phishing Attempts
+- KB0001320: Lost or Stolen Device Reporting
+
+## Need Help?
+
+**IT Support:**
+- Phone: ext. 5500 (Mon-Fri, 8am-6pm ET)
+- Email: itsupport@company.com
+- Portal: https://support.company.com
+
+**Emergency After Hours:**
+- Phone: 1-800-555-0199
+- For MFA lockout preventing critical work
+
+---
+
+=============================================================================
+KB0001400: Requesting New Software Installation
+=============================================================================
+
+Category: IT Services > Software
+Status: Published
+Author: IT Support Team
+Created: August 10, 2023
+Last Modified: January 5, 2024
+Views: 4,231
+Rating: 4.3/5 (187 ratings)
+Helpful: 156 | Not Helpful: 31
+
+SUMMARY:
+How to request installation of new software on your company computer.
+
+ARTICLE CONTENT:
+
+## Overview
+
+All software installations must be approved by IT and Security teams to
+ensure compliance, security, and licensing.
+
+## Before You Request
+
+Ask yourself:
+- Is this software already available? (Check Software Center)
+- Is there a company-approved alternative?
+- Is this for business use? (personal software not allowed)
+- Does your manager approve this need?
+
+## Pre-Approved Software
+
+These applications are pre-approved and can be self-installed from Software
+Center:
+
+**Productivity:**
+- Microsoft Office 365 (Word, Excel, PowerPoint, Outlook)
+- Microsoft Teams
+- Adobe Acrobat Reader
+- Zoom
+- Slack
+
+**Development:**
+- Visual Studio Code
+- Git
+- Node.js
+- Python
+- Docker Desktop (with approval)
+
+**Design:**
+- Figma Desktop
+- Adobe Creative Cloud (with license)
+
+**Utilities:**
+- 7-Zip
+- Notepad++
+- VLC Media Player
+
+## How to Install Pre-Approved Software
+
+1. Open "Software Center" (Windows) or "Self Service" (Mac)
+2. Browse or search for software
+3. Click "Install"
+4. Wait for installation (usually 5-10 minutes)
+5. Software appears in Start Menu / Applications
+
+## Requesting Non-Standard Software
+
+For software not in catalog:
+
+**Step 1: Create Request Ticket**
+- Go to: https://support.company.com
+- Click "Request New Software"
+- Or email: itsupport@company.com with subject "Software Request"
+
+**Step 2: Provide Information**
+
+Include ALL of these details:
+- Software name and version
+- Publisher/vendor name
+- Download URL or source
+- Business justification (why you need it)
+- License type (free, paid, subscription)
+- Cost (if paid)
+- Who needs access (just you, your team, department)
+- Approval from manager (required)
+
+**Example Request:**
+```
+Software: Postman
+Version: 10.x
+Publisher: Postman Inc.
+URL: https://postman.com/downloads
+Justification: Need to test REST APIs for Project Alpha development
+License: Free (Team plan)
+Cost: $0
+Users: Development team (8 people)
+Manager Approval: Yes (attached email from Sarah Chen)
+```
+
+**Step 3: IT Review**
+
+IT will review request (1-3 business days):
+- ✅ Security scan (malware, vulnerabilities)
+- ✅ License compliance check
+- ✅ Compatibility with company systems
+- ✅ Cost approval (if paid software)
+
+**Step 4: Security Review**
+
+Security team reviews (2-5 business days):
+- ✅ Data privacy compliance
+- ✅ Security risks
+- ✅ Company policy alignment
+
+**Step 5: Approval & Installation**
+
+If approved:
+- IT will install software remotely (you don't need to do anything)
+- Or add to Software Center for self-service
+- You'll receive email notification when ready
+- Installation typically within 1 business day of approval
+
+If denied:
+- You'll receive email with reason
+- Alternative solutions suggested
+- Option to appeal decision
+
+## Paid Software Requests
+
+For software with cost:
+
+**Step 1: Get Budget Approval**
+- Discuss with manager first
+- Confirm budget available
+- Get written approval
+
+**Step 2: Submit Purchase Request**
+- Include cost breakdown
+- License type (perpetual, subscription, per-user)
+- Payment frequency (one-time, monthly, annual)
+- Business justification and ROI
+
+**Step 3: Procurement Process**
+- Finance team reviews
+- Vendor negotiation (if applicable)
+- Purchase order created
+- Software delivered and installed
+
+**Timeline:** 2-6 weeks depending on vendor and procurement
+
+## Software Renewal Requests
+
+For existing software expiring:
+- Submit renewal request 30 days before expiration
+- Confirm continued business need
+- Check if user count changed
+- IT will coordinate renewal with vendor
+
+## Denied Requests - Common Reasons
+
+Software may be denied due to:
+❌ Security vulnerabilities
+❌ No business justification
+❌ Free alternative available
+❌ Redundant (we already have similar tool)
+❌ Not compatible with company systems
+❌ Violates company policy
+❌ Licensing/legal concerns
+
+## Software Alternatives
+
+Before requesting expensive software, consider these free alternatives:
+
+| Instead of... | Use... (Free) |
+|--------------|---------------|
+| Adobe Photoshop | GIMP, Photopea |
+| Microsoft Project | Asana, Trello, Monday.com |
+| Adobe Illustrator | Inkscape |
+| Adobe Premiere | DaVinci Resolve |
+| Paid VPN | Company VPN (KB0001245) |
+| Paid Screen Recorder | OBS Studio |
+
+## Prohibited Software
+
+These types of software are NOT allowed:
+❌ Personal file sharing (Dropbox, Google Drive personal)
+❌ Torrent clients
+❌ Cryptocurrency mining
+❌ Hacking/penetration tools (without Security approval)
+❌ Personal VPNs (use company VPN)
+❌ Pirated/cracked software
+❌ Software from untrusted sources
+
+Violation of policy may result in disciplinary action.
+
+## Open Source Software
+
+Open source software requires approval:
+- Submit request as described above
+- Include license type (MIT, Apache, GPL, etc.)
+- IT will review license compatibility
+- Security scan for vulnerabilities
+- Approval usually faster than commercial software
+
+## Browser Extensions
+
+Browser extensions also require approval:
+- Submit request with extension name and URL
+- Chrome Web Store or Firefox Add-ons only
+- Popular extensions pre-approved (LastPass, Grammarly, etc.)
+- IT will review permissions requested
+- Approval usually within 1 day
+
+## Mobile Apps (Company Devices)
+
+For company-owned mobile devices:
+- Submit request through Mobile Device Management (MDM)
+- Business justification required
+- Apps deployed remotely by IT
+- Personal apps not allowed on company devices
+
+## SaaS / Cloud Applications
+
+For cloud-based software (SaaS):
+- Same approval process
+- Additional security review required
+- Data residency and privacy review
+- SSO integration preferred
+- Submit request 2-3 weeks before needed (longer review)
+
+## Timeline Expectations
+
+| Software Type | Approval Time | Installation Time |
+|--------------|---------------|-------------------|
+| Pre-approved (Software Center) | N/A | 5-10 minutes (self-service) |
+| Free software (new) | 1-3 days | 1 day after approval |
+| Paid software (new) | 2-6 weeks | 1-2 days after procurement |
+| Open source | 2-4 days | 1 day after approval |
+| SaaS/Cloud | 1-2 weeks | Instant (after approval) |
+| Browser extension | 1 day | Self-service after approval |
+
+**Plan ahead!** Don't wait until you urgently need software.
+
+## Related Articles
+- KB0001405: Software Center User Guide
+- KB0001410: Uninstalling Software
+- KB0001415: Software Licensing FAQs
+- KB0001420: Approved Software Catalog
+
+## Need Help?
+
+**IT Support:**
+- Phone: ext. 5500
+- Email: itsupport@company.com
+- Portal: https://support.company.com
+- Hours: Monday-Friday, 8am-6pm ET
+
+**Procurement Questions:**
+- Email: procurement@company.com
+
+---
+
+=============================================================================
+
+Knowledge Base Export Complete
+Total Articles: 4
+Categories: Account Management, Network, Security, IT Services
+Export Date: January 15, 2024
+Source: ServiceNow Knowledge Base

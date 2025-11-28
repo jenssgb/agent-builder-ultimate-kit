@@ -1,0 +1,887 @@
+AZURE DEVOPS WIKI - PROJECT ALPHA
+Exported: January 15, 2024
+
+=============================================================================
+HOME PAGE
+=============================================================================
+
+# Project Alpha Wiki
+
+Welcome to the Project Alpha team wiki! This is our central knowledge
+repository for technical documentation, architecture decisions, runbooks,
+and team processes.
+
+## Quick Links
+
+- [Architecture Overview](#architecture-overview)
+- [API Documentation](#api-documentation)
+- [Development Setup Guide](#development-setup)
+- [Deployment Procedures](#deployment-procedures)
+- [Incident Response Runbook](#incident-response)
+- [Team Onboarding](#team-onboarding)
+
+## Recent Updates
+
+- Jan 15, 2024: Updated OAuth integration guide
+- Jan 12, 2024: Added iOS 17 compatibility notes
+- Jan 10, 2024: Database optimization runbook
+- Jan 5, 2024: Sprint 23 planning outcomes
+
+## Team
+
+- **Product Owner**: Mike Johnson
+- **Tech Lead**: Sarah Chen
+- **Backend Team**: David Park, Tom Anderson, Lisa Wong
+- **Frontend Team**: Emily Rodriguez, Kevin Zhang
+- **Mobile Team**: Emily Rodriguez (iOS), Alex Kumar (Android)
+- **DevOps**: Jessica Martinez
+
+---
+
+=============================================================================
+ARCHITECTURE OVERVIEW
+=============================================================================
+
+# Project Alpha Architecture
+
+Last Updated: January 15, 2024 | Owner: Sarah Chen
+
+## System Architecture
+
+Project Alpha is a cloud-native, microservices-based SaaS platform built
+for scalability, reliability, and security.
+
+### High-Level Architecture
+
+```
+[Frontend]
+  ├── React Web App (TypeScript)
+  ├── iOS Mobile App (Swift)
+  └── Android Mobile App (Kotlin)
+         |
+         ↓
+    [API Gateway]
+         |
+         ↓
+    [Load Balancer]
+         |
+         ↓
+[Backend Services]
+  ├── Authentication Service (Node.js)
+  ├── User Service (Node.js)
+  ├── Workflow Service (Python)
+  ├── Notification Service (Go)
+  └── Analytics Service (Python)
+         |
+         ↓
+[Data Layer]
+  ├── PostgreSQL (Primary Database)
+  ├── Redis (Caching & Sessions)
+  ├── MongoDB (Analytics Data)
+  └── Blob Storage (File Storage)
+```
+
+## Technology Stack
+
+### Frontend
+- **Web**: React 18, TypeScript, Vite, TailwindCSS
+- **Mobile iOS**: Swift, SwiftUI, Combine
+- **Mobile Android**: Kotlin, Jetpack Compose, Coroutines
+- **State Management**: Redux Toolkit (Web), MVVM (Mobile)
+
+### Backend
+- **API Gateway**: Kong Gateway
+- **Authentication**: Node.js, Passport.js, OAuth 2.0
+- **Core Services**: Node.js (Express), Python (FastAPI), Go
+- **Message Queue**: RabbitMQ
+- **Background Jobs**: Bull (Node.js), Celery (Python)
+
+### Data & Storage
+- **Database**: PostgreSQL 15 (Primary)
+- **Cache**: Redis 7
+- **Analytics**: MongoDB
+- **File Storage**: Azure Blob Storage
+- **Search**: Elasticsearch
+
+### Infrastructure
+- **Cloud Provider**: Microsoft Azure
+- **Container Orchestration**: Azure Kubernetes Service (AKS)
+- **CI/CD**: Azure DevOps Pipelines
+- **Monitoring**: Azure Monitor, Application Insights, Grafana
+- **Logging**: ELK Stack (Elasticsearch, Logstash, Kibana)
+
+## Service Communication
+
+Services communicate via:
+1. **Synchronous**: REST APIs (JSON over HTTPS)
+2. **Asynchronous**: Message queue (RabbitMQ)
+3. **Real-time**: WebSockets (Socket.io)
+
+## Scalability
+
+- **Horizontal Scaling**: All services run in Kubernetes with auto-scaling
+- **Database**: Read replicas for read-heavy workloads
+- **Caching**: Redis cluster (3 nodes) for session & data caching
+- **CDN**: Azure CDN for static assets
+
+## Security
+
+- **Authentication**: OAuth 2.0, JWT tokens
+- **Authorization**: RBAC (Role-Based Access Control)
+- **Encryption**: TLS 1.3 in transit, AES-256 at rest
+- **API Security**: Rate limiting, API key authentication
+- **Secrets Management**: Azure Key Vault
+
+## High Availability
+
+- **Target Uptime**: 99.9% (8.7 hours downtime/year)
+- **Multi-Region**: Primary (East US), Secondary (West Europe)
+- **Failover**: Automated failover to secondary region
+- **Backup**: Daily automated backups, 30-day retention
+
+## Monitoring & Observability
+
+- **Metrics**: Application Insights, Prometheus
+- **Logs**: ELK Stack (centralized logging)
+- **Tracing**: Distributed tracing with Jaeger
+- **Alerting**: PagerDuty integration for critical alerts
+
+---
+
+=============================================================================
+API DOCUMENTATION
+=============================================================================
+
+# API Documentation
+
+Last Updated: January 15, 2024 | Owner: David Park
+
+## Base URL
+
+```
+Production: https://api.projectalpha.com/v1
+Staging: https://api-staging.projectalpha.com/v1
+Dev: https://api-dev.projectalpha.com/v1
+```
+
+## Authentication
+
+All API requests require authentication via OAuth 2.0 access token.
+
+### Getting an Access Token
+
+```bash
+POST /oauth/token
+Content-Type: application/x-www-form-urlencoded
+
+grant_type=authorization_code&
+code={authorization_code}&
+client_id={client_id}&
+client_secret={client_secret}&
+redirect_uri={redirect_uri}
+```
+
+### Using Access Token
+
+Include in Authorization header:
+
+```bash
+GET /api/v1/users/me
+Authorization: Bearer {access_token}
+```
+
+## Rate Limits
+
+- **Anonymous**: 100 requests/hour
+- **Authenticated**: 1,000 requests/hour
+- **Premium**: 10,000 requests/hour
+
+Rate limit headers returned:
+- `X-RateLimit-Limit`: Total requests allowed
+- `X-RateLimit-Remaining`: Requests remaining
+- `X-RateLimit-Reset`: Time when limit resets (Unix timestamp)
+
+When rate limited: `429 Too Many Requests`
+
+## Core Endpoints
+
+### Users API
+
+**Get Current User**
+```
+GET /users/me
+
+Response:
+{
+  "id": "user_123",
+  "email": "john@company.com",
+  "name": "John Doe",
+  "role": "admin",
+  "created_at": "2024-01-01T00:00:00Z"
+}
+```
+
+**Update User**
+```
+PATCH /users/{user_id}
+Content-Type: application/json
+
+{
+  "name": "John Doe Updated",
+  "email": "newemail@company.com"
+}
+
+Response: 200 OK
+{
+  "id": "user_123",
+  "name": "John Doe Updated",
+  "email": "newemail@company.com"
+}
+```
+
+### Workflows API
+
+**List Workflows**
+```
+GET /workflows?limit=20&offset=0
+
+Response:
+{
+  "workflows": [
+    {
+      "id": "wf_456",
+      "name": "Onboarding Workflow",
+      "status": "active",
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  ],
+  "total": 145,
+  "limit": 20,
+  "offset": 0
+}
+```
+
+**Create Workflow**
+```
+POST /workflows
+Content-Type: application/json
+
+{
+  "name": "New Workflow",
+  "description": "Workflow description",
+  "steps": [
+    {"type": "email", "config": {...}},
+    {"type": "approval", "config": {...}}
+  ]
+}
+
+Response: 201 Created
+{
+  "id": "wf_789",
+  "name": "New Workflow",
+  "status": "draft"
+}
+```
+
+## Error Responses
+
+Standard error format:
+
+```json
+{
+  "error": {
+    "code": "invalid_request",
+    "message": "Missing required field: name",
+    "details": {
+      "field": "name",
+      "reason": "required"
+    }
+  }
+}
+```
+
+Common error codes:
+- `400 Bad Request`: Invalid request parameters
+- `401 Unauthorized`: Missing or invalid authentication
+- `403 Forbidden`: Insufficient permissions
+- `404 Not Found`: Resource not found
+- `429 Too Many Requests`: Rate limit exceeded
+- `500 Internal Server Error`: Server error
+
+## Webhooks
+
+Subscribe to events via webhooks:
+
+**Event Types:**
+- `user.created`
+- `user.updated`
+- `workflow.started`
+- `workflow.completed`
+- `workflow.failed`
+
+**Webhook Payload:**
+```json
+{
+  "event": "workflow.completed",
+  "timestamp": "2024-01-15T10:30:00Z",
+  "data": {
+    "workflow_id": "wf_456",
+    "user_id": "user_123",
+    "status": "completed"
+  }
+}
+```
+
+---
+
+=============================================================================
+DEVELOPMENT SETUP GUIDE
+=============================================================================
+
+# Development Environment Setup
+
+Last Updated: January 10, 2024 | Owner: Sarah Chen
+
+## Prerequisites
+
+Before starting, ensure you have:
+- **Node.js**: v18+ (LTS)
+- **Python**: 3.11+
+- **Docker**: 20.10+
+- **Git**: 2.30+
+- **Azure CLI**: 2.45+ (for cloud resources)
+
+## Initial Setup
+
+### 1. Clone Repository
+
+```bash
+git clone https://dev.azure.com/company/ProjectAlpha/_git/project-alpha
+cd project-alpha
+```
+
+### 2. Install Dependencies
+
+**Backend (Node.js services):**
+```bash
+cd services/backend
+npm install
+```
+
+**Frontend (React):**
+```bash
+cd frontend/web
+npm install
+```
+
+**Python services:**
+```bash
+cd services/workflow-service
+python -m venv venv
+source venv/bin/activate  # or venv\Scripts\activate on Windows
+pip install -r requirements.txt
+```
+
+### 3. Configure Environment
+
+Copy example environment file:
+```bash
+cp .env.example .env
+```
+
+Update `.env` with your local settings:
+```env
+DATABASE_URL=postgresql://localhost:5432/projectalpha
+REDIS_URL=redis://localhost:6379
+JWT_SECRET=your-secret-key-here
+AZURE_STORAGE_CONNECTION_STRING=your-connection-string
+```
+
+### 4. Start Local Dependencies
+
+Using Docker Compose:
+```bash
+docker-compose -f docker-compose.dev.yml up -d
+```
+
+This starts:
+- PostgreSQL (port 5432)
+- Redis (port 6379)
+- MongoDB (port 27017)
+- RabbitMQ (port 5672, management UI: 15672)
+
+### 5. Run Database Migrations
+
+```bash
+cd services/backend
+npm run migrate
+```
+
+### 6. Start Development Servers
+
+**Backend API:**
+```bash
+cd services/backend
+npm run dev  # Starts on http://localhost:3000
+```
+
+**Frontend:**
+```bash
+cd frontend/web
+npm run dev  # Starts on http://localhost:5173
+```
+
+**Workflow Service (Python):**
+```bash
+cd services/workflow-service
+python main.py  # Starts on http://localhost:8000
+```
+
+## Useful Commands
+
+### Database
+
+**Create migration:**
+```bash
+npm run migrate:create -- <migration_name>
+```
+
+**Rollback migration:**
+```bash
+npm run migrate:down
+```
+
+**Seed database:**
+```bash
+npm run seed
+```
+
+### Testing
+
+**Run all tests:**
+```bash
+npm test
+```
+
+**Run with coverage:**
+```bash
+npm run test:coverage
+```
+
+**Run specific test file:**
+```bash
+npm test -- path/to/test.spec.ts
+```
+
+### Linting & Formatting
+
+**Run ESLint:**
+```bash
+npm run lint
+```
+
+**Fix auto-fixable issues:**
+```bash
+npm run lint:fix
+```
+
+**Format code (Prettier):**
+```bash
+npm run format
+```
+
+## Troubleshooting
+
+**Port already in use:**
+```bash
+# Find process using port 3000
+lsof -i :3000  # macOS/Linux
+netstat -ano | findstr :3000  # Windows
+
+# Kill process
+kill -9 <PID>
+```
+
+**Database connection issues:**
+- Ensure Docker containers are running: `docker ps`
+- Check database logs: `docker logs projectalpha-postgres`
+- Verify DATABASE_URL in .env file
+
+**Node modules issues:**
+```bash
+rm -rf node_modules package-lock.json
+npm install
+```
+
+## IDE Setup (VS Code)
+
+Recommended extensions:
+- ESLint
+- Prettier
+- TypeScript
+- Docker
+- GitLens
+
+Workspace settings (`.vscode/settings.json`):
+```json
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "typescript.preferences.importModuleSpecifier": "relative"
+}
+```
+
+---
+
+=============================================================================
+DEPLOYMENT PROCEDURES
+=============================================================================
+
+# Deployment Runbook
+
+Last Updated: January 12, 2024 | Owner: Jessica Martinez
+
+## Deployment Overview
+
+We use Azure DevOps Pipelines for CI/CD. Deployments are automated with
+manual approval gates for production.
+
+## Environments
+
+1. **Development**: Auto-deploys on commit to `develop` branch
+2. **Staging**: Auto-deploys on commit to `staging` branch
+3. **Production**: Manual approval required, deployed from `main` branch
+
+## Deployment Pipeline
+
+### Stage 1: Build & Test
+- Checkout code
+- Install dependencies
+- Run linters (ESLint, Black, golangci-lint)
+- Run unit tests
+- Run integration tests
+- Build Docker images
+- Push images to Azure Container Registry
+
+### Stage 2: Deploy to Environment
+- Pull Docker images
+- Update Kubernetes deployments
+- Run database migrations
+- Health check validation
+- Smoke tests
+
+### Stage 3: Post-Deployment
+- Notify team (Slack)
+- Update deployment log
+- Monitor for errors (30 min observation period)
+
+## Manual Deployment (Emergency)
+
+If pipeline fails, manual deployment:
+
+### 1. Build Docker Image
+
+```bash
+docker build -t projectalpha-backend:latest .
+docker tag projectalpha-backend:latest acr.azurecr.io/projectalpha-backend:v1.2.3
+docker push acr.azurecr.io/projectalpha-backend:v1.2.3
+```
+
+### 2. Update Kubernetes
+
+```bash
+kubectl set image deployment/backend backend=acr.azurecr.io/projectalpha-backend:v1.2.3 -n production
+kubectl rollout status deployment/backend -n production
+```
+
+### 3. Run Migrations
+
+```bash
+kubectl exec -it deployment/backend -n production -- npm run migrate
+```
+
+## Rollback Procedure
+
+If deployment introduces issues:
+
+### 1. Identify Previous Version
+
+```bash
+kubectl rollout history deployment/backend -n production
+```
+
+### 2. Rollback
+
+```bash
+kubectl rollout undo deployment/backend -n production
+```
+
+### 3. Verify
+
+```bash
+kubectl rollout status deployment/backend -n production
+kubectl get pods -n production
+```
+
+## Database Migrations
+
+**Before Deployment:**
+- Review migration scripts
+- Test on staging environment
+- Ensure migrations are backward-compatible
+- Plan rollback strategy
+
+**Destructive Migrations:**
+For breaking changes (column removal, table drops):
+1. Deploy code that doesn't depend on old schema (week 1)
+2. Run migration to remove old schema (week 2)
+
+**Rollback Migrations:**
+Always create down migrations:
+```javascript
+exports.up = async (knex) => {
+  await knex.schema.table('users', (table) => {
+    table.string('phone');
+  });
+};
+
+exports.down = async (knex) => {
+  await knex.schema.table('users', (table) => {
+    table.dropColumn('phone');
+  });
+};
+```
+
+## Deployment Checklist
+
+**Before Deployment:**
+- [ ] All tests passing on CI
+- [ ] Code review approved (2+ approvers)
+- [ ] Staging environment tested
+- [ ] Database migration tested
+- [ ] Release notes prepared
+- [ ] Stakeholders notified
+- [ ] Deployment scheduled (off-peak hours for production)
+
+**During Deployment:**
+- [ ] Monitor deployment pipeline
+- [ ] Watch application logs
+- [ ] Check health endpoints
+- [ ] Verify database migrations completed
+- [ ] Run smoke tests
+
+**After Deployment:**
+- [ ] Monitor error rates (30 min)
+- [ ] Check performance metrics
+- [ ] Validate key features
+- [ ] Update deployment log
+- [ ] Notify team of completion
+- [ ] Close deployment ticket
+
+## Monitoring During Deployment
+
+**Key Metrics:**
+- Response time (should stay < 200ms p95)
+- Error rate (should stay < 0.1%)
+- CPU usage (should stay < 70%)
+- Memory usage (should stay < 80%)
+- Database connections (should not spike)
+
+**Dashboards:**
+- Application Insights: https://portal.azure.com/...
+- Grafana: https://grafana.projectalpha.com
+- Kubernetes Dashboard: https://k8s.projectalpha.com
+
+**Alerts:**
+If any alerts trigger during deployment:
+1. **Investigate immediately**
+2. **Determine if deployment-related**
+3. **Rollback if needed**
+4. **Post incident report**
+
+---
+
+=============================================================================
+INCIDENT RESPONSE RUNBOOK
+=============================================================================
+
+# Incident Response Playbook
+
+Last Updated: January 15, 2024 | Owner: Sarah Chen
+
+## Severity Levels
+
+**SEV-1 (Critical)**: Complete service outage
+- Response Time: < 15 minutes
+- Example: API completely down, database unavailable
+
+**SEV-2 (High)**: Major functionality degraded
+- Response Time: < 1 hour
+- Example: Login failing, key features broken
+
+**SEV-3 (Medium)**: Minor functionality issues
+- Response Time: < 4 hours
+- Example: Non-critical feature degraded
+
+**SEV-4 (Low)**: Minimal impact
+- Response Time: Next business day
+- Example: UI glitch, cosmetic issue
+
+## Incident Response Process
+
+### 1. Detection & Alert
+- Automated monitoring triggers alert
+- On-call engineer receives PagerDuty page
+- Manual report via Slack (#incidents channel)
+
+### 2. Initial Response (within 15 min)
+- Acknowledge alert in PagerDuty
+- Assess severity level
+- Create incident Slack channel: `#incident-YYYY-MM-DD`
+- Post initial status update
+
+### 3. Investigation
+- Check monitoring dashboards
+- Review recent deployments
+- Check application logs
+- Query database for issues
+- Test affected functionality
+
+### 4. Mitigation
+- Implement temporary fix (if possible)
+- Rollback recent deployment (if needed)
+- Scale resources (if capacity issue)
+- Failover to backup (if primary failing)
+
+### 5. Communication
+- Update status page: https://status.projectalpha.com
+- Post updates every 30 minutes
+- Notify customers (if customer-facing issue)
+- Update executive team (SEV-1 only)
+
+### 6. Resolution
+- Implement permanent fix
+- Verify resolution
+- Monitor for 30 minutes
+- Close incident
+
+### 7. Post-Incident
+- Write post-mortem (within 48 hours)
+- Identify root cause
+- Create action items to prevent recurrence
+- Review with team
+
+## Common Incidents
+
+### API Down / Unresponsive
+
+**Symptoms:**
+- 500 errors, timeouts
+- Health check failing
+- No response from API
+
+**Investigation:**
+```bash
+# Check pod status
+kubectl get pods -n production
+
+# Check logs
+kubectl logs -f deployment/backend -n production --tail=100
+
+# Check database connection
+kubectl exec -it deployment/backend -n production -- psql $DATABASE_URL -c "SELECT 1"
+```
+
+**Common Causes:**
+- Database connection pool exhausted
+- Memory leak (OOM kill)
+- Bad deployment
+- External dependency down
+
+**Mitigation:**
+- Rollback deployment if recent
+- Restart pods: `kubectl rollout restart deployment/backend -n production`
+- Scale up pods: `kubectl scale deployment/backend --replicas=6 -n production`
+- Check external dependencies
+
+### Database Issues
+
+**Symptoms:**
+- Slow queries, timeouts
+- Connection errors
+- High CPU/memory on database
+
+**Investigation:**
+```sql
+-- Check active connections
+SELECT COUNT(*) FROM pg_stat_activity;
+
+-- Check slow queries
+SELECT pid, age(clock_timestamp(), query_start), query
+FROM pg_stat_activity
+WHERE state != 'idle' AND query NOT ILIKE '%pg_stat_activity%'
+ORDER BY query_start ASC;
+
+-- Kill long-running query
+SELECT pg_terminate_backend(pid);
+```
+
+**Mitigation:**
+- Kill long-running queries
+- Scale up database (if resource constrained)
+- Add missing indexes
+- Failover to replica (if primary failing)
+
+### High Error Rate
+
+**Symptoms:**
+- Spike in 400/500 errors
+- Error rate above threshold
+
+**Investigation:**
+```bash
+# Check error logs
+kubectl logs deployment/backend -n production | grep ERROR
+
+# Check Application Insights
+# Filter by time range and error type
+```
+
+**Common Causes:**
+- Invalid input from client
+- Third-party API down
+- Bug in recent deployment
+
+**Mitigation:**
+- Identify error pattern
+- Rollback if deployment-related
+- Add input validation
+- Circuit breaker for third-party APIs
+
+## On-Call Rotation
+
+- **Week 1**: Sarah Chen (Primary), David Park (Secondary)
+- **Week 2**: Tom Anderson (Primary), Emily Rodriguez (Secondary)
+- **Week 3**: Jessica Martinez (Primary), Lisa Wong (Secondary)
+
+Rotation updated in PagerDuty: https://projectalpha.pagerduty.com
+
+## Contact Information
+
+**Escalation Path:**
+1. On-call engineer (PagerDuty)
+2. Tech Lead: Sarah Chen
+3. Engineering Manager: Mike Johnson
+4. VP Engineering: Robert Kim
+
+**External Contacts:**
+- Azure Support: 1-800-XXX-XXXX
+- Database Provider: support@dbprovider.com
+
+=============================================================================
+
+Export Date: January 15, 2024
+Exported By: Sarah Chen (Tech Lead)
+Source: Azure DevOps Wiki - Project Alpha

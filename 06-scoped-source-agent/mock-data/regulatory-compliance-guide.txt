@@ -1,0 +1,536 @@
+REGULATORY COMPLIANCE GUIDE
+Industry Regulations and Standards Reference
+Version: 2.1 | Effective Date: January 1, 2024
+Compliance Department
+
+=============================================================================
+TABLE OF CONTENTS
+=============================================================================
+1. Overview
+2. GDPR - General Data Protection Regulation
+3. CCPA - California Consumer Privacy Act
+4. SOX - Sarbanes-Oxley Act
+5. HIPAA - Health Insurance Portability and Accountability Act
+6. PCI-DSS - Payment Card Industry Data Security Standard
+7. SOC 2 - Service Organization Control 2
+8. ISO 27001 - Information Security Management
+9. Compliance Calendar and Deadlines
+10. Roles and Responsibilities
+
+=============================================================================
+1. OVERVIEW
+=============================================================================
+
+PURPOSE:
+This guide provides a comprehensive overview of regulatory requirements
+applicable to our organization, practical compliance measures, and
+responsibilities for maintaining ongoing compliance.
+
+REGULATORY LANDSCAPE:
+Our organization operates across multiple jurisdictions and must comply with:
+✓ Data privacy laws (GDPR, CCPA, PIPEDA)
+✓ Financial regulations (SOX, FINRA)
+✓ Healthcare standards (HIPAA)
+✓ Industry standards (PCI-DSS, ISO 27001, SOC 2)
+
+COMPLIANCE APPROACH:
+- Risk-based: Prioritize high-risk areas
+- Proactive: Regular audits and assessments
+- Documented: Maintain audit trails and evidence
+- Continuous: Ongoing monitoring and improvement
+
+=============================================================================
+2. GDPR - GENERAL DATA PROTECTION REGULATION
+=============================================================================
+
+APPLICABILITY:
+✓ Applies to organizations processing EU residents' personal data
+✓ Applies regardless of organization location
+✓ Includes customers, employees, and website visitors
+
+KEY REQUIREMENTS:
+
+2.1 LAWFUL BASIS FOR PROCESSING
+Must have one of six lawful bases:
+1. Consent: Freely given, specific, informed, unambiguous
+2. Contract: Processing necessary for contract performance
+3. Legal Obligation: Required by law
+4. Vital Interests: Protect life or safety
+5. Public Task: Performing official function
+6. Legitimate Interests: Balancing test required
+
+2.2 DATA SUBJECT RIGHTS
+Individuals have the right to:
+✓ Access: Request copy of their data (respond within 30 days)
+✓ Rectification: Correct inaccurate data
+✓ Erasure: "Right to be forgotten" (with exceptions)
+✓ Restrict Processing: Limit how data is used
+✓ Data Portability: Receive data in machine-readable format
+✓ Object: Object to processing for direct marketing
+✓ Automated Decision-Making: Opt out of profiling
+
+2.3 CONSENT REQUIREMENTS
+Valid consent must be:
+- Freely given (no coercion)
+- Specific (granular, not bundled)
+- Informed (clear language, explain purpose)
+- Unambiguous (affirmative action required)
+- Withdrawable (easy to revoke)
+
+Consent is NOT required for:
+- Contract performance
+- Legal obligations
+- Vital interests
+- Public task
+- Legitimate interests (with balancing test)
+
+2.4 DATA PROTECTION BY DESIGN
+Must implement:
+✓ Privacy Impact Assessments (PIAs) for high-risk processing
+✓ Data minimization (collect only what's necessary)
+✓ Purpose limitation (use data only for stated purpose)
+✓ Storage limitation (delete when no longer needed)
+✓ Security measures (encryption, access controls)
+✓ Pseudonymization and anonymization where possible
+
+2.5 BREACH NOTIFICATION
+Requirements:
+- Notify supervisory authority within 72 hours
+- Notify affected individuals "without undue delay" if high risk
+- Document all breaches (even if not reported)
+- Include: nature of breach, affected data, likely consequences, mitigation
+
+2.6 DATA PROCESSING AGREEMENTS (DPAs)
+Required when using third-party processors. Must include:
+✓ Subject matter and duration of processing
+✓ Nature and purpose of processing
+✓ Type of personal data and categories of data subjects
+✓ Processor obligations (security, confidentiality, subprocessors)
+✓ Data subject rights assistance
+✓ Data return or deletion upon termination
+
+2.7 INTERNATIONAL TRANSFERS
+Transfers outside EU require:
+- Adequacy Decision by EU Commission (e.g., UK, Switzerland)
+- Standard Contractual Clauses (SCCs)
+- Binding Corporate Rules (BCRs) for intra-group transfers
+- Derogations (consent, contract necessity)
+
+2.8 PENALTIES
+Up to €20 million or 4% of global annual turnover (whichever is higher)
+Lower tier: Up to €10 million or 2% of global annual turnover
+
+OUR COMPLIANCE MEASURES:
+✓ Privacy Policy updated with GDPR requirements
+✓ Cookie consent banners on all websites
+✓ Data Subject Request portal (requests@company.com)
+✓ DPO appointed: dpo@company.com
+✓ Records of Processing Activities maintained
+✓ Privacy Impact Assessments conducted for new projects
+✓ DPAs executed with all processors
+✓ Standard Contractual Clauses for international transfers
+
+=============================================================================
+3. CCPA - CALIFORNIA CONSUMER PRIVACY ACT
+=============================================================================
+
+APPLICABILITY:
+✓ Applies to businesses operating in California
+✓ Threshold: $25M+ revenue OR 50K+ consumers OR 50%+ revenue from data sales
+
+KEY REQUIREMENTS:
+
+3.1 CONSUMER RIGHTS
+California residents have the right to:
+✓ Know: What personal information is collected and how it's used
+✓ Delete: Request deletion of personal information
+✓ Opt-Out: Opt out of sale of personal information
+✓ Non-Discrimination: Equal service regardless of privacy choices
+
+3.2 NOTICE REQUIREMENTS
+At or before collection, provide:
+- Categories of personal information collected
+- Purposes for collection
+- Whether information is sold or shared
+- How to submit requests
+- Link to "Do Not Sell My Personal Information" page
+
+3.3 "SALE" DEFINITION
+Broad definition includes:
+- Monetary exchange
+- Sharing for valuable consideration
+- Third-party advertising and analytics may constitute "sale"
+
+3.4 SERVICE PROVIDER REQUIREMENTS
+Contracts must include:
+✓ Purpose limitation (specific business purpose)
+✓ Prohibition on selling personal information
+✓ Prohibition on retaining, using, or disclosing for any purpose other than contract
+✓ Certification of understanding obligations
+
+3.5 RESPONSE TIMELINE
+Consumer requests must be:
+- Acknowledged within 10 days
+- Responded to within 45 days (extendable by 45 days with notice)
+- Free of charge (up to 2 requests per 12 months)
+
+3.6 PENALTIES
+Civil penalties: $2,500 per violation ($7,500 for intentional violations)
+Private right of action: $100-$750 per consumer per incident (data breaches)
+
+OUR COMPLIANCE MEASURES:
+✓ Privacy Policy updated with CCPA disclosures
+✓ "Do Not Sell My Personal Information" link on website
+✓ Consumer request portal (privacy@company.com)
+✓ Contracts with service providers include required language
+✓ Internal processes for verifying consumer requests
+✓ 12-month lookback data available for access requests
+
+=============================================================================
+4. SOX - SARBANES-OXLEY ACT
+=============================================================================
+
+APPLICABILITY:
+✓ Public companies traded on U.S. exchanges
+✓ Subsidiaries and affiliates of public companies
+✓ Accounting firms auditing public companies
+
+KEY REQUIREMENTS:
+
+4.1 SECTION 302: CORPORATE RESPONSIBILITY
+CEO and CFO must certify:
+✓ They reviewed the report
+✓ No untrue statements or omissions
+✓ Financial statements fairly present financial condition
+✓ They are responsible for internal controls
+✓ They disclosed deficiencies to auditors and audit committee
+
+4.2 SECTION 404: INTERNAL CONTROLS
+Management must:
+✓ Assess effectiveness of internal controls over financial reporting
+✓ Document controls and procedures
+✓ Test controls annually
+✓ External auditor must attest to management's assessment
+
+4.3 SECTION 802: CRIMINAL PENALTIES
+Prohibits:
+✗ Destruction, alteration, or falsification of records
+✗ Obstruction of investigations
+Penalties: Up to 20 years imprisonment
+
+4.4 IT CONTROLS
+Key IT general controls (ITGC):
+✓ Access controls: Role-based access, MFA, quarterly access reviews
+✓ Change management: Documented approval, testing, rollback procedures
+✓ Backup and recovery: Regular backups, tested recovery procedures
+✓ Segregation of duties: No single person can execute and approve
+✓ Audit logging: Comprehensive logs retained for 7 years
+
+4.5 DATA RETENTION
+Financial records must be retained for:
+- 7 years: Accounting records, financial statements, audit reports
+- 5 years: Correspondence, internal reports
+- Permanent: Corporate charters, bylaws, board minutes
+
+OUR COMPLIANCE MEASURES:
+✓ Internal Audit team conducts quarterly reviews
+✓ External auditor (Big 4 firm) provides SOC 1 Type II attestation
+✓ IT General Controls documented and tested annually
+✓ Segregation of duties matrix maintained
+✓ Financial systems access reviewed quarterly
+✓ Change management process with approvals and testing
+✓ Audit logs retained for 7 years
+
+=============================================================================
+5. HIPAA - HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT
+=============================================================================
+
+APPLICABILITY:
+✓ Healthcare providers
+✓ Health plans
+✓ Healthcare clearinghouses
+✓ Business associates (service providers to covered entities)
+
+KEY REQUIREMENTS:
+
+5.1 PRIVACY RULE
+Protected Health Information (PHI) includes:
+- 18 identifiers (name, address, dates, SSN, medical record #, etc.)
+- Health information that can be linked to an individual
+
+Minimum Necessary Standard:
+Use, disclose, or request only the minimum necessary PHI for the purpose
+
+Patient Rights:
+✓ Access medical records (within 30 days)
+✓ Request corrections
+✓ Accounting of disclosures
+✓ Request restrictions
+✓ Confidential communications
+
+5.2 SECURITY RULE
+Administrative Safeguards:
+✓ Security management process (risk analysis, risk management)
+✓ Workforce security (authorization, supervision, termination)
+✓ Information access management (authorization, access controls)
+✓ Security awareness training (annual training required)
+✓ Contingency planning (backups, disaster recovery)
+
+Physical Safeguards:
+✓ Facility access controls (badges, locks, visitor logs)
+✓ Workstation security (locked screens, privacy filters)
+✓ Device and media controls (encryption, secure disposal)
+
+Technical Safeguards:
+✓ Access controls (unique user IDs, emergency access, auto-logoff)
+✓ Audit controls (logging, monitoring)
+✓ Integrity controls (ensure data not altered)
+✓ Transmission security (encryption for PHI in transit)
+
+5.3 BREACH NOTIFICATION RULE
+Notify affected individuals within 60 days
+Notify HHS within 60 days (breaches affecting 500+ individuals)
+Notify media for breaches affecting 500+ individuals in a state
+
+5.4 BUSINESS ASSOCIATE AGREEMENTS (BAAs)
+Required when business associate creates, receives, maintains PHI
+Must include:
+✓ Permitted and required uses of PHI
+✓ Prohibition on unauthorized use or disclosure
+✓ Security safeguards
+✓ Breach reporting (within 60 days)
+✓ Subcontractor requirements
+✓ Termination provisions
+
+5.5 PENALTIES
+Civil penalties: $100-$50,000 per violation (max $1.5M per year)
+Criminal penalties: Up to $250,000 fine and 10 years imprisonment
+
+OUR COMPLIANCE MEASURES (if applicable):
+✓ Privacy Officer appointed: privacy@company.com
+✓ Risk assessment completed annually
+✓ PHI encrypted at rest (AES-256) and in transit (TLS 1.3)
+✓ Access controls with unique user IDs and MFA
+✓ Audit logs reviewed quarterly
+✓ Business Associate Agreements with all vendors handling PHI
+✓ Annual HIPAA training for all workforce members
+✓ Breach response plan documented and tested
+
+=============================================================================
+6. PCI-DSS - PAYMENT CARD INDUSTRY DATA SECURITY STANDARD
+=============================================================================
+
+APPLICABILITY:
+✓ Any organization that stores, processes, or transmits cardholder data
+✓ Levels based on transaction volume (Level 1: 6M+ transactions/year)
+
+12 REQUIREMENTS:
+
+Build and Maintain a Secure Network:
+1. Install and maintain firewall configuration
+2. Do not use vendor-supplied defaults (passwords, security parameters)
+
+Protect Cardholder Data:
+3. Protect stored cardholder data (encrypt, tokenize, or don't store)
+4. Encrypt transmission of cardholder data across public networks
+
+Maintain a Vulnerability Management Program:
+5. Use and regularly update anti-virus software
+6. Develop and maintain secure systems and applications
+
+Implement Strong Access Control Measures:
+7. Restrict access to cardholder data by business need-to-know
+8. Assign unique ID to each person with computer access
+9. Restrict physical access to cardholder data
+
+Regularly Monitor and Test Networks:
+10. Track and monitor all access to network resources and cardholder data
+11. Regularly test security systems and processes
+
+Maintain an Information Security Policy:
+12. Maintain policy that addresses information security for employees/contractors
+
+KEY RULES:
+
+Never Store:
+✗ Full magnetic stripe data
+✗ Card verification code (CVV2/CVC2)
+✗ PIN/PIN block
+
+If You Must Store:
+✓ Primary Account Number (PAN): Truncate, tokenize, or encrypt (AES-256)
+✓ Cardholder name: Encrypt or protect
+✓ Expiration date: Encrypt or protect
+
+Tokenization:
+Replace PAN with token (random value) for storage
+Reference original PAN only when needed from secure token vault
+
+3.7 COMPLIANCE VALIDATION
+Level 1: Annual on-site assessment by QSA + quarterly network scans
+Level 2-4: Annual Self-Assessment Questionnaire (SAQ) + quarterly scans
+
+OUR COMPLIANCE MEASURES:
+✓ We DO NOT store cardholder data (use payment gateway)
+✓ Payment provider (Stripe/PayPal) is PCI-DSS Level 1 certified
+✓ We store only tokenized references
+✓ Annual SAQ-A completed (e-commerce, outsourced payment processing)
+✓ Quarterly vulnerability scans by approved vendor
+✓ Secure payment pages (HTTPS, TLS 1.3)
+✓ PCI-DSS policies and procedures documented
+
+=============================================================================
+7. SOC 2 - SERVICE ORGANIZATION CONTROL 2
+=============================================================================
+
+APPLICABILITY:
+Service organizations (SaaS, cloud providers, data centers)
+
+TRUST SERVICES CRITERIA:
+
+Security (required):
+- Access controls (logical and physical)
+- System operations (monitoring, change management)
+- Mitigation of security incidents
+
+Availability (optional):
+- System availability and uptime commitments
+- Disaster recovery and business continuity
+- Performance monitoring
+
+Processing Integrity (optional):
+- Data processing is complete, accurate, timely, authorized
+
+Confidentiality (optional):
+- Information designated as confidential is protected
+
+Privacy (optional):
+- Personal information collected, used, retained, disclosed per commitments
+
+TYPE 1 vs TYPE 2:
+- Type 1: Design of controls at a point in time
+- Type 2: Operating effectiveness over a period (typically 6-12 months)
+
+OUR COMPLIANCE MEASURES:
+✓ Annual SOC 2 Type II report (Security + Availability)
+✓ Big 4 auditor conducts independent assessment
+✓ 12-month observation period
+✓ Controls documented and tested quarterly
+✓ Report available to customers under NDA
+
+=============================================================================
+8. ISO 27001 - INFORMATION SECURITY MANAGEMENT
+=============================================================================
+
+APPLICABILITY:
+Voluntary international standard for information security
+
+REQUIREMENTS:
+
+Information Security Management System (ISMS):
+✓ Context of the organization (stakeholders, requirements)
+✓ Leadership commitment (policies, roles)
+✓ Planning (risk assessment, treatment)
+✓ Support (resources, competence, awareness)
+✓ Operation (implement controls)
+✓ Performance evaluation (monitoring, audits, reviews)
+✓ Improvement (corrective actions, continual improvement)
+
+ANNEX A CONTROLS (114 controls across 14 categories):
+5. Information Security Policies
+6. Organization of Information Security
+7. Human Resource Security
+8. Asset Management
+9. Access Control
+10. Cryptography
+11. Physical and Environmental Security
+12. Operations Security
+13. Communications Security
+14. System Acquisition, Development, and Maintenance
+15. Supplier Relationships
+16. Information Security Incident Management
+17. Business Continuity Management
+18. Compliance
+
+OUR COMPLIANCE MEASURES:
+✓ ISO 27001:2013 certified (recertified annually)
+✓ Certification body: ANAB-accredited registrar
+✓ Statement of Applicability (SoA) documents 114 controls
+✓ Internal audits conducted quarterly
+✓ Management reviews conducted quarterly
+✓ Certificate available on website
+
+=============================================================================
+9. COMPLIANCE CALENDAR AND DEADLINES
+=============================================================================
+
+ANNUAL:
+- January: SOX internal controls testing begins
+- February: HIPAA risk assessment (if applicable)
+- March: PCI-DSS self-assessment questionnaire (SAQ)
+- April: ISO 27001 recertification audit
+- May: GDPR privacy impact assessments for new projects
+- June: SOC 2 Type II audit begins (12-month observation)
+- July: Mid-year compliance review
+- August: Penetration testing
+- September: Business continuity plan testing
+- October: Annual security awareness training
+- November: SOX year-end controls testing
+- December: Data retention review and purge
+
+QUARTERLY:
+- Access reviews (all systems)
+- SOX IT general controls testing
+- Internal security audits
+- Management reviews (ISO 27001)
+- Vulnerability scanning (PCI-DSS)
+
+ONGOING:
+- Data subject requests (GDPR/CCPA): 30-45 day SLA
+- Breach notifications: 72 hours (GDPR), 60 days (HIPAA)
+- Security incident response: Immediate
+- Policy updates: As needed
+
+=============================================================================
+10. ROLES AND RESPONSIBILITIES
+=============================================================================
+
+Chief Compliance Officer (CCO):
+- Overall compliance program ownership
+- Regulatory monitoring and updates
+- Board reporting
+- Contact: cco@company.com
+
+Data Protection Officer (DPO):
+- GDPR/CCPA compliance
+- Data subject requests
+- Privacy impact assessments
+- Contact: dpo@company.com
+
+Chief Information Security Officer (CISO):
+- Technical security controls
+- Incident response
+- Risk management
+- Contact: ciso@company.com
+
+Privacy Officer (HIPAA):
+- HIPAA privacy compliance
+- PHI access controls
+- Breach notification
+- Contact: privacy@company.com
+
+All Employees:
+- Complete annual training
+- Report violations
+- Follow policies and procedures
+- Protect sensitive data
+
+=============================================================================
+QUESTIONS OR CONCERNS?
+=============================================================================
+Compliance Hotline: compliance@company.com | +1-555-0200
+Anonymous Reporting: ethics.company.com
+
+Document Version: 2.1
+Last Updated: January 1, 2024
+Next Review: July 1, 2024

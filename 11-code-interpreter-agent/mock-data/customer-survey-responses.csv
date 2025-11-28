@@ -1,0 +1,41 @@
+survey_id,respondent_id,age_group,region,product_rating,support_rating,value_rating,likelihood_recommend,years_customer,plan_type,monthly_spend,churn_risk,feedback_text
+S001,R1001,25-34,North America,5,5,4,10,2.5,Professional,79,Low,Excellent product! The new features are exactly what we needed.
+S002,R1002,35-44,Europe,4,4,4,8,3.2,Enterprise,119,Low,Very satisfied overall. Support team is responsive and helpful.
+S003,R1003,25-34,Asia Pacific,5,5,5,10,1.8,Professional,79,Low,Best decision we made for our team. Worth every penny.
+S004,R1004,45-54,North America,3,2,3,5,4.5,Enterprise,119,High,Support response time has gotten worse. Considering alternatives.
+S005,R1005,35-44,Europe,4,4,4,7,2.1,Professional,79,Medium,Good product but pricing is a bit steep for small teams.
+S006,R1006,25-34,North America,5,5,5,10,1.2,Starter,49,Low,Love it! Easy to use and great value for the price.
+S007,R1007,55-64,Europe,2,3,2,3,5.3,Professional,79,High,Product has too many bugs. Not as stable as it used to be.
+S008,R1008,35-44,Asia Pacific,4,5,4,8,2.8,Enterprise,119,Low,Support team goes above and beyond. Very impressed.
+S009,R1009,25-34,North America,5,4,5,9,1.5,Professional,79,Low,Great ROI. Helped us streamline our workflow significantly.
+S010,R1010,45-54,Europe,3,3,3,6,3.9,Starter,49,High,Outgrown the Starter plan but Professional is too expensive.
+S011,R1011,35-44,North America,5,5,4,10,2.2,Enterprise,119,Low,Fantastic product! The API integrations are powerful.
+S012,R1012,25-34,Asia Pacific,4,4,4,7,1.9,Professional,79,Medium,Overall good but would like more customization options.
+S013,R1013,55-64,North America,2,2,2,2,6.1,Professional,79,High,Too many recent changes. Preferred the old interface.
+S014,R1014,35-44,Europe,5,5,5,10,3.5,Enterprise,119,Low,Best in class. Would recommend to anyone in our industry.
+S015,R1015,25-34,North America,4,3,4,7,1.1,Starter,49,Medium,Good for beginners but need better documentation.
+S016,R1016,45-54,Asia Pacific,5,5,5,10,4.2,Enterprise,119,Low,Excellent value. The analytics features are outstanding.
+S017,R1017,35-44,Europe,3,4,3,5,2.7,Professional,79,High,Product is fine but competitors offer better pricing.
+S018,R1018,25-34,North America,5,5,5,10,0.8,Professional,79,Low,Just switched from competitor. Should have done it sooner!
+S019,R1019,55-64,Europe,4,4,4,8,4.8,Enterprise,119,Low,Reliable and stable. No major complaints.
+S020,R1020,35-44,Asia Pacific,2,3,2,4,1.6,Starter,49,High,Performance issues during peak hours. Very frustrating.
+S021,R1021,25-34,North America,5,5,4,9,2.9,Professional,79,Low,Love the mobile app! Makes work on-the-go easy.
+S022,R1022,45-54,Europe,4,4,4,8,3.6,Enterprise,119,Low,Solid product. The recent security updates are appreciated.
+S023,R1023,35-44,North America,3,2,3,5,2.3,Professional,79,High,Support tickets take too long to resolve.
+S024,R1024,25-34,Asia Pacific,5,5,5,10,1.4,Enterprise,119,Low,Game changer for our business. Highly recommend!
+S025,R1025,55-64,North America,4,4,3,7,5.7,Professional,79,Medium,Good but getting expensive with annual price increases.
+S026,R1026,35-44,Europe,5,5,5,10,2.5,Enterprise,119,Low,The custom integrations saved us hundreds of hours.
+S027,R1027,25-34,North America,3,3,3,6,1.8,Starter,49,High,Limited features in Starter plan. Need more for the price.
+S028,R1028,45-54,Asia Pacific,5,4,5,9,3.1,Professional,79,Low,Excellent value for money. Very happy customer.
+S029,R1029,35-44,Europe,2,2,2,3,4.2,Professional,79,High,Frequent outages lately. Reliability has decreased.
+S030,R1030,25-34,North America,5,5,5,10,0.6,Professional,79,Low,Onboarding was smooth. Support team is fantastic!
+S031,R1031,55-64,Asia Pacific,4,4,4,7,6.3,Enterprise,119,Low,Long-time customer. Product keeps getting better.
+S032,R1032,35-44,North America,3,3,3,5,2.1,Starter,49,High,Needs more features to compete with alternatives.
+S033,R1033,25-34,Europe,5,5,4,10,1.3,Professional,79,Low,The analytics dashboard is incredibly useful.
+S034,R1034,45-54,North America,4,5,4,8,3.8,Enterprise,119,Low,Great support team. They really care about customers.
+S035,R1035,35-44,Asia Pacific,2,3,2,4,1.9,Professional,79,High,UI is confusing. Steep learning curve for new users.
+S036,R1036,25-34,North America,5,5,5,10,2.7,Enterprise,119,Low,Couldn't run our business without it. Essential tool!
+S037,R1037,55-64,Europe,3,3,3,6,5.1,Professional,79,Medium,Decent product but considering switching for cost reasons.
+S038,R1038,35-44,North America,5,4,5,9,1.7,Professional,79,Low,Great ROI. Paid for itself in the first 6 months.
+S039,R1039,25-34,Asia Pacific,4,4,4,8,2.4,Enterprise,119,Low,Solid product with excellent uptime and reliability.
+S040,R1040,45-54,Europe,2,2,3,3,3.5,Starter,49,High,Too expensive for what you get. Looking at competitors.

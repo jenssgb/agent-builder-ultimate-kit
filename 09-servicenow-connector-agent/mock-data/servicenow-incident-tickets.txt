@@ -1,0 +1,655 @@
+SERVICENOW INCIDENT TICKETS
+IT Service Management | Exported: January 15, 2024
+
+=============================================================================
+INCIDENT INC0012345: Laptop Not Connecting to WiFi
+=============================================================================
+
+Number: INC0012345
+Priority: 3 - Medium
+Status: In Progress
+Category: Hardware > Network
+Subcategory: WiFi Connectivity
+
+Created: January 14, 2024 09:15 AM
+Updated: January 15, 2024 10:30 AM
+Assigned To: David Martinez (Network Support)
+Reported By: Jennifer Adams (Marketing)
+Location: New York Office - 5th Floor
+
+DESCRIPTION:
+My laptop cannot connect to the office WiFi network. It shows the network
+"CompanyWiFi" but when I try to connect, it says "Can't connect to this
+network." This started this morning. I was able to connect yesterday without
+issues. I've restarted my laptop twice but the problem persists.
+
+Device: Dell Latitude 7420
+OS: Windows 11 Pro
+Service Tag: ABC1234
+Employee ID: EMP5678
+
+IMPACT:
+Unable to work from desk. Currently using personal hotspot which is slow
+and consuming my mobile data.
+
+WORK NOTES:
+
+[January 14, 2024 09:45 AM - David Martinez]
+Acknowledged ticket. Asked user to run network diagnostics.
+- Open Command Prompt as administrator
+- Run: ipconfig /release
+- Run: ipconfig /renew
+- Run: netsh wlan show networks
+- Send me screenshot of results
+
+[January 14, 2024 10:15 AM - Jennifer Adams]
+Ran the commands. Attached screenshots. The "netsh wlan show networks"
+shows CompanyWiFi with signal strength "100%" but authentication says
+"WPA2-Enterprise."
+
+[January 14, 2024 11:30 AM - David Martinez]
+Issue identified. Your network profile is corrupted. Solution:
+1. Forget the WiFi network (Settings > Network > WiFi > Manage known networks)
+2. Restart laptop
+3. Reconnect to CompanyWiFi
+4. Use credentials: username@company.com / your password
+Certificate should auto-install
+
+Waiting for user to try solution.
+
+[January 14, 2024 02:00 PM - Jennifer Adams]
+Tried the steps. When I click "Forget" it says "Can't forget this network."
+Error message: "This network is managed by your organization."
+
+[January 14, 2024 02:30 PM - David Martinez]
+Escalating to Tier 2. This requires GPO policy reset. @Alex Kim can you
+take a look?
+
+[January 15, 2024 10:30 AM - Alex Kim]
+Accepted escalation. Will remote into user's machine to fix. Scheduled
+remote session for 2pm today.
+
+RESOLUTION PLAN:
+- Remote into laptop via TeamViewer
+- Clear WiFi profile via registry edit
+- Force Group Policy update
+- Reconnect to network
+- Test connectivity
+
+ETA: Resolved by end of day January 15, 2024
+
+ATTACHMENTS:
+- screenshot_ipconfig.png
+- screenshot_network_list.png
+- network_diagnostics_report.txt
+
+RELATED TICKETS:
+- INC0012301 (similar issue, different user)
+- CHG0005678 (WiFi infrastructure upgrade last week)
+
+---
+
+=============================================================================
+INCIDENT INC0012389: Unable to Access Email on Mobile Device
+=============================================================================
+
+Number: INC0012389
+Priority: 2 - High
+Status: Resolved
+Category: Software > Email
+Subcategory: Mobile Email Access
+
+Created: January 15, 2024 08:00 AM
+Resolved: January 15, 2024 09:45 AM
+Assigned To: Lisa Thompson (Email Support)
+Reported By: Robert Kim (Sales)
+Location: Remote (Chicago, IL)
+
+DESCRIPTION:
+Cannot access company email on my iPhone. Outlook app keeps asking for
+password but when I enter it, it says "Cannot verify account credentials."
+Password works fine on my laptop. This is urgent as I'm traveling and need
+email access for client meetings today.
+
+Device: iPhone 14 Pro
+iOS Version: 17.2
+Outlook App Version: 4.2349.0
+Employee ID: EMP2234
+
+BUSINESS IMPACT: HIGH
+- Missing client emails
+- Have important meeting at 11am
+- Cannot access calendar/contacts
+
+WORK NOTES:
+
+[January 15, 2024 08:10 AM - Lisa Thompson]
+Acknowledged. Checking account status in Exchange Admin Center.
+Account status: Active
+Last sync: January 14, 2024 11:45 PM
+No locks or restrictions on account.
+
+Troubleshooting steps sent to user:
+1. Remove email account from Outlook app
+2. Clear Outlook app cache (Settings > Outlook > Clear Cache)
+3. Reinstall Outlook app from App Store
+4. Re-add account using full email + password
+
+[January 15, 2024 08:30 AM - Robert Kim]
+Tried steps 1-3. When re-adding account, after entering email, it shows
+"Authenticating..." then "Additional authentication required" with a link.
+Link takes me to Microsoft sign-in page.
+
+[January 15, 2024 08:45 AM - Lisa Thompson]
+Good! This is expected. MFA (Multi-Factor Authentication) was enabled on
+your account on January 13th as part of company-wide security rollout.
+
+Next steps:
+1. Complete the sign-in on Microsoft page
+2. Approve MFA request (check for push notification on your phone)
+3. Or enter 6-digit code from authenticator app
+4. Check "Don't ask again for 90 days"
+
+MFA is now required for all mobile email access. See KB0001300 for MFA setup.
+
+[January 15, 2024 09:00 AM - Robert Kim]
+Ah! I see. I never set up MFA. How do I do that?
+
+[January 15, 2024 09:15 AM - Lisa Thompson]
+Sending you direct setup link: https://aka.ms/mfasetup
+
+Short version:
+1. Go to link above from your laptop
+2. Download Microsoft Authenticator app on your iPhone
+3. Follow prompts to scan QR code
+4. Return to Outlook app on phone and retry login
+5. Approve the MFA push notification
+
+This will take about 5 minutes. Let me know if any issues.
+
+[January 15, 2024 09:30 AM - Robert Kim]
+Perfect! MFA setup complete. Outlook now syncing emails. I'm back in
+business. Thank you!
+
+[January 15, 2024 09:45 AM - Lisa Thompson]
+Excellent! Glad it's working. For future reference, you can manage MFA
+settings at https://account.company.com/security
+
+Closing ticket as resolved.
+
+RESOLUTION:
+User needed to set up Multi-Factor Authentication (MFA) which was recently
+made mandatory for mobile email access. Guided user through MFA setup using
+Microsoft Authenticator app. Email access restored.
+
+ROOT CAUSE:
+Company-wide MFA rollout completed January 13, 2024. Users with mobile
+email access require MFA configuration. User had not yet configured MFA.
+
+RESOLUTION TIME: 1 hour 45 minutes
+USER SATISFACTION: 5/5 stars
+Comments: "Fast response and clear instructions. Thank you!"
+
+ATTACHMENTS:
+- mfa_setup_guide.pdf
+
+RELATED TICKETS:
+- INC0012350 through INC0012380 (similar MFA issues)
+- CHG0005700 (MFA Rollout Change Request)
+
+KNOWLEDGE BASE ARTICLE CREATED:
+KB0001450: "Email Not Working After MFA Rollout - Troubleshooting"
+
+---
+
+=============================================================================
+INCIDENT INC0012401: VPN Connection Extremely Slow
+=============================================================================
+
+Number: INC0012401
+Priority: 3 - Medium
+Status: Resolved
+Category: Network > VPN
+Subcategory: Performance
+
+Created: January 12, 2024 02:30 PM
+Resolved: January 13, 2024 10:15 AM
+Assigned To: Network Operations Team
+Reported By: Multiple Users (15 tickets merged)
+Location: Various (Remote users)
+
+DESCRIPTION:
+Multiple users reporting extremely slow VPN connection speeds over the past
+2 days. File transfers taking 10x longer than normal. Video calls dropping
+frequently. Downloads timing out.
+
+REPORTED SYMPTOMS:
+- Normal speed: 50-100 Mbps
+- Current speed: 2-5 Mbps
+- High latency (500-1000ms ping)
+- Frequent disconnections
+- Unable to access file shares
+
+AFFECTED USERS: ~150 users (estimated)
+BUSINESS IMPACT: Productivity significantly degraded for remote workers
+
+WORK NOTES:
+
+[January 12, 2024 03:00 PM - Network Operations Center]
+Incident declared. Severity escalated to Major Incident.
+- Created war room channel: #incident-vpn-slow
+- Engaged network engineering team
+- Began investigation
+
+Initial checks:
+- VPN gateway CPU: 45% (normal)
+- VPN gateway memory: 60% (normal)
+- Active VPN connections: 487 (normal range)
+- Internet bandwidth: 2.5 Gbps / 10 Gbps capacity (within normal)
+
+[January 12, 2024 04:15 PM - Jake Morrison, Network Engineer]
+Found potential issue:
+- VPN tunnel to NYC datacenter showing packet loss (15-20%)
+- Latency increased from 20ms baseline to 500-800ms
+- Suspect ISP routing issue
+
+Actions taken:
+- Contacted ISP (Tier 1 support, ticket #999123)
+- Running continuous ping tests
+- Monitoring tunnel health
+
+[January 12, 2024 06:30 PM - ISP Support]
+ISP confirms routing issue on their backbone network.
+- Fiber cut in Pennsylvania affecting East Coast routes
+- Traffic being rerouted through Chicago (longer path = higher latency)
+- ETA for fiber repair: 12-18 hours
+
+[January 12, 2024 07:00 PM - Jake Morrison]
+Interim solution implemented:
+- Configured secondary VPN tunnel through Dallas datacenter
+- Updated DNS to direct East Coast users to Dallas tunnel
+- West Coast users remain on existing tunnel (unaffected)
+
+Expected improvement: 50-70% (not back to normal, but much better)
+
+[January 12, 2024 08:30 PM - Network Operations Center]
+Monitoring results after tunnel switchover:
+- Average latency: 150ms (improved from 600ms)
+- Speed tests: 15-25 Mbps (improved from 2-5 Mbps)
+- User reports: Noticeably better but still not normal
+- Acceptable interim state while ISP repairs fiber
+
+Status: Incident severity lowered from Major to Minor
+Continuing to monitor. Will restore primary tunnel when ISP completes repair.
+
+[January 13, 2024 10:15 AM - Jake Morrison]
+PRIMARY TUNNEL RESTORED
+- ISP completed fiber repair at 9:30 AM
+- Primary NYC tunnel back online
+- Latency: 22ms (back to baseline)
+- Speed tests: 80-100 Mbps (normal range)
+- Packet loss: 0% (normal)
+
+Actions taken:
+- Switched users back to primary NYC tunnel
+- Validated performance with test users
+- Monitoring for 1 hour to ensure stability
+
+[January 13, 2024 11:00 AM - Network Operations Center]
+All metrics normal for past hour. No user reports of issues.
+
+INCIDENT RESOLVED
+
+ROOT CAUSE:
+ISP fiber cut in Pennsylvania caused routing issues, resulting in high
+latency and packet loss for VPN tunnel to NYC datacenter.
+
+RESOLUTION:
+- Temporary: Switched users to secondary VPN tunnel via Dallas
+- Permanent: Primary tunnel restored after ISP repaired fiber cut
+
+TIMELINE:
+- Incident detected: Jan 12, 2:30 PM
+- ISP engaged: Jan 12, 4:15 PM
+- Interim fix deployed: Jan 12, 7:00 PM
+- Fiber repaired: Jan 13, 9:30 AM
+- Issue resolved: Jan 13, 10:15 AM
+
+Total Downtime (degraded): 20 hours
+Time to Interim Fix: 4.5 hours
+Time to Full Resolution: 19.75 hours
+
+PREVENTION:
+- Already have redundant VPN tunnels (worked as designed)
+- Consider adding tertiary tunnel for additional redundancy
+- Implement proactive ISP circuit monitoring
+
+LESSONS LEARNED:
+✓ Redundancy worked - secondary tunnel prevented complete outage
+✓ Response time good - interim fix in 4.5 hours
+✓ Communication effective - used war room for coordination
+⚠️ Detection delay - issue existed ~1 hour before first ticket
+⚠️ Consider automated failover to secondary tunnel
+
+ACTION ITEMS:
+1. PRB0001234: Evaluate automated VPN tunnel failover
+2. CHG0005789: Add tertiary VPN tunnel (West Coast)
+3. KB0001500: Create "VPN Slow Performance" troubleshooting guide
+
+AFFECTED USERS: ~150
+USER SATISFACTION: 4.2/5 (avg from 42 responses)
+Comments: "Good communication, but wish it was faster"
+
+ATTACHMENTS:
+- vpn_performance_graphs.pdf
+- isp_trouble_ticket_999123.pdf
+- war_room_chat_logs.txt
+
+RELATED TICKETS:
+- INC0012402 through INC0012415 (merged duplicates)
+- PRB0001234 (Problem - investigate automated failover)
+
+---
+
+=============================================================================
+INCIDENT INC0012450: Software Center Not Loading
+=============================================================================
+
+Number: INC0012450
+Priority: 4 - Low
+Status: Resolved
+Category: Software > Software Center
+Subcategory: Application Error
+
+Created: January 14, 2024 03:15 PM
+Resolved: January 14, 2024 03:45 PM
+Assigned To: Desktop Support (Auto-resolved)
+Reported By: Maria Gonzalez (Finance)
+Location: San Francisco Office
+
+DESCRIPTION:
+When I try to open Software Center on my laptop, I get a spinning wheel
+for about 30 seconds then it closes. I need to install Adobe Acrobat
+Reader for a report I'm working on.
+
+Device: Lenovo ThinkPad T14
+OS: Windows 11 Enterprise
+Employee ID: EMP9876
+
+WORK NOTES:
+
+[January 14, 2024 03:15 PM - Automated Response]
+Thank you for contacting IT Support. We've received your ticket and are
+working on it.
+
+Have you tried these common solutions?
+1. Restart your computer
+2. Clear Software Center cache
+3. Check for Windows updates
+
+Please try these and update the ticket if issue persists.
+
+[January 14, 2024 03:30 PM - Maria Gonzalez]
+I restarted my computer and now Software Center is working! I was able
+to install Adobe Reader. Issue resolved. Thank you!
+
+[January 14, 2024 03:45 PM - System]
+Ticket auto-closed. User confirmed resolution.
+
+RESOLUTION:
+User restarted computer and Software Center began working normally.
+Common cause: Windows service may have been stuck and restart cleared it.
+
+ROOT CAUSE:
+ccmexec.exe service (SCCM client) was likely hung. Computer restart
+automatically resolved the issue.
+
+RESOLUTION TIME: 30 minutes (self-service)
+USER SATISFACTION: 5/5 stars
+
+RELATED ARTICLES:
+- KB0001405: Software Center Troubleshooting Guide
+- KB0001400: Requesting New Software Installation
+
+---
+
+=============================================================================
+INCIDENT INC0012475: Forgot Password - Account Locked
+=============================================================================
+
+Number: INC0012475
+Priority: 2 - High
+Status: Resolved
+Category: Account > Password
+Subcategory: Account Lockout
+
+Created: January 15, 2024 07:00 AM
+Resolved: January 15, 2024 07:15 AM
+Assigned To: Service Desk (Tier 1)
+Reported By: Thomas Brown (Operations)
+Location: London Office
+
+DESCRIPTION:
+URGENT: I forgot my password and tried to reset it but entered the wrong
+verification code 3 times. Now my account is locked and I can't access
+anything. I have an important presentation at 8am (in 1 hour). Please help!
+
+Employee ID: EMP4321
+Username: thomas.brown@company.com
+
+WORK NOTES:
+
+[January 15, 2024 07:03 AM - Service Desk Agent Sarah]
+Acknowledged. Verifying identity.
+
+Identity Verification Questions:
+Q: Last 4 digits of employee ID?
+A: 4321 ✓
+Q: Date of birth? (MM/DD)
+A: 03/15 ✓
+Q: Manager's name?
+A: James Wilson ✓
+
+Identity confirmed.
+
+[January 15, 2024 07:05 AM - Service Desk Agent Sarah]
+Unlocking account in Active Directory...
+- Account unlocked ✓
+- Password expiry extended 24 hours ✓
+- Sent temporary password to verified personal email ✓
+
+Temporary password: TempPass2024!
+(Will expire in 24 hours - must change at next login)
+
+Instructions sent to user:
+1. Go to https://account.company.com
+2. Login with temporary password
+3. System will prompt to create new password
+4. Follow password requirements (12+ chars, etc.)
+5. Save new password in password manager
+
+[January 15, 2024 07:10 AM - Thomas Brown]
+Got the temporary password. Successfully changed my password. I'm back in!
+Thank you so much! Crisis averted! :)
+
+[January 15, 2024 07:15 AM - Service Desk Agent Sarah]
+Excellent! Glad you're back up and running. Good luck with your presentation!
+
+Pro tip: Set up Multi-Factor Authentication (MFA) to make password resets
+easier in the future. See KB0001300 for instructions.
+
+Closing ticket as resolved.
+
+RESOLUTION:
+User account was locked due to multiple failed password reset attempts.
+Service desk verified identity and unlocked account. Provided temporary
+password via personal email. User successfully changed password and
+regained access.
+
+ROOT CAUSE:
+User forgot password and entered incorrect verification codes multiple
+times, triggering automatic account lockout (security feature).
+
+RESOLUTION TIME: 15 minutes
+USER SATISFACTION: 5/5 stars
+Comments: "Super fast response! Saved my morning!"
+
+SECURITY NOTES:
+- Identity properly verified before unlocking account
+- Temporary password sent to registered personal email (not work email)
+- User successfully changed password
+- No security concerns
+
+RELATED ARTICLES:
+- KB0001234: How to Reset Your Password
+- KB0001300: Setting Up Multi-Factor Authentication
+- KB0001235: Password Best Practices
+
+---
+
+=============================================================================
+INCIDENT INC0012500: Printer Not Working - Urgent Report Needed
+=============================================================================
+
+Number: INC0012500
+Priority: 3 - Medium
+Status: Resolved
+Category: Hardware > Printer
+Subcategory: Print Job Stuck
+
+Created: January 15, 2024 11:00 AM
+Resolved: January 15, 2024 11:30 AM
+Assigned To: Facilities/IT
+Reported By: Department: Legal
+Location: Boston Office - 3rd Floor - Legal Department
+
+DESCRIPTION:
+Printer "Legal-Floor3-HP01" is not printing. Multiple people have sent
+print jobs but nothing is coming out. Printer screen shows "Ready" but
+no activity. We have urgent contracts that need to be printed and signed
+by noon today.
+
+Printer Model: HP LaserJet Enterprise M607
+Asset Tag: PRN-BOS-301
+Location: 3rd Floor Legal Copy Room
+
+URGENCY: Multiple users affected, business-critical documents
+
+WORK NOTES:
+
+[January 15, 2024 11:05 AM - Facilities Support]
+Acknowledged. Dispatching technician to 3rd floor.
+
+[January 15, 2024 11:10 AM - Tech Mike Williams]
+On-site. Checking printer status:
+- Printer powered on ✓
+- Network cable connected ✓
+- Display shows "Ready" ✓
+- Ping test: Successful ✓
+- Print test page: Works! ✓
+
+Issue: Print queue on Windows print server has 23 stuck jobs.
+Jobs are from yesterday and blocking new jobs.
+
+[January 15, 2024 11:15 AM - Tech Mike Williams]
+Solution:
+- Logged into print server: printserver02.company.local
+- Opened print queue for Legal-Floor3-HP01
+- Cancelled all stuck jobs (23 jobs cleared)
+- Restarted print spooler service on server
+- Sent test print: Success!
+
+Asking users to resend their print jobs.
+
+[January 15, 2024 11:20 AM - Legal Department]
+Resent our print jobs. Documents printing now! Thank you!
+
+[January 15, 2024 11:30 AM - Tech Mike Williams]
+Confirmed: All new print jobs processing normally.
+- Print queue: 0 stuck jobs
+- Multiple users successfully printing
+- Printer functioning normally
+
+Issue resolved.
+
+RESOLUTION:
+Print queue on Windows print server had 23 stuck jobs from previous day,
+blocking all new print jobs. Cleared stuck jobs and restarted print
+spooler service. Printer resumed normal operation.
+
+ROOT CAUSE:
+Print spooler service on Windows print server hung, causing jobs to
+get stuck in queue. Likely caused by a corrupted print job or network
+interruption yesterday.
+
+PREVENTION:
+- Implement automated print queue monitoring
+- Auto-restart print spooler if hung (Task Scheduler)
+- User training: Don't print massive files (split into smaller jobs)
+
+RESOLUTION TIME: 30 minutes
+USERS AFFECTED: ~15 (Legal department)
+USER SATISFACTION: 5/5 stars
+
+ACTION ITEMS:
+- Add automated monitoring for print server
+- Document procedure in KB for future reference
+- Consider upgrading print server (currently Windows Server 2016)
+
+ATTACHMENTS:
+- print_queue_screenshot.png
+- printer_test_page.pdf
+
+RELATED ARTICLES:
+- KB0001600: Printer Troubleshooting Guide
+- KB0001605: How to Print from Mac/PC
+- KB0001610: Clearing Print Queue (User Guide)
+
+---
+
+=============================================================================
+INCIDENT SUMMARY REPORT
+=============================================================================
+
+Export Date: January 15, 2024
+Time Period: January 12-15, 2024
+Total Incidents: 6 (sample)
+
+BY PRIORITY:
+- Priority 1 (Critical): 0
+- Priority 2 (High): 2 (33%)
+- Priority 3 (Medium): 3 (50%)
+- Priority 4 (Low): 1 (17%)
+
+BY STATUS:
+- Resolved: 5 (83%)
+- In Progress: 1 (17%)
+- New: 0
+
+AVERAGE RESOLUTION TIME:
+- Priority 2 (High): 1 hour 30 minutes
+- Priority 3 (Medium): 7 hours
+- Priority 4 (Low): 30 minutes
+- Overall Average: 3 hours 15 minutes
+
+USER SATISFACTION:
+- Average Rating: 4.7/5 stars
+- Response Rate: 85% (users providing feedback)
+
+COMMON ISSUES:
+1. Password/Account Issues (33%)
+2. Network/VPN (33%)
+3. Hardware (Printer) (17%)
+4. Email/Mobile (17%)
+
+TOP RESOLUTION METHODS:
+1. Self-service (restart, clear cache): 40%
+2. Remote support: 35%
+3. Password reset: 15%
+4. On-site support: 10%
+
+---
+
+Export Complete
+Source: ServiceNow ITSM Platform
+Report Generated By: Service Desk Manager

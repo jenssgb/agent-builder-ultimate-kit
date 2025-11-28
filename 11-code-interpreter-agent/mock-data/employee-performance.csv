@@ -1,0 +1,41 @@
+employee_id,department,job_level,years_at_company,performance_rating,salary,bonus,satisfaction_score,engagement_score,turnover_risk,last_promotion_date,training_hours,skills_assessment,manager_rating
+EMP001,Engineering,Senior,6.5,Exceeds,145000,18000,4.5,4.7,Low,2022-06-15,42,Advanced,Excellent
+EMP002,Engineering,Mid,5.2,Exceeds,115000,12000,4.3,4.5,Low,2023-01-10,38,Advanced,Excellent
+EMP003,Engineering,Mid,4.8,Meets,98000,8000,4.1,4.2,Medium,2022-09-20,35,Intermediate,Good
+EMP004,Product,Senior,5.3,Exceeds,135000,16000,4.6,4.8,Low,2022-11-05,40,Advanced,Excellent
+EMP005,Engineering,Mid,4.4,Exceeds,105000,10000,4.4,4.6,Low,2023-05-12,45,Advanced,Excellent
+EMP006,Product,Executive,7.2,Outstanding,185000,35000,4.8,4.9,Low,2021-03-20,38,Expert,Outstanding
+EMP007,IT,Senior,5.6,Meets,120000,10000,3.9,4.0,Medium,2022-07-18,32,Advanced,Good
+EMP008,IT,Senior,6.4,Exceeds,140000,17000,4.5,4.6,Low,2021-12-10,44,Advanced,Excellent
+EMP009,Engineering,Mid,3.6,Meets,95000,7000,4.0,4.1,Medium,2023-08-05,28,Intermediate,Good
+EMP010,Engineering,Mid,3.3,Exceeds,100000,9000,4.2,4.4,Low,2024-02-15,36,Intermediate,Good
+EMP011,Engineering,Senior,6.3,Exceeds,150000,19000,4.7,4.8,Low,2021-10-12,48,Expert,Excellent
+EMP012,Engineering,Mid,3.9,Meets,98000,8000,3.8,3.9,High,2023-03-20,25,Intermediate,Fair
+EMP013,Engineering,Mid,3.4,Meets,92000,6000,3.7,3.8,High,Never,22,Beginner,Fair
+EMP014,IT,Senior,5.2,Exceeds,138000,16000,4.6,4.7,Low,2022-04-08,50,Expert,Excellent
+EMP015,Finance,Executive,7.8,Outstanding,195000,40000,4.9,4.9,Low,2020-08-15,35,Expert,Outstanding
+EMP016,Marketing,Executive,6.2,Exceeds,165000,25000,4.5,4.6,Low,2021-11-22,38,Advanced,Excellent
+EMP017,Sales,Executive,7.4,Outstanding,175000,45000,4.7,4.8,Low,2020-12-05,40,Expert,Outstanding
+EMP018,Legal,Executive,6.5,Exceeds,180000,28000,4.6,4.7,Low,2021-06-18,32,Expert,Excellent
+EMP019,Customer Success,Mid,4.7,Exceeds,95000,10000,4.3,4.5,Low,2022-08-12,42,Advanced,Excellent
+EMP020,Customer Success,Executive,7.1,Exceeds,155000,22000,4.6,4.7,Low,2021-02-28,36,Advanced,Excellent
+EMP021,Engineering,Senior,5.5,Meets,128000,12000,4.0,4.1,Medium,2022-05-20,30,Advanced,Good
+EMP022,Product,Senior,4.2,Exceeds,125000,15000,4.4,4.6,Low,2023-04-10,44,Advanced,Excellent
+EMP023,Product,Mid,3.8,Meets,88000,7000,3.9,4.0,Medium,2024-01-15,28,Intermediate,Good
+EMP024,IT,Mid,3.1,Meets,85000,6000,3.8,3.9,High,Never,24,Intermediate,Fair
+EMP025,Human Resources,Senior,5.0,Exceeds,105000,11000,4.4,4.5,Low,2022-10-05,38,Advanced,Excellent
+EMP026,Marketing,Mid,4.0,Meets,92000,8000,4.0,4.1,Medium,2023-06-20,32,Intermediate,Good
+EMP027,Sales,Junior,2.6,Meets,68000,8000,3.9,4.0,Medium,2024-03-01,26,Beginner,Good
+EMP028,Sales,Mid,3.4,Exceeds,95000,18000,4.3,4.5,Low,2023-11-10,35,Intermediate,Excellent
+EMP029,Customer Success,Junior,2.9,Meets,72000,5000,4.1,4.2,Medium,Never,30,Intermediate,Good
+EMP030,Finance,Mid,3.9,Meets,88000,7000,3.9,4.0,Medium,2023-07-15,28,Intermediate,Good
+EMP031,Finance,Senior,4.9,Exceeds,115000,13000,4.3,4.4,Low,2022-12-08,36,Advanced,Excellent
+EMP032,Product,Mid,3.2,Meets,90000,7000,3.8,3.9,High,2024-04-10,24,Intermediate,Fair
+EMP033,Product,Mid,2.8,Meets,82000,6000,3.7,3.8,High,Never,20,Beginner,Fair
+EMP034,IT,Junior,2.9,Meets,70000,5000,3.9,4.0,Medium,Never,32,Intermediate,Good
+EMP035,Human Resources,Mid,4.3,Exceeds,95000,9000,4.2,4.4,Low,2023-02-18,40,Advanced,Good
+EMP036,Sales,Senior,4.8,Exceeds,125000,28000,4.5,4.6,Low,2022-09-05,38,Advanced,Excellent
+EMP037,Marketing,Senior,4.1,Meets,105000,11000,4.1,4.2,Medium,2023-05-20,34,Advanced,Good
+EMP038,IT,Mid,3.5,Meets,92000,7000,3.8,3.9,High,2023-10-15,26,Intermediate,Fair
+EMP039,Operations,Mid,5.4,Meets,88000,7000,4.0,4.1,Medium,2022-03-12,30,Intermediate,Good
+EMP040,Executive,Executive,8.8,Outstanding,275000,75000,4.9,5.0,Low,2019-06-01,32,Expert,Outstanding

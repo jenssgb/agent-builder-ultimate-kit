@@ -1,0 +1,29 @@
+quarter,product_line,region,revenue,units_sold,avg_deal_size,win_rate_percent,pipeline_value,sales_cycle_days,top_competitor
+Q1-2024,Enterprise Cloud,North America,2850000,145,19655,42,6500000,87,Competitor A
+Q1-2024,Analytics Pro,North America,895000,289,3098,38,2100000,45,Competitor B
+Q1-2024,Mobile Builder,Europe,678000,423,1603,35,1800000,32,Competitor C
+Q1-2024,API Gateway,North America,725000,178,4073,40,1900000,52,Competitor A
+Q1-2024,Security Pack,North America,580000,92,6304,44,1500000,68,Competitor D
+Q1-2024,Data Integration,Europe,590000,201,2935,36,1600000,41,Competitor B
+Q1-2024,Workflow Auto,Asia Pacific,512000,334,1533,33,1400000,28,Competitor C
+Q2-2024,Enterprise Cloud,Europe,3120000,167,18683,45,7200000,82,Competitor A
+Q2-2024,Analytics Pro,North America,985000,312,3157,40,2400000,43,Competitor B
+Q2-2024,Mobile Builder,Asia Pacific,745000,445,1674,37,2000000,30,Competitor C
+Q2-2024,API Gateway,Europe,798000,189,4222,42,2100000,49,Competitor A
+Q2-2024,Security Pack,North America,648000,103,6291,46,1700000,65,Competitor D
+Q2-2024,Data Integration,North America,712000,223,3193,38,1900000,39,Competitor B
+Q2-2024,Workflow Auto,Europe,598000,378,1582,35,1600000,27,Competitor C
+Q3-2024,Enterprise Cloud,North America,3456000,189,18286,48,8100000,78,Competitor A
+Q3-2024,Analytics Pro,Asia Pacific,1125000,334,3368,42,2800000,41,Competitor B
+Q3-2024,Mobile Builder,Europe,812000,489,1661,39,2300000,29,Competitor C
+Q3-2024,API Gateway,North America,895000,201,4453,44,2400000,47,Competitor A
+Q3-2024,Security Pack,North America,720000,115,6261,48,1900000,62,Competitor D
+Q3-2024,Data Integration,Europe,798000,245,3257,40,2100000,38,Competitor B
+Q3-2024,Workflow Auto,Asia Pacific,678000,412,1646,37,1800000,26,Competitor C
+Q4-2024,Enterprise Cloud,Asia Pacific,3890000,201,19353,51,9500000,74,Competitor A
+Q4-2024,Analytics Pro,Europe,1245000,356,3497,44,3200000,40,Competitor B
+Q4-2024,Mobile Builder,North America,895000,523,1712,41,2600000,28,Competitor C
+Q4-2024,API Gateway,North America,1012000,215,4707,46,2800000,45,Competitor A
+Q4-2024,Security Pack,North America,812000,127,6394,50,2200000,60,Competitor D
+Q4-2024,Data Integration,North America,890000,267,3333,42,2400000,37,Competitor B
+Q4-2024,Workflow Auto,Europe,745000,456,1634,39,2000000,25,Competitor C

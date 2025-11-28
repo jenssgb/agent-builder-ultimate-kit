@@ -1,0 +1,408 @@
+# CONTOSO REMOTE WORK POLICY
+
+**Policy Number**: HR-POL-2024-008  
+**Effective Date**: January 1, 2024  
+**Last Revised**: January 1, 2024  
+**Owner**: Human Resources Department  
+**Approved By**: Chief People Officer
+
+---
+
+## 1. Purpose and Scope
+
+This policy establishes guidelines for remote work arrangements at Contoso Corporation. It applies to all full-time and part-time employees who have completed their probationary period and whose roles are suitable for remote work.
+
+**Policy Objective**: To provide flexible work arrangements that support work-life balance, increase productivity, and reduce environmental impact while maintaining business operations and team collaboration.
+
+---
+
+## 2. Eligibility Criteria
+
+### 2.1 Employee Requirements
+Employees must meet ALL of the following criteria to be eligible for remote work:
+
+✅ **Tenure**: Completed 90-day probationary period  
+✅ **Performance**: Met or exceeded performance expectations in last review  
+✅ **Role Suitability**: Job responsibilities can be performed remotely  
+✅ **Manager Approval**: Direct supervisor has approved remote work arrangement  
+✅ **Technology**: Has reliable internet and appropriate home workspace
+
+### 2.2 Role Suitability Assessment
+**Suitable Roles** (examples):
+- Software developers and engineers
+- Data analysts and scientists
+- Content writers and designers
+- Customer support representatives
+- Project managers
+- Sales representatives
+
+**Unsuitable Roles** (examples):
+- Facilities and maintenance staff
+- Reception and mail room staff
+- Roles requiring specialized on-site equipment
+- Positions with regular in-person customer interactions
+- Lab technicians and researchers
+
+### 2.3 Ineligibility Factors
+Remote work may be denied or revoked if:
+- Performance issues or concerns exist
+- Role requires frequent in-person collaboration
+- Security or confidentiality concerns
+- Business continuity requirements
+- Inadequate home workspace or technology
+
+---
+
+## 3. Remote Work Arrangements
+
+### 3.1 Hybrid Remote Work
+**Definition**: Combination of in-office and remote work days
+
+**Standard Hybrid Schedule**:
+- **2 days in office** + **3 days remote** per week (most common)
+- **3 days in office** + **2 days remote** per week (collaboration-focused roles)
+- **1 day in office** + **4 days remote** per week (independent contributor roles)
+
+**In-Office Days**:
+- Typical in-office days: Tuesday, Wednesday, Thursday (team collaboration days)
+- Flexible days: Monday and Friday (common remote days)
+- Must attend mandatory team meetings and events
+
+### 3.2 Full Remote Work
+**Definition**: Work from home 100% of the time
+
+**Requirements**:
+- Role has minimal need for in-person collaboration
+- Employee has demonstrated strong remote work performance
+- Manager and skip-level manager approval required
+- Must travel to office for quarterly meetings and annual events
+- May be location-dependent (must reside within country of employment)
+
+**Travel Expectations**:
+- Quarterly in-person team meetings (1-2 days)
+- Annual company gatherings (3-5 days)
+- Project-specific meetings as needed
+- Travel expenses covered by company
+
+### 3.3 Flexible Remote Work
+**Definition**: Variable schedule based on business needs
+
+**Usage**:
+- Ad-hoc remote days with manager approval
+- Available to all eligible employees
+- Minimum 24-hour notice preferred
+- Ideal for appointments, home deliveries, or focused work time
+
+---
+
+## 4. Technology and Equipment
+
+### 4.1 Company-Provided Equipment
+All remote employees receive:
+
+✅ **Laptop** (Windows or Mac based on role)  
+✅ **Docking station** (for dual monitor setup)  
+✅ **Monitor** (24" or 27", one monitor standard, second upon request)  
+✅ **Keyboard and mouse** (wireless)  
+✅ **Headset with microphone** (noise-canceling)  
+✅ **Webcam** (HD quality, if laptop camera insufficient)  
+✅ **Phone** (mobile device or VoIP softphone)
+
+### 4.2 Home Office Stipend
+**One-Time Setup Allowance**: $500
+
+Can be used for:
+- Ergonomic office chair
+- Desk or standing desk converter
+- Monitor arm or laptop stand
+- Lighting or acoustic improvements
+- Printer (if role requires)
+
+**Process**: Submit receipts to HR for reimbursement within first 90 days of remote work approval.
+
+### 4.3 Recurring Allowances
+**Internet Reimbursement**: $50 per month (requires proof of service)  
+**Phone Reimbursement**: $30 per month (if using personal phone for work)  
+**Utilities**: Not reimbursed
+
+**Submission**: Use expense report system monthly with supporting documentation.
+
+### 4.4 Technical Requirements
+
+**Minimum Internet Speed**:
+- Download: 25 Mbps minimum, 50 Mbps recommended
+- Upload: 10 Mbps minimum, 25 Mbps recommended
+- Ping/Latency: Under 50ms preferred
+
+**Network Security**:
+- Secure WiFi with WPA2 or WPA3 encryption
+- Separate network from guest devices (recommended)
+- VPN required for accessing internal systems
+- Do not work from public WiFi networks
+
+---
+
+## 5. Workspace Requirements
+
+### 5.1 Home Office Standards
+Remote employees must maintain a dedicated workspace that is:
+
+✅ **Quiet**: Free from excessive noise and distractions  
+✅ **Private**: Confidential conversations can be conducted  
+✅ **Well-lit**: Adequate lighting for video calls  
+✅ **Ergonomic**: Proper desk and chair setup  
+✅ **Safe**: Free from hazards, meets basic safety standards
+
+### 5.2 Video Call Background
+- Professional background (plain wall, bookshelf, or virtual background)
+- No inappropriate or distracting items visible
+- Good lighting (face clearly visible)
+- Professional appearance required for client-facing calls
+
+### 5.3 Workspace Inspection
+- Company reserves right to request photos of home workspace
+- May be required for safety or ergonomic assessment
+- Facilities team can provide ergonomic consultation
+
+---
+
+## 6. Work Hours and Availability
+
+### 6.1 Core Hours
+**Required Availability**: 10:00 AM - 3:00 PM local time (Monday-Friday)
+
+During core hours, employees must:
+- Be available for meetings and calls
+- Respond to messages within 15 minutes
+- Have video capability for scheduled meetings
+- Be actively working (not running errands or personal tasks)
+
+### 6.2 Flexible Hours
+- Start time: Between 7:00 AM - 10:00 AM
+- End time: Between 4:00 PM - 7:00 PM
+- Total: 8 hours work + 30-60 min lunch break
+- Document schedule in Outlook calendar
+
+### 6.3 Status and Availability
+**Teams Status Management**:
+- Set status to "Available" during work hours
+- Set status to "In a meeting" when busy
+- Set status to "Do not disturb" for focused work (max 2 hours)
+- Set status to "Away" for lunch or breaks
+- Set status to "Off work" outside business hours
+
+**Calendar Management**:
+- Keep Outlook calendar updated
+- Block focus time for deep work
+- Accept/decline meeting invitations promptly
+- Mark working location: "Office" or "Remote"
+
+---
+
+## 7. Communication and Collaboration
+
+### 7.1 Communication Expectations
+- **Email**: Respond within 4 business hours
+- **Teams Chat**: Respond within 15 minutes during core hours
+- **Phone/Video Calls**: Answer promptly during core hours
+- **Voicemail**: Return calls within 4 business hours
+
+### 7.2 Meeting Etiquette
+**Video Calls**:
+- Camera ON for team meetings and one-on-ones
+- Camera optional for large department meetings (50+ people)
+- Professional appearance (business casual minimum)
+- Mute when not speaking
+- Test audio/video before important meetings
+
+**Meeting Participation**:
+- Join meetings on time
+- Minimize multitasking
+- Contribute actively to discussions
+- Take notes or use meeting transcription
+- Follow up on action items
+
+### 7.3 Team Collaboration
+- Use Teams channels for team discussions
+- Use SharePoint for document collaboration
+- Attend team-building activities (virtual or in-person)
+- Maintain regular check-ins with manager (weekly minimum)
+
+---
+
+## 8. Performance and Accountability
+
+### 8.1 Performance Expectations
+Remote employees are held to the same performance standards as office-based employees:
+
+- Meet all deadlines and commitments
+- Maintain quality of work
+- Achieve performance goals and objectives
+- Participate in team activities
+- Complete required training
+
+### 8.2 Productivity Monitoring
+- Performance measured by results and outcomes, not hours logged
+- Regular check-ins with manager (weekly or bi-weekly)
+- Use of project management tools for transparency
+- Time tracking required for certain roles (e.g., billable hours)
+
+### 8.3 Performance Issues
+If performance concerns arise:
+1. Manager schedules discussion meeting
+2. Performance improvement plan may be implemented
+3. Remote work privileges may be temporarily suspended
+4. Return to full-time office work may be required
+
+---
+
+## 9. Security and Confidentiality
+
+### 9.1 Data Protection
+- Use company-provided VPN for all work activities
+- Do not store confidential data on personal devices
+- Lock computer when stepping away (Windows + L or Cmd + Ctrl + Q)
+- Use screen privacy filter for work in public spaces
+- Shred confidential documents or return to office for secure disposal
+
+### 9.2 Physical Security
+- Keep company equipment secure and locked when not in use
+- Do not allow family members or visitors to use company devices
+- Report lost or stolen equipment immediately (within 2 hours)
+- Do not leave equipment visible in vehicles
+
+### 9.3 Confidential Conversations
+- Ensure privacy for confidential calls and meetings
+- Use headphones for sensitive conversations
+- Close doors or move to private space as needed
+- Do not discuss confidential matters in public spaces
+
+---
+
+## 10. Health and Safety
+
+### 10.1 Ergonomics
+- Set up workstation according to ergonomic guidelines (see HR portal)
+- Take regular breaks (5 minutes every hour, 30 minutes every 4 hours)
+- Use proper posture and positioning
+- Request ergonomic assessment if experiencing discomfort (contact HR)
+
+### 10.2 Injury Reporting
+- Report work-related injuries immediately to manager and HR
+- Complete incident report within 24 hours
+- Workers' compensation covers home office injuries during work hours
+- Document circumstances and take photos if applicable
+
+### 10.3 Mental Health and Wellbeing
+- Maintain work-life boundaries (end work at designated time)
+- Take regular breaks and use vacation time
+- Stay connected with team members
+- Access Employee Assistance Program (EAP) if needed: 1-800-555-0123
+
+---
+
+## 11. Approval Process
+
+### 11.1 How to Request Remote Work
+
+**Step 1**: Discuss with your manager
+- Explain desired arrangement (hybrid, full remote, flexible)
+- Confirm role suitability and business needs
+
+**Step 2**: Complete Remote Work Request Form
+- Access form on HR portal
+- Provide details of requested arrangement
+- Describe home workspace setup
+
+**Step 3**: Manager Review and Approval
+- Manager evaluates request against eligibility criteria
+- May request additional information or workspace photos
+- Approval decision within 5 business days
+
+**Step 4**: HR Processing
+- HR reviews and processes approved requests
+- IT provisions equipment and access
+- Schedule equipment pickup or delivery
+
+**Step 5**: Begin Remote Work
+- Attend remote work orientation session
+- Sign remote work agreement
+- Receive equipment and setup support
+
+### 11.2 Trial Period
+- Initial 90-day trial period for all new remote work arrangements
+- Manager and employee evaluate effectiveness
+- Adjustments made as needed
+- Arrangement may be modified or terminated if not working
+
+---
+
+## 12. Policy Compliance and Enforcement
+
+### 12.1 Employee Responsibilities
+- Comply with all terms of remote work agreement
+- Maintain professional standards and productivity
+- Communicate proactively with manager and team
+- Report any issues or concerns promptly
+- Participate in required training and meetings
+
+### 12.2 Manager Responsibilities
+- Evaluate remote work requests fairly and consistently
+- Provide clear expectations and feedback
+- Conduct regular check-ins
+- Address performance issues promptly
+- Support employee success in remote work
+
+### 12.3 Policy Violations
+Violations may result in:
+- Verbal or written warning
+- Temporary suspension of remote work privileges
+- Requirement to return to full-time office work
+- Disciplinary action up to and including termination
+
+---
+
+## 13. Frequently Asked Questions
+
+**Q: Can I work from a different location (e.g., vacation rental, family member's home)?**  
+A: Occasional remote work from alternate locations within your country of employment is permitted with manager approval. Extended work from alternate locations (>2 weeks) requires HR approval. International remote work requires legal and tax review.
+
+**Q: What if my internet goes down?**  
+A: Notify your manager immediately. Use mobile hotspot if available, or go to the office if feasible. Ongoing connectivity issues may affect remote work eligibility.
+
+**Q: Can I work from a coffee shop or coworking space?**  
+A: Use of public spaces should be limited and approved by manager. Use VPN and screen privacy filter. Do not conduct confidential calls or handle sensitive data in public.
+
+**Q: What if I need to bring my child to meetings due to school closure?**  
+A: Communicate with your manager. Use flexibility and understanding during emergencies. Ongoing childcare during work hours is employee's responsibility.
+
+**Q: How do I expense my internet bill?**  
+A: Submit monthly expense report with copy of internet bill showing provider and amount. Reimbursement is $50/month regardless of actual bill amount.
+
+---
+
+## 14. Policy Review and Updates
+
+This policy is reviewed annually and updated as needed to reflect business needs, technology changes, and employee feedback.
+
+**Last Review Date**: January 1, 2024  
+**Next Review Date**: January 1, 2025  
+**Policy Owner**: Human Resources Department  
+**Contact**: hr@contoso.com or extension 5000
+
+---
+
+## 15. Acknowledgment
+
+By signing the Remote Work Agreement, you acknowledge that you have read, understood, and agree to comply with this Remote Work Policy.
+
+**Questions or Concerns?**  
+Contact your manager or HR Business Partner.
+
+---
+
+**Document Control**:
+- Document ID: HR-POL-2024-008
+- Classification: Internal Use
+- Distribution: All Employees
+- Related Policies: Employee Handbook, IT Acceptable Use Policy, Security Policy

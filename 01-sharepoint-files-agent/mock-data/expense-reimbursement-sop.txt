@@ -1,0 +1,396 @@
+# CONTOSO EXPENSE REIMBURSEMENT STANDARD OPERATING PROCEDURE
+
+**Document ID**: FIN-SOP-2024-012  
+**Version**: 3.0  
+**Effective Date**: January 1, 2024  
+**Owner**: Finance Department  
+**Approved By**: Chief Financial Officer
+
+---
+
+## Purpose
+
+This Standard Operating Procedure (SOP) establishes the process for submitting, approving, and processing employee expense reimbursements at Contoso Corporation.
+
+---
+
+## Scope
+
+This SOP applies to all Contoso employees who incur business-related expenses that require reimbursement.
+
+---
+
+## Policy Summary
+
+Contoso will reimburse employees for reasonable and necessary business expenses incurred while performing their job duties. All expenses must be:
+- Business-related and necessary
+- Properly documented with receipts
+- Submitted within 30 days of expense date
+- Pre-approved if required (travel, large purchases)
+- Compliant with IRS regulations
+
+---
+
+## Reimbursable Expenses
+
+### Category 1: Travel Expenses
+**Airfare**:
+- Coach class for flights under 6 hours
+- Premium economy or business class requires VP approval for flights over 6 hours
+- Book at least 14 days in advance when possible
+- Use preferred travel vendors (American Airlines, United, Delta)
+
+**Lodging**:
+- Standard room at business-class hotels
+- Maximum rates: $250/night (major cities), $150/night (other locations)
+- Exceeding limits requires manager approval
+- Use preferred hotel chains (Marriott, Hilton, Hyatt)
+
+**Ground Transportation**:
+- Taxi, Uber, Lyft for airport transfers and client meetings
+- Rental cars approved for multi-day trips or locations without public transit
+- Mileage reimbursement: $0.67 per mile (2024 IRS rate) for personal vehicle use
+- Parking fees at airports, hotels, client sites
+
+**Meals During Travel**:
+- Breakfast: Up to $15
+- Lunch: Up to $25
+- Dinner: Up to $50
+- Daily maximum: $90
+- Alcohol: Not reimbursed (unless client entertainment pre-approved)
+
+### Category 2: Client Entertainment
+**Meals with Clients**:
+- Pre-approval required for meals over $100 per person
+- Must include client names and company on expense report
+- Alcohol: Up to 2 drinks per person, manager approval required
+
+**Entertainment Events**:
+- Sporting events, concerts, theater: CFO approval required
+- Must have clear business purpose
+- Maximum: $500 per event
+
+### Category 3: Office Supplies and Equipment
+**Office Supplies**:
+- Pens, notebooks, folders, etc.: Up to $50/month without approval
+- Over $50: Manager approval required
+
+**Computer Equipment**:
+- Keyboard, mouse, monitor: IT department approval required
+- Purchases over $200: Must use IT procurement process
+
+**Software and Subscriptions**:
+- Business software: Manager approval required
+- Subscriptions over $100/year: Manager and director approval required
+
+### Category 4: Professional Development
+**Training and Conferences**:
+- Conference registration: Up to $2,000/year with manager approval
+- Travel and lodging: Follow standard travel guidelines
+- Pre-approval required for all conferences
+
+**Certifications**:
+- Exam fees: Reimbursed upon successful completion
+- Study materials: Up to $500 with manager approval
+- Must be relevant to current role
+
+**Memberships**:
+- Professional organization memberships: Up to $300/year
+- Must be job-related and approved by manager
+
+### Category 5: Communication
+**Mobile Phone**:
+- Monthly reimbursement: $30 for use of personal phone for business
+- No receipts required (fixed monthly amount)
+
+**Internet (Remote Workers)**:
+- Monthly reimbursement: $50 with proof of service
+- Submit internet bill monthly
+
+### Category 6: Remote Work Equipment
+**One-Time Home Office Setup**:
+- Office chair, desk, lighting: Up to $500 one-time allowance
+- Must submit receipts within 90 days of remote work approval
+- Approved through HR, reimbursed by Finance
+
+---
+
+## Non-Reimbursable Expenses
+
+The following expenses will **NOT** be reimbursed:
+❌ Personal expenses (magazines, toiletries, gym memberships)  
+❌ Alcoholic beverages (except approved client entertainment)  
+❌ Fines and penalties (parking tickets, speeding tickets)  
+❌ Personal entertainment (in-room movies, mini-bar)  
+❌ Upgrades not pre-approved (car rental, hotel room, flight)  
+❌ Expenses for family members or companions  
+❌ Commuting to regular work location  
+❌ Expenses over 90 days old  
+
+---
+
+## Expense Submission Process
+
+### Step 1: Gather Documentation
+**Required for All Expenses**:
+- Original itemized receipt (not just credit card slip)
+- Date of expense
+- Vendor/merchant name
+- Amount paid
+- Description of business purpose
+
+**Additional Requirements**:
+- Meals: List attendees and their companies
+- Mileage: Start/end locations and odometer readings
+- Client entertainment: Names, companies, business purpose
+- Conference: Agenda or program showing dates
+
+### Step 2: Access Expense System
+**Login**: https://expenses.contoso.com
+- Use your Contoso credentials
+- Works on desktop and mobile devices
+- Mobile app: "Contoso Expenses" (iOS and Android)
+
+### Step 3: Create Expense Report
+**Required Fields**:
+- Report name (e.g., "November 2024 Travel")
+- Cost center/department code
+- Project code (if applicable)
+- Report period dates
+
+**Add Expense Lines**:
+- Click "Add Expense"
+- Select expense category (Travel, Meals, Office Supplies, etc.)
+- Enter date, merchant, amount, business purpose
+- Attach receipt photo or PDF
+
+**Itemization**:
+- Hotel folios: Must show itemized charges (not just total)
+- Group meals: List each attendee separately
+- Multi-day trips: Create separate expense line for each day
+
+### Step 4: Attach Receipts
+**Accepted Formats**:
+- Photo/scan of paper receipt (JPG, PNG, PDF)
+- Electronic receipt (email confirmation, PDF invoice)
+- Credit card statement (only if original receipt lost)
+
+**Photo Requirements**:
+- All information clearly visible
+- No glare or shadows
+- Straighten and crop image
+- File size under 5MB
+
+**Lost Receipt Affidavit**:
+- For receipts under $25: Written explanation accepted
+- For receipts over $25: Lost Receipt Form required (manager signature)
+- Frequent lost receipts may result in non-reimbursement
+
+### Step 5: Submit for Approval
+- Review all entries for accuracy
+- Check that all receipts are attached
+- Click "Submit" to send to manager
+- Receive email confirmation with report number
+
+---
+
+## Approval Workflow
+
+### Manager Approval (Level 1)
+**Timeline**: Manager has 5 business days to review and approve
+
+**Manager Reviews**:
+- Expense is business-related and necessary
+- Amount is reasonable and within policy limits
+- Receipts are attached and legible
+- Business purpose is clearly stated
+
+**Manager Actions**:
+- **Approve**: Expense moves to Finance for processing
+- **Reject**: Returns to employee with explanation
+- **Request More Info**: Employee provides clarification
+
+### Director Approval (Level 2)
+**Required For**:
+- Expenses over $5,000
+- Conference registrations over $2,000
+- Client entertainment over $500
+- Any out-of-policy expenses
+
+**Timeline**: Director has 3 business days to review
+
+### Finance Review (Level 3)
+**Finance Team Reviews**:
+- Compliance with IRS regulations
+- Proper documentation attached
+- Coding is correct (cost center, project)
+- No duplicate submissions
+
+**Finance Actions**:
+- **Approve for Payment**: Moves to payment processing
+- **Return to Manager**: For additional approval or clarification
+- **Reject**: Returns to employee with explanation
+
+---
+
+## Payment Processing
+
+### Processing Timeline
+- **Standard processing**: 7-10 business days after final approval
+- **Direct deposit**: Funds deposited to bank account on file
+- **First-time reimbursement**: 10-14 business days (bank verification)
+
+### Payment Schedule
+- Expenses approved Monday-Wednesday: Paid Friday of same week
+- Expenses approved Thursday-Friday: Paid Friday of following week
+
+### Payment Notification
+- Email notification when payment is processed
+- Check pay stub for "Expense Reimbursement" line item
+- Contact Finance if payment not received within 15 business days
+
+---
+
+## Special Procedures
+
+### Corporate Credit Card Expenses
+If you have a corporate credit card (Amex or Visa):
+- Submit expenses through same expense system
+- Select "Corporate Card" as payment method
+- Reconcile card statement monthly
+- Expense report due 10 days after statement close
+- Personal charges not permitted on corporate card
+
+### International Travel
+**Additional Requirements**:
+- Pre-approval required from director
+- Currency conversion: Use rate from expense date
+- VAT/GST receipts: Keep separate for tax reclaim
+- Per diem rates: Follow U.S. State Department rates by country
+
+**International Meal Rates**: https://aoprals.state.gov/web920/per_diem.asp
+
+### Group Travel/Team Events
+**Manager Paying for Team**:
+- One expense report for entire group
+- List all attendees and their departments
+- Obtain pre-approval from director for costs over $500
+- Split costs across department budgets if needed
+
+### Relocation Expenses
+**New Hire Relocation**:
+- Separate process managed by HR
+- Contact hr@contoso.com for relocation policy
+- Not submitted through standard expense system
+
+---
+
+## Policy Violations and Exceptions
+
+### Common Violations
+- Submitting personal expenses as business expenses
+- Exceeding per diem limits without approval
+- Missing or inadequate receipts
+- Late submissions (over 30 days)
+- Duplicate submissions
+
+### Consequences
+**First Violation**: Written warning, expense returned for correction  
+**Second Violation**: Manager counseling, possible delayed reimbursement  
+**Third Violation**: Disciplinary action, loss of expense privileges  
+**Intentional Fraud**: Termination of employment, possible legal action
+
+### Exception Requests
+**Out-of-Policy Expenses**:
+- Submit written justification with expense report
+- Requires director or VP approval
+- Must be truly exceptional circumstances
+- Not guaranteed to be approved
+
+**Examples of Valid Exceptions**:
+- Emergency travel (family illness, business crisis)
+- Last-minute conference attendance (no advance booking)
+- Travel to high-cost location (NYC, San Francisco, London)
+
+---
+
+## Expense Categories and Codes
+
+When submitting expenses, use the following category codes:
+
+| Category | Code | Examples |
+|----------|------|----------|
+| Airfare | 5100 | Flight tickets |
+| Lodging | 5110 | Hotel, Airbnb |
+| Ground Transport | 5120 | Taxi, Uber, rental car, parking |
+| Meals - Travel | 5130 | Breakfast, lunch, dinner while traveling |
+| Meals - Client | 5140 | Client meals and entertainment |
+| Conference/Training | 5200 | Registration fees |
+| Dues & Subscriptions | 5210 | Professional memberships |
+| Office Supplies | 5300 | Pens, paper, notebooks |
+| Computer Equipment | 5310 | Keyboard, mouse, monitor |
+| Software | 5320 | Software licenses, subscriptions |
+| Communication | 5400 | Phone, internet reimbursement |
+| Mileage | 5500 | Personal vehicle business use |
+| Other | 5900 | Anything not listed above |
+
+---
+
+## FAQs
+
+**Q: How long do I have to submit an expense report?**  
+A: 30 days from the date of expense. Expenses over 30 days old may not be reimbursed.
+
+**Q: What if I lost a receipt?**  
+A: For expenses under $25, provide written explanation. For expenses over $25, complete Lost Receipt Affidavit with manager signature.
+
+**Q: Can I submit expenses from a previous job?**  
+A: No. Only expenses incurred while employed at Contoso are reimbursable.
+
+**Q: What if my manager is on vacation?**  
+A: Expense reports automatically route to manager's backup approver after 5 days.
+
+**Q: Can I get an advance for travel expenses?**  
+A: Travel advances available for international trips or trips over $2,000. Request through Finance at least 2 weeks before travel.
+
+**Q: What if I accidentally used my personal credit card for a corporate expense?**  
+A: Submit for reimbursement through normal process. Select "Personal Card" as payment method.
+
+**Q: How do I update my direct deposit information?**  
+A: Update bank account information in HR portal under "Payroll Settings". Changes take effect next pay cycle.
+
+**Q: What if my expense report was rejected?**  
+A: Review rejection reason in email notification. Make corrections and resubmit. Contact your manager if you have questions.
+
+**Q: Can I expense meals if I forgot to get a receipt?**  
+A: Not typically. However, if under $25 and infrequent, manager may approve with written explanation.
+
+**Q: Are tips included in meal per diem limits?**  
+A: Yes. The per diem limits include tax and tip (15-20% suggested).
+
+---
+
+## Contact Information
+
+**Expense System Support**: expensehelp@contoso.com or ext. 5555  
+**Policy Questions**: finance@contoso.com or ext. 5002  
+**Technical Issues**: IT Help Desk: helpdesk@contoso.com or ext. 5100
+
+**Expense System**: https://expenses.contoso.com  
+**Mobile App**: Search "Contoso Expenses" in App Store or Google Play
+
+---
+
+## Document History
+
+| Version | Date | Changes | Author |
+|---------|------|---------|--------|
+| 1.0 | Jan 2022 | Initial creation | Finance Dept |
+| 2.0 | Jan 2023 | Added remote work reimbursements | Finance Dept |
+| 3.0 | Jan 2024 | Updated mileage rate, meal limits | Finance Dept |
+
+**Next Review Date**: January 2025
+
+---
+
+**Acknowledgment**: By submitting expense reports, you acknowledge that you have read and understood this SOP and will comply with all expense policies.

@@ -1,0 +1,380 @@
+# CONTOSO BENEFITS GUIDE 2024
+
+**Plan Year**: January 1 - December 31, 2024  
+**Enrollment Period**: November 1-30, 2023  
+**Effective Date**: January 1, 2024
+
+---
+
+## Benefits Overview
+
+Contoso offers a comprehensive benefits package to support the health, financial security, and well-being of our employees and their families.
+
+### Benefits Summary
+- Medical, Dental, and Vision Insurance
+- 401(k) Retirement Plan with Company Match
+- Paid Time Off (PTO) and Holidays
+- Life and Disability Insurance
+- Employee Assistance Program (EAP)
+- Professional Development
+- Wellness Programs
+
+---
+
+## Section 1: Medical Insurance
+
+### Plan Options
+Contoso offers three medical insurance plan options through BlueCross BlueShield:
+
+**Plan A - Basic PPO**
+- Monthly Premium: Employee pays 20%, Company pays 80%
+- Annual Deductible: $1,500 individual / $3,000 family
+- Out-of-Pocket Maximum: $5,000 individual / $10,000 family
+- Office Visit Copay: $30
+- Specialist Copay: $50
+- Emergency Room: $250 copay
+- Prescription Drugs: $10/$30/$60 (generic/preferred/non-preferred)
+
+**Plan B - Standard PPO**
+- Monthly Premium: Employee pays 30%, Company pays 70%
+- Annual Deductible: $1,000 individual / $2,000 family
+- Out-of-Pocket Maximum: $3,500 individual / $7,000 family
+- Office Visit Copay: $20
+- Specialist Copay: $40
+- Emergency Room: $150 copay
+- Prescription Drugs: $10/$25/$50
+
+**Plan C - Premium PPO**
+- Monthly Premium: Employee pays 40%, Company pays 60%
+- Annual Deductible: $500 individual / $1,000 family
+- Out-of-Pocket Maximum: $2,000 individual / $4,000 family
+- Office Visit Copay: $10
+- Specialist Copay: $25
+- Emergency Room: $100 copay
+- Prescription Drugs: $5/$15/$30
+
+### Coverage Details
+- Preventive care: 100% covered (annual physical, immunizations, screenings)
+- Hospitalization: Covered after deductible
+- Surgery: Covered after deductible
+- Mental health services: Same as medical coverage
+- Maternity care: Covered after deductible
+- Prescription mail order: 90-day supply at 2x copay
+
+### Enrollment
+- Coverage begins: First day of month following hire date
+- New hires: 30 days to enroll from start date
+- Annual enrollment: November for following year
+- Qualifying life events: 30 days to make changes
+
+---
+
+## Section 2: Dental Insurance
+
+### Dental Plan (Included with Medical)
+- Provider: Delta Dental PPO
+- Monthly Premium: Included in medical premium
+- Annual Maximum Benefit: $2,000 per person
+
+**Coverage Levels**:
+- Preventive (cleanings, exams, X-rays): 100% covered, no deductible
+- Basic (fillings, extractions): 80% covered after $50 deductible
+- Major (crowns, root canals, bridges): 50% covered after $50 deductible
+- Orthodontia: 50% covered, $1,500 lifetime maximum
+
+**Visit Frequency**:
+- Routine cleanings: 2 per year
+- Exams: 2 per year
+- X-rays: 1 set per year
+
+---
+
+## Section 3: Vision Insurance
+
+### Vision Plan (Optional Add-On)
+- Provider: VSP Vision Care
+- Monthly Premium: $15 per employee / $30 per family
+- Enrollment: Optional during open enrollment
+
+**Coverage**:
+- Eye exam: Covered once per year ($10 copay)
+- Lenses: Covered once per year ($25 copay)
+  - Single, bifocal, or progressive lenses
+  - Polycarbonate lenses for children
+- Frames: $150 allowance every 2 years ($130 allowance)
+- Contact lenses: $150 allowance (in lieu of glasses)
+- Lens enhancements: 20-30% discount
+
+**Out-of-Network Benefits**:
+- Eye exam: Up to $45 reimbursement
+- Frames: Up to $70 reimbursement
+- Lenses: Up to $30-$50 reimbursement
+
+---
+
+## Section 4: 401(k) Retirement Plan
+
+### Plan Details
+- Provider: Fidelity Investments
+- Eligibility: After 90 days of employment
+- Enrollment: Automatic at 3%, can opt out or change
+
+**Employee Contributions**:
+- Minimum: 1% of salary
+- Maximum: IRS limit ($23,000 in 2024, $30,500 if age 50+)
+- Contribution types: Pre-tax, Roth (after-tax), or combination
+- Changes: Anytime, effective next pay period
+
+**Company Match**:
+- Match rate: 50% of first 6% you contribute
+- Example: If you contribute 6%, company adds 3%
+- Vesting schedule: 4-year graded vesting
+  - Year 1: 0% vested
+  - Year 2: 25% vested
+  - Year 3: 50% vested
+  - Year 4: 75% vested
+  - Year 5: 100% vested
+
+**Investment Options**:
+- Target date funds (2025, 2030, 2035, 2040, 2045, 2050, 2055, 2060)
+- Stock funds (large cap, small cap, international)
+- Bond funds (government, corporate)
+- Money market funds
+- Contoso company stock (up to 20% of portfolio)
+
+**Loans and Withdrawals**:
+- Loans: Available after 1 year, up to 50% of vested balance
+- Hardship withdrawals: Available with documentation
+- In-service withdrawals: Not available before age 59½
+
+---
+
+## Section 5: Paid Time Off (PTO)
+
+### Vacation Time
+Vacation accrues monthly based on tenure:
+
+**Accrual Schedule**:
+| Years of Service | Annual Days | Monthly Accrual | Hours per Paycheck |
+|-----------------|-------------|-----------------|-------------------|
+| 0-2 years | 15 days | 1.25 days | 4.62 hours |
+| 3-5 years | 20 days | 1.67 days | 6.15 hours |
+| 6-10 years | 25 days | 2.08 days | 7.69 hours |
+| 11+ years | 30 days | 2.5 days | 9.23 hours |
+
+**PTO Rules**:
+- Begin accruing immediately upon hire
+- Available for use after 90 days
+- Must request and receive manager approval
+- Minimum increment: 4 hours (half day)
+- Maximum carryover: 5 days (40 hours) to next year
+- Payout: Unused PTO paid out upon termination (up to carryover limit)
+
+### Sick Leave
+- Accrual: 10 days (80 hours) per year
+- Availability: Accrued monthly (0.83 days or 6.67 hours per month)
+- Usage: Personal illness, medical appointments, family care
+- Carryover: Unlimited (no cap on accrual)
+- Payout: Not paid out upon termination
+
+### Holidays
+Contoso observes **11 paid holidays**:
+1. New Year's Day (January 1)
+2. Martin Luther King Jr. Day (3rd Monday in January)
+3. Presidents' Day (3rd Monday in February)
+4. Memorial Day (Last Monday in May)
+5. Juneteenth (June 19)
+6. Independence Day (July 4)
+7. Labor Day (1st Monday in September)
+8. Thanksgiving Day (4th Thursday in November)
+9. Day after Thanksgiving
+10. Christmas Eve (December 24)
+11. Christmas Day (December 25)
+
+**Holiday Rules**:
+- If holiday falls on Saturday: Observed Friday
+- If holiday falls on Sunday: Observed Monday
+- Must be actively employed on holiday to receive pay
+
+### Parental Leave
+**Maternity Leave**:
+- 16 weeks paid leave at 100% salary
+- Must be taken consecutively
+- Can be combined with short-term disability (additional 6-8 weeks)
+- FMLA protection for 12 weeks
+
+**Paternity Leave**:
+- 8 weeks paid leave at 100% salary
+- Can be taken intermittently within first year
+- FMLA protection applies
+
+**Adoption Leave**:
+- 12 weeks paid leave at 100% salary
+- Available for domestic or international adoption
+- Must be taken within first year of placement
+
+**Eligibility**: Must be employed for 12 months prior to leave
+
+### Bereavement Leave
+- Immediate family (spouse, child, parent, sibling): 5 days paid
+- Extended family (grandparent, in-law, aunt, uncle): 3 days paid
+- Additional unpaid leave available upon request
+
+### Jury Duty
+- Paid leave for duration of jury service
+- Must provide copy of jury summons to HR
+- Return to work if dismissed early from jury duty
+
+---
+
+## Section 6: Life and Disability Insurance
+
+### Life Insurance
+**Basic Life Insurance (Company-Paid)**:
+- Coverage amount: 1x annual salary (rounded to nearest $1,000)
+- Maximum benefit: $500,000
+- Beneficiary designation: Required
+- No medical exam required
+
+**Supplemental Life Insurance (Optional)**:
+- Employee coverage: Up to 5x salary (max $1,000,000)
+- Spouse coverage: Up to $250,000
+- Child coverage: $10,000 per child
+- Cost: Based on age and coverage amount
+- Medical exam may be required for amounts over $250,000
+
+**Accidental Death & Dismemberment (AD&D)**:
+- Included with basic life insurance
+- Same benefit amount as basic life
+- Covers accidental death and serious injuries
+
+### Disability Insurance
+**Short-Term Disability (STD) - Company-Paid**:
+- Waiting period: 7 days (illness) or 0 days (accident)
+- Benefit: 60% of salary, up to $2,000 per week
+- Duration: Up to 26 weeks
+- Eligibility: After 90 days of employment
+
+**Long-Term Disability (LTD) - Company-Paid**:
+- Waiting period: 180 days (after STD exhausted)
+- Benefit: 60% of salary, up to $10,000 per month
+- Duration: To age 65 or until recovery
+- Eligibility: After 90 days of employment
+
+---
+
+## Section 7: Additional Benefits
+
+### Employee Assistance Program (EAP)
+- Provider: ComPsych
+- Coverage: Employee and household members
+- Services: Confidential counseling, legal assistance, financial planning, work-life resources
+- Cost: Free to employees
+- Sessions: Up to 6 free counseling sessions per issue per year
+- Contact: 1-800-555-0123 or guidanceresources.com
+
+### Commuter Benefits
+- Pre-tax payroll deductions for parking and transit
+- Maximum monthly contribution: $315 (IRS limit)
+- Savings: Save 30-40% on commuting costs
+- Providers: Park Whiz, WageWorks Transit
+
+### Gym Membership Discount
+- 25% discount at partner fitness centers
+- Partners: 24 Hour Fitness, LA Fitness, Gold's Gym
+- Corporate rate: $25-$35/month (depending on location)
+- Register through HR portal
+
+### Tuition Reimbursement
+- Annual maximum: $5,250 per calendar year
+- Eligible expenses: Tuition, fees, textbooks
+- Requirements: Grade of B or better, job-related courses
+- Approval: Pre-approval required from manager and HR
+- Repayment: Must remain employed 12 months after completion or repay
+
+### Professional Development
+- Annual training budget: $2,000 per employee
+- Eligible: Conferences, certifications, courses, workshops
+- Approval: Manager approval required
+- LinkedIn Learning: Free unlimited access for all employees
+
+### Wellness Programs
+- Annual health screening: Free biometric screening and $50 gift card
+- Fitness challenges: Quarterly step challenges with prizes
+- Wellness workshops: Monthly lunch-and-learn sessions
+- Flu shots: Free annual flu shots at on-site clinics
+- Healthy snacks: Free fruit, coffee, and tea in break rooms
+
+---
+
+## Section 8: Flexible Spending Accounts (FSAs)
+
+### Health Care FSA
+- Annual contribution limit: $3,200 (2024)
+- Eligible expenses: Medical, dental, vision expenses not covered by insurance
+- Use-it-or-lose-it: Must use by end of plan year (2.5 month grace period)
+- Claims: Submit receipts through WageWorks portal
+
+### Dependent Care FSA
+- Annual contribution limit: $5,000 per household
+- Eligible expenses: Daycare, preschool, after-school care, summer camp
+- Age limit: Children under 13 or disabled dependents
+- Provider: Must provide Tax ID or SSN
+
+---
+
+## Section 9: Eligibility and Enrollment
+
+### Eligibility
+**Full-Time Employees** (30+ hours/week):
+- Eligible for all benefits
+- Coverage effective first day of month following hire date
+
+**Part-Time Employees** (20-29 hours/week):
+- Eligible for prorated PTO and 401(k)
+- Not eligible for medical, dental, vision insurance
+- Eligible for EAP and wellness programs
+
+**Temporary/Contract Workers**:
+- Not eligible for benefits
+- May enroll in 401(k) after 1 year of service (per IRS rules)
+
+### Enrollment Process
+**New Hire Enrollment**:
+- Timeline: 30 days from start date
+- Method: Online through HR portal or paper forms
+- Support: HR available for questions
+
+**Annual Open Enrollment**:
+- Period: November 1-30
+- Effective date: January 1 following enrollment
+- Changes: Can change medical, dental, vision, FSA elections
+- Life/disability: Can increase coverage (may require medical evidence)
+
+**Qualifying Life Events (QLE)**:
+- Marriage or divorce
+- Birth or adoption of child
+- Loss of other coverage
+- Change in employment status
+- Timeline: 30 days from event to make changes
+
+---
+
+## Section 10: Contact Information
+
+**Benefits Team**: benefits@contoso.com or ext. 5001  
+**HR Service Center**: 1-800-555-5000 or hr@contoso.com
+
+**Medical/Dental/Vision**: BlueCross BlueShield 1-800-555-2000  
+**401(k)**: Fidelity 1-800-343-3548  
+**EAP**: ComPsych 1-800-555-0123  
+**FSA**: WageWorks 1-800-555-3500
+
+**HR Portal**: https://hr.contoso.com  
+**Benefits Enrollment**: https://benefits.contoso.com
+
+---
+
+This guide provides a summary of benefits. For complete details, refer to the official plan documents (Summary Plan Descriptions). In case of discrepancy, the official plan documents govern.
+
+**Questions?** Attend monthly benefits Q&A sessions (first Wednesday of each month) or schedule one-on-one consultation with Benefits Team.

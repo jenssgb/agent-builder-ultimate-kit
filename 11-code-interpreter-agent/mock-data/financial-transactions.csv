@@ -1,0 +1,51 @@
+transaction_id,date,customer_id,merchant,category,amount,payment_method,status,fraud_score,location,device_type
+TXN001,2024-01-05,CUST1234,Amazon,Retail,156.78,Credit Card,Approved,0.12,New York,Desktop
+TXN002,2024-01-05,CUST2345,Starbucks,Food & Dining,12.45,Debit Card,Approved,0.08,San Francisco,Mobile
+TXN003,2024-01-06,CUST3456,Shell Gas,Gas & Fuel,68.90,Credit Card,Approved,0.15,Austin,Mobile
+TXN004,2024-01-06,CUST1234,Best Buy,Electronics,899.99,Credit Card,Approved,0.22,New York,Desktop
+TXN005,2024-01-07,CUST4567,Whole Foods,Groceries,134.56,Debit Card,Approved,0.09,Seattle,Mobile
+TXN006,2024-01-07,CUST5678,Delta Airlines,Travel,756.00,Credit Card,Approved,0.18,Chicago,Desktop
+TXN007,2024-01-08,CUST2345,Uber,Transportation,23.45,Credit Card,Approved,0.11,San Francisco,Mobile
+TXN008,2024-01-08,CUST6789,Netflix,Streaming,15.99,Credit Card,Approved,0.05,Boston,Desktop
+TXN009,2024-01-09,CUST3456,Target,Retail,267.34,Debit Card,Approved,0.14,Austin,Desktop
+TXN010,2024-01-09,CUST7890,Hilton Hotels,Travel,389.50,Credit Card,Approved,0.20,Miami,Mobile
+TXN011,2024-01-10,CUST1234,Apple Store,Electronics,1299.00,Credit Card,Flagged,0.78,Moscow,Desktop
+TXN012,2024-01-10,CUST8901,CVS Pharmacy,Healthcare,45.67,Debit Card,Approved,0.07,Portland,Mobile
+TXN013,2024-01-11,CUST9012,McDonald's,Food & Dining,18.90,Credit Card,Approved,0.06,Dallas,Mobile
+TXN014,2024-01-11,CUST2345,Spotify,Streaming,9.99,Credit Card,Approved,0.04,San Francisco,Desktop
+TXN015,2024-01-12,CUST1234,Amazon,Retail,89.99,Credit Card,Approved,0.10,New York,Mobile
+TXN016,2024-01-12,CUST0123,Costco,Groceries,456.78,Debit Card,Approved,0.16,Denver,Desktop
+TXN017,2024-01-13,CUST3456,Chevron,Gas & Fuel,72.34,Credit Card,Approved,0.13,Austin,Mobile
+TXN018,2024-01-13,CUST4567,Home Depot,Home Improvement,234.56,Credit Card,Approved,0.17,Seattle,Desktop
+TXN019,2024-01-14,CUST5678,Marriott,Travel,425.00,Credit Card,Approved,0.19,Atlanta,Mobile
+TXN020,2024-01-14,CUST1234,Luxury Watches,Jewelry,4500.00,Credit Card,Declined,0.95,Lagos,Desktop
+TXN021,2024-01-15,CUST6789,Chipotle,Food & Dining,24.50,Debit Card,Approved,0.08,Boston,Mobile
+TXN022,2024-01-15,CUST7890,AMC Theaters,Entertainment,56.00,Credit Card,Approved,0.10,Miami,Desktop
+TXN023,2024-01-16,CUST8901,Walgreens,Healthcare,38.90,Debit Card,Approved,0.07,Portland,Mobile
+TXN024,2024-01-16,CUST9012,Nordstrom,Retail,345.67,Credit Card,Approved,0.21,Dallas,Desktop
+TXN025,2024-01-17,CUST2345,Safeway,Groceries,98.45,Debit Card,Approved,0.09,San Francisco,Mobile
+TXN026,2024-01-17,CUST0123,United Airlines,Travel,1234.00,Credit Card,Approved,0.23,Denver,Desktop
+TXN027,2024-01-18,CUST3456,Panera Bread,Food & Dining,16.78,Credit Card,Approved,0.06,Austin,Mobile
+TXN028,2024-01-18,CUST1234,Gaming Store,Electronics,299.99,Credit Card,Flagged,0.82,Singapore,Mobile
+TXN029,2024-01-19,CUST4567,Lowe's,Home Improvement,567.89,Credit Card,Approved,0.18,Seattle,Desktop
+TXN030,2024-01-19,CUST5678,Hilton,Travel,512.00,Credit Card,Approved,0.20,Chicago,Mobile
+TXN031,2024-01-20,CUST6789,Trader Joe's,Groceries,87.65,Debit Card,Approved,0.08,Boston,Mobile
+TXN032,2024-01-20,CUST7890,Shell Gas,Gas & Fuel,65.43,Credit Card,Approved,0.12,Miami,Mobile
+TXN033,2024-01-21,CUST8901,Subway,Food & Dining,11.99,Debit Card,Approved,0.05,Portland,Mobile
+TXN034,2024-01-21,CUST9012,Best Buy,Electronics,1567.00,Credit Card,Approved,0.24,Dallas,Desktop
+TXN035,2024-01-22,CUST2345,Lyft,Transportation,18.90,Credit Card,Approved,0.10,San Francisco,Mobile
+TXN036,2024-01-22,CUST0123,Disney+,Streaming,7.99,Credit Card,Approved,0.04,Denver,Desktop
+TXN037,2024-01-23,CUST3456,Walmart,Retail,156.78,Debit Card,Approved,0.13,Austin,Desktop
+TXN038,2024-01-23,CUST4567,Alaska Airlines,Travel,678.00,Credit Card,Approved,0.19,Seattle,Desktop
+TXN039,2024-01-24,CUST1234,Crypto Exchange,Investment,5000.00,Bank Transfer,Flagged,0.88,Unknown,Desktop
+TXN040,2024-01-24,CUST5678,Starbucks,Food & Dining,14.56,Credit Card,Approved,0.07,Chicago,Mobile
+TXN041,2024-01-25,CUST6789,CVS,Healthcare,52.34,Debit Card,Approved,0.08,Boston,Mobile
+TXN042,2024-01-25,CUST7890,Macy's,Retail,289.90,Credit Card,Approved,0.16,Miami,Desktop
+TXN043,2024-01-26,CUST8901,Whole Foods,Groceries,145.67,Debit Card,Approved,0.11,Portland,Mobile
+TXN044,2024-01-26,CUST9012,Exxon,Gas & Fuel,70.12,Credit Card,Approved,0.12,Dallas,Mobile
+TXN045,2024-01-27,CUST2345,Uber Eats,Food & Dining,45.67,Credit Card,Approved,0.09,San Francisco,Mobile
+TXN046,2024-01-27,CUST0123,Hyatt Hotels,Travel,456.00,Credit Card,Approved,0.20,Denver,Mobile
+TXN047,2024-01-28,CUST3456,Target,Retail,198.45,Debit Card,Approved,0.14,Austin,Desktop
+TXN048,2024-01-28,CUST4567,Home Depot,Home Improvement,345.67,Credit Card,Approved,0.17,Seattle,Desktop
+TXN049,2024-01-29,CUST1234,Luxury Goods,Retail,3200.00,Credit Card,Flagged,0.91,Dubai,Mobile
+TXN050,2024-01-29,CUST5678,Costco,Groceries,287.90,Debit Card,Approved,0.15,Chicago,Desktop

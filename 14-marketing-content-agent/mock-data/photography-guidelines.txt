@@ -1,0 +1,557 @@
+PRODUCT & BRAND PHOTOGRAPHY GUIDELINES
+Marketing Team | Style Reference | Version 1.0
+
+=============================================================================
+PHOTOGRAPHY PHILOSOPHY
+=============================================================================
+
+OUR VISUAL APPROACH:
+Modern, human-centered, authentic, and aspirational
+
+CORE PRINCIPLES:
+✓ Show real people using technology (not stock photo perfection)
+✓ Natural light and environments (avoid overly staged)
+✓ Diversity and inclusion in every shoot
+✓ Technology as enabler, humans as heroes
+✓ Clean, uncluttered compositions
+✓ Authentic moments, not forced poses
+
+MOOD & FEELING:
+- Confident but approachable
+- Professional but not stiff
+- Innovative but grounded
+- Collaborative and team-focused
+- Forward-thinking and optimistic
+
+=============================================================================
+SUBJECT MATTER & THEMES
+=============================================================================
+
+PRIMARY THEMES:
+
+1. WORKPLACE & COLLABORATION
+- Teams working together
+- Meetings and brainstorming
+- Hybrid work scenarios
+- Modern office environments
+- Remote work setups
+
+Do's:
+✓ Show diverse teams (age, gender, ethnicity)
+✓ Natural interactions and genuine moments
+✓ Modern, clean workspaces
+✓ Technology integrated naturally
+✓ Mix of focus work and collaboration
+
+Don'ts:
+✗ Forced laughter or exaggerated expressions
+✗ Unrealistic "everyone in conference room" setups
+✗ Dated office environments
+✗ Technology as the focus (people first!)
+✗ All-corporate attire (show casual modern workplaces)
+
+2. TECHNOLOGY & DEVICES
+- Laptops, tablets, phones in use
+- Product UI on screens
+- Clean workspace setups
+- Home office environments
+
+Do's:
+✓ Show our actual product UI on screens
+✓ Clean, organized workspaces
+✓ Modern devices (recent models)
+✓ Natural lighting on screens
+✓ Context (person using, not just device)
+
+Don'ts:
+✗ Visible competitor products/logos
+✗ Cluttered desks
+✗ Outdated devices
+✗ Glare or illegible screens
+✗ Devices without context
+
+3. PEOPLE & PORTRAITS
+- Individual contributors
+- Team leaders
+- Decision makers
+- Diverse professionals
+
+Do's:
+✓ Represent full diversity (age, ethnicity, gender, ability)
+✓ Mix of roles (engineer, manager, executive, etc.)
+✓ Authentic expressions
+✓ Professional but approachable
+✓ Environmental context (office, home, etc.)
+
+Don'ts:
+✗ Generic stock photo poses
+✗ Arms crossed "power poses"
+✗ All formal business attire
+✗ Homogeneous groups
+✗ Overly styled/perfect
+
+4. OFFICE & ENVIRONMENT
+- Modern workspaces
+- Meeting rooms
+- Casual collaboration spaces
+- Home offices
+
+Do's:
+✓ Clean, modern aesthetic
+✓ Natural light when possible
+✓ Plants and human touches
+✓ Tech-enabled but not tech-focused
+✓ Inviting and comfortable
+
+Don'ts:
+✗ Dated office design
+✗ Cluttered or messy
+✗ Fluorescent lighting
+✗ Empty, soulless spaces
+✗ Obvious brands/logos (remove or blur)
+
+=============================================================================
+TECHNICAL SPECIFICATIONS
+=============================================================================
+
+IMAGE QUALITY:
+
+Resolution:
+- Hero images: 3000px wide minimum
+- Body images: 2000px wide minimum
+- Thumbnails: 800px wide minimum
+- Always provide high-res originals
+
+Format:
+- JPG for photos (RGB color space)
+- PNG if transparency needed
+- RAW files archived for key shots
+
+Compression:
+- Web: Compressed to 200-500KB (use TinyPNG)
+- Print: High-quality, minimal compression
+- Balance file size and quality
+
+COMPOSITION:
+
+Aspect Ratios:
+- Hero (16:9): 1920x1080px
+- Square (1:1): 1200x1200px
+- Portrait (4:5): 1080x1350px
+- LinkedIn (1.91:1): 1200x627px
+- Story (9:16): 1080x1920px
+
+Always shoot wider than final crop to allow flexibility
+
+Rule of Thirds:
+✓ Position subjects on thirds intersections
+✓ Avoid centering unless intentional
+✓ Leave breathing room in composition
+
+Depth of Field:
+✓ Shallow DOF for portraits (blur background)
+✓ Deeper DOF for environments and groups
+✓ Focus on eyes in portraits
+
+=============================================================================
+LIGHTING & COLOR
+=============================================================================
+
+LIGHTING STYLE:
+
+Natural Light (Preferred):
+- Soft window light
+- Overcast days (even, diffused)
+- Golden hour for warmth
+- Avoid harsh midday sun
+
+Artificial Light:
+- Soft boxes for even lighting
+- No direct flash
+- Bounce light for fill
+- 3-point lighting for interviews
+
+Color Temperature:
+- Warm (4500-5500K) for approachable feel
+- Neutral (5500-6500K) for professional
+- Avoid cool/blue tones (less inviting)
+
+COLOR GRADING:
+
+Brand Color Palette:
+Incorporate subtle brand colors:
+- Blue (#0066FF) - Primary brand color
+- Teal (#00D4D4) - Secondary accent
+- Coral (#FF6B6B) - Tertiary accent
+
+Grading Style:
+✓ Slightly warm overall tone
+✓ Lifted blacks (not pure black)
+✓ Reduced saturation (natural, not oversaturated)
+✓ Consistent look across all brand photography
+
+Avoid:
+✗ Oversaturation (looks artificial)
+✗ Cool/blue tones (uninviting)
+✗ Heavy vignetting
+✗ Instagram-style filters
+✗ HDR look (overly processed)
+
+=============================================================================
+DIVERSITY & INCLUSION
+=============================================================================
+
+REPRESENTATION REQUIREMENTS:
+
+Every photo set must include:
+✓ Multiple ethnicities represented
+✓ Gender balance (avoid male-dominated)
+✓ Age diversity (20s through 60s)
+✓ People with visible disabilities when authentic
+✓ Diverse body types
+✓ Various roles (engineer, manager, executive, etc.)
+
+AUTHENTIC REPRESENTATION:
+
+Do's:
+✓ Cast actual diverse teams/individuals
+✓ Show genuine interactions
+✓ Represent modern workplace reality
+✓ Include accessibility (wheelchair, assistive tech) naturally
+✓ Various cultural backgrounds in office environments
+
+Don'ts:
+✗ Token diversity (one person of color in all-white group)
+✗ Stereotypical roles/representations
+✗ Forced diversity that feels inauthentic
+✗ "Diversity for diversity's sake" that looks staged
+
+CASTING:
+
+Talent Selection:
+- Use diverse casting for all shoots
+- Include employees (with permission)
+- Professional models when needed
+- Real users/customers when possible
+
+Model Releases:
+- Always required (written and signed)
+- Specify usage (web, print, ads, etc.)
+- Archive with images
+- Renew for extended use
+
+=============================================================================
+PROPS & STYLING
+=============================================================================
+
+WORKSPACE PROPS:
+
+Approved:
+✓ MacBooks, modern laptops (remove visible branding)
+✓ Notebooks, pens, coffee/tea
+✓ Plants (succulents, greenery)
+✓ Minimal desk accessories
+✓ Headphones (neutral, no visible logos)
+
+Avoid:
+✗ Visible competitor logos
+✗ Dated technology (old phones, monitors)
+✗ Cluttered desks
+✗ Excessive personal items
+✗ Branded products (unless our own)
+
+WARDROBE:
+
+Style Guidelines:
+✓ Business casual to casual (modern workplace)
+✓ Solid colors and simple patterns
+✓ Mix of button-ups, sweaters, tees
+✓ Avoid: loud patterns, logos, all black/white
+✓ Professional but relatable
+
+Color Palette:
+- Neutrals: Gray, navy, white, black
+- Accents: Our brand colors (blue, teal, coral) subtly
+- Earth tones: Olive, tan, rust
+- Avoid: Neon, overly bright colors
+
+Diversity in Style:
+- Mix formal and casual
+- Cultural dress when authentic
+- Various professional styles
+
+=============================================================================
+SHOT LIST TEMPLATES
+=============================================================================
+
+STANDARD PRODUCT SHOOT (Office Environment):
+
+Wide Shots (Establishing):
+□ Office overview - modern workspace
+□ Team collaboration in conference room
+□ Open office with multiple teams
+□ Casual meeting area
+
+Medium Shots (Context):
+□ Small team (3-4 people) at table with laptops
+□ Two people collaborating at desk
+□ Individual at desk with laptop showing product UI
+□ Team reviewing work on screen together
+
+Close-Ups (Details):
+□ Laptop screen with product UI (readable)
+□ Hands typing on keyboard
+□ Notebook with sketches/notes
+□ Coffee cup next to laptop (lifestyle)
+
+People Shots:
+□ Portrait of various team members (diverse)
+□ Team member presenting to group
+□ Two colleagues discussing at whiteboard
+□ Remote worker in home office
+
+---
+
+LIFESTYLE/CULTURE SHOOT:
+
+Office Environment:
+□ Team lunching together (casual)
+□ Celebration or team event
+□ Brainstorming session with post-its
+□ Casual hallway conversation
+
+Remote Work:
+□ Home office setups (3-5 different)
+□ Video call on laptop screen
+□ Working from couch/alternative space
+□ Parent working with kid in background (authentic)
+
+Collaboration:
+□ Whiteboarding session
+□ Pair programming or working
+□ Team huddle (standing)
+□ Outdoor walking meeting
+
+Individual Work:
+□ Focused work with headphones
+□ Writing/sketching in notebook
+□ Reviewing documents
+□ Quiet concentration
+
+---
+
+EXECUTIVE/LEADERSHIP SHOOT:
+
+Environmental Portraits:
+□ Executive in office (natural, not behind desk)
+□ Leader with team in background
+□ Casual office environment
+□ Modern, warm setting
+
+Interaction Shots:
+□ In conversation with team
+□ Presenting to group
+□ One-on-one coaching/mentoring
+□ Collaborative work session
+
+Headshots:
+□ Professional but approachable
+□ Natural light, environmental
+□ Genuine smile
+□ Various backgrounds (office, white, environmental)
+
+=============================================================================
+POST-PRODUCTION & EDITING
+=============================================================================
+
+RETOUCHING GUIDELINES:
+
+Light Retouching (Always):
+✓ Exposure and color correction
+✓ Remove temporary blemishes
+✓ Clean up distracting background elements
+✓ Remove visible logos (competitors, brands)
+✓ Straighten and crop to specs
+
+Do NOT:
+✗ Alter body shapes or facial features
+✗ Excessive skin smoothing (keep texture)
+✗ Remove natural features (wrinkles, etc.)
+✗ Change diversity of subjects
+✗ Make people look "perfect"
+
+CONSISTENT STYLE:
+
+Apply to All Brand Photos:
+✓ Consistent color grading
+✓ Similar exposure/contrast
+✓ Uniform black and white treatment
+✓ Standardized crops for each use case
+✓ Watermark or logo (if required)
+
+FINAL DELIVERABLES:
+
+Formats Required:
+□ High-res JPG (RGB, for print)
+□ Web-optimized JPG (RGB, compressed)
+□ Multiple crops (hero, square, portrait)
+□ Alt text descriptions (for accessibility)
+□ Usage rights documentation
+
+File Naming:
+[project]-[subject]-[orientation]-[version].jpg
+Example: brand-2024-team-collaboration-hero-v2.jpg
+
+=============================================================================
+STOCK PHOTOGRAPHY GUIDELINES
+=============================================================================
+
+WHEN TO USE STOCK:
+✓ Budget or timeline doesn't allow custom shoot
+✓ Specific scenario not available for shoot
+✓ Complement custom photography
+✓ Quick turnaround needed
+
+APPROVED SOURCES:
+- Unsplash (free, high-quality)
+- Pexels (free)
+- iStock (paid, exclusive)
+- Getty Images (paid, premium)
+
+SELECTION CRITERIA:
+
+Must Match Our Style:
+✓ Natural, authentic (not overly posed)
+✓ Diverse representation
+✓ Modern environments
+✓ Consistent with brand colors/mood
+✓ High resolution
+
+Avoid:
+✗ Obviously stock photos (generic business people)
+✗ Cheesy smiles and poses
+✗ Dated clothing, tech, or environments
+✗ Watermarks or low resolution
+✗ Overused images (reverse image search)
+
+CUSTOMIZATION:
+- Apply our color grading
+- Crop to our aspect ratios
+- Retouch to match our style
+- Add brand elements if needed
+
+=============================================================================
+IMAGE LIBRARY & ORGANIZATION
+=============================================================================
+
+ASSET MANAGEMENT:
+
+Storage Location:
+- Primary: brand.company.com/photos
+- Backup: Cloud storage (Google Drive, Dropbox)
+- Archive: External drives (key shoots)
+
+Organization:
+```
+/photography
+  /product-shots
+    /2024-q1-office-shoot
+    /2024-q2-remote-work
+  /people
+    /headshots
+    /team-photos
+  /environments
+    /office
+    /home-office
+  /lifestyle
+    /collaboration
+    /events
+  /stock
+    /approved
+```
+
+Metadata:
+- Keywords (searchable)
+- Model releases (linked)
+- Shoot date and photographer
+- Usage rights and restrictions
+- Alt text for accessibility
+
+ACCESSIBILITY:
+
+Every Image Must Have:
+✓ Descriptive alt text (125 characters)
+✓ Caption (if context needed)
+✓ High contrast for visibility
+✓ Avoid relying on color alone
+
+Example Alt Text:
+"Diverse team of four professionals collaborating around laptop in modern office, smiling and engaged in discussion"
+
+=============================================================================
+PHOTOGRAPHY CHECKLIST
+=============================================================================
+
+PLANNING:
+□ Define shot list (wide, medium, close-up)
+□ Cast diverse talent (age, ethnicity, gender, ability)
+□ Scout location (modern, clean, natural light)
+□ Gather props (laptops, notebooks, coffee, plants)
+□ Plan wardrobe (business casual, brand colors)
+□ Obtain model releases
+□ Test lighting and equipment
+
+SHOOT DAY:
+□ Shoot wider than final crop
+□ Capture multiple aspect ratios
+□ Get hero, secondary, and detail shots
+□ Show product UI on screens clearly
+□ Ensure diverse representation
+□ Capture natural, authentic moments
+□ Shoot in RAW + JPG
+□ Check focus and exposure
+□ More shots than you think you need
+
+POST-PRODUCTION:
+□ Cull to best shots
+□ Color grade to brand standards
+□ Light retouching (natural look)
+□ Remove logos and distractions
+□ Crop to multiple formats
+□ Compress for web
+□ Add metadata and alt text
+□ Archive originals
+□ Deliver final assets
+
+=============================================================================
+EXAMPLES & REFERENCES
+=============================================================================
+
+BRANDS WE ADMIRE (Photography Style):
+✓ Slack - Natural, diverse, joyful
+✓ Airbnb - Authentic, human-centered
+✓ Figma - Clean, modern, collaborative
+✓ Notion - Minimal, aspirational, diverse
+✓ Stripe - Professional, clean, understated
+
+AVOID THESE STYLES:
+✗ Generic corporate stock (stiff, posed)
+✗ Silicon Valley bro culture (hoodies, ping pong)
+✗ Overly polished/perfect (unrealistic)
+✗ Dark, moody (not our brand)
+✗ Overly casual (beach, party vibes)
+
+INSPIRATION BOARDS:
+View our photography mood boards:
+brand.company.com/photography-inspiration
+
+=============================================================================
+
+Questions? Contact:
+Brand Team: brand@company.com
+Photography Lead: photos@company.com
+
+ACCESS PHOTO LIBRARY:
+brand.company.com/photos
+
+Version 1.0 | Updated January 2024

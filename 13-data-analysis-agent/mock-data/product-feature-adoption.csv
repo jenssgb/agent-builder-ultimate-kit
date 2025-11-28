@@ -1,0 +1,13 @@
+feature_name,release_date,adoption_rate_30days,dau_impact_percent,satisfaction_score,support_tickets,usage_frequency,retention_impact,top_user_segment
+OAuth 2.0 Integration,2024-03-15,68,12,4.5,145,Daily,+8%,Enterprise
+Advanced Analytics Dashboard,2024-04-22,52,8,4.3,89,Weekly,+5%,Mid-Market
+Mobile App iOS,2024-05-10,45,15,4.6,67,Daily,+10%,All Segments
+API Rate Limiting,2024-06-05,38,3,3.9,112,N/A,-2%,Developers
+Custom Branding,2024-06-28,71,6,4.7,34,One-time,+7%,Enterprise
+Bulk Data Export,2024-07-15,29,2,4.1,78,Monthly,+1%,Enterprise
+Real-time Notifications,2024-08-08,63,18,4.8,45,Daily,+12%,All Segments
+Team Collaboration Tools,2024-08-30,55,10,4.4,92,Daily,+6%,Mid-Market
+SSO/SAML Support,2024-09-20,42,5,4.5,56,One-time,+4%,Enterprise
+Advanced Filtering,2024-10-12,48,7,4.2,101,Weekly,+3%,Power Users
+Scheduled Reports,2024-10-30,59,9,4.6,38,Weekly,+5%,Mid-Market
+Dark Mode UI,2024-11-15,81,4,4.9,12,Daily,+2%,All Segments

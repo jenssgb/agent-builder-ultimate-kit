@@ -1,0 +1,303 @@
+# CONTOSO EMPLOYEE HANDBOOK 2024
+
+**Effective Date**: January 1, 2024  
+**Last Revised**: January 1, 2024  
+**Version**: 5.0
+
+---
+
+## Table of Contents
+
+1. Welcome to Contoso
+2. Employment Basics
+3. Work Schedule and Remote Work
+4. Compensation and Benefits
+5. Time Off and Leave Policies
+6. Code of Conduct
+7. Workplace Safety
+8. Technology and Equipment
+
+---
+
+## 1. Welcome to Contoso
+
+Welcome to Contoso Corporation! This handbook provides essential information about our company policies, benefits, and expectations. Please read it carefully and refer to it whenever you have questions.
+
+**Our Mission**: To empower every person and organization on the planet to achieve more.
+
+**Our Values**:
+- Innovation
+- Diversity and Inclusion
+- Customer Focus
+- Integrity and Accountability
+
+---
+
+## 2. Employment Basics
+
+### 2.1 Employment Classification
+- **Full-time employees**: 40 hours per week
+- **Part-time employees**: Less than 30 hours per week
+- **Contract employees**: Fixed-term assignments
+
+### 2.2 Probationary Period
+New employees serve a 90-day probationary period during which performance is closely evaluated.
+
+### 2.3 Equal Employment Opportunity
+Contoso is an equal opportunity employer. We do not discriminate based on race, color, religion, sex, national origin, age, disability, or any other protected characteristic.
+
+---
+
+## 3. Work Schedule and Remote Work
+
+### 3.1 Standard Work Hours
+- Core business hours: 9:00 AM - 5:00 PM local time
+- Flexible start times available: 7:00 AM - 10:00 AM
+- Lunch break: 30-60 minutes (unpaid)
+
+### 3.2 Remote Work Policy (Updated 2024)
+**Eligibility**:
+- Employees who have completed probationary period
+- Role must be suitable for remote work
+- Manager approval required
+
+**Remote Work Options**:
+- Hybrid: 2-3 days in office, 2-3 days remote
+- Full remote: Available for approved roles
+- Flexible: Varies by team and business needs
+
+**Equipment Provided**:
+- Laptop and docking station
+- Monitor (upon request)
+- Headset and webcam
+- Office chair allowance ($500)
+
+**Requirements**:
+- Reliable high-speed internet connection
+- Dedicated workspace
+- Availability during core business hours
+- Attendance at in-person meetings as required
+
+---
+
+## 4. Compensation and Benefits
+
+### 4.1 Payroll
+- Pay frequency: Bi-weekly (every other Friday)
+- Direct deposit required
+- Access pay stubs via HR portal
+
+### 4.2 Performance Reviews
+- Annual performance reviews in December
+- Mid-year check-ins in June
+- Merit increases based on performance and budget
+
+### 4.3 Health Insurance
+**Medical Insurance**:
+- Coverage begins first day of the month after hire date
+- Three plan options: Basic, Standard, Premium
+- Company pays 80% of Basic plan premium
+- Employee pays difference for Standard/Premium plans
+
+**Dental Insurance**:
+- Included with medical coverage
+- Preventive care covered 100%
+
+**Vision Insurance**:
+- Optional add-on ($15/month)
+- Annual eye exam and frames/lenses covered
+
+### 4.4 Retirement Plan (401k)
+- Eligibility: After 90 days of employment
+- Employee contribution: Up to IRS limit
+- Company match: 50% of first 6% contributed
+- Vesting schedule: 4-year graded vesting
+
+### 4.5 Other Benefits
+- Life insurance: 1x annual salary (company-paid)
+- Disability insurance: Short-term and long-term
+- Employee Assistance Program (EAP): Confidential counseling
+- Commuter benefits: Pre-tax parking and transit
+- Gym membership discount: 25% off selected facilities
+
+---
+
+## 5. Time Off and Leave Policies
+
+### 5.1 Vacation Time (PTO)
+**Accrual Rates**:
+- Years 0-2: 15 days per year (1.25 days/month)
+- Years 3-5: 20 days per year (1.67 days/month)
+- Years 6+: 25 days per year (2.08 days/month)
+
+**Usage**:
+- Must be requested and approved in advance
+- Minimum increment: 4 hours
+- Carryover limit: 5 days maximum to next year
+
+### 5.2 Sick Leave
+- 10 days per year (accrued monthly)
+- Can be used for illness, medical appointments, or family care
+- Unused sick leave carries over annually (no cap)
+
+### 5.3 Holidays
+Contoso observes 11 paid holidays:
+- New Year's Day
+- Martin Luther King Jr. Day
+- Presidents' Day
+- Memorial Day
+- Juneteenth
+- Independence Day
+- Labor Day
+- Thanksgiving Day
+- Day after Thanksgiving
+- Christmas Eve
+- Christmas Day
+
+### 5.4 Parental Leave
+- **Maternity leave**: 16 weeks paid
+- **Paternity leave**: 8 weeks paid
+- **Adoption leave**: 12 weeks paid
+- Must be taken within first year of birth/adoption
+
+### 5.5 Bereavement Leave
+- 5 days paid for immediate family member
+- 3 days paid for extended family member
+
+### 5.6 Jury Duty
+- Paid leave for duration of jury service
+- Must provide jury summons to HR
+
+---
+
+## 6. Code of Conduct
+
+### 6.1 Professional Standards
+All employees must:
+- Treat colleagues with respect and dignity
+- Maintain confidentiality of company information
+- Avoid conflicts of interest
+- Report unethical behavior
+- Comply with all laws and regulations
+
+### 6.2 Conflicts of Interest
+Employees must disclose:
+- Outside employment or business interests
+- Financial interests in competitors or vendors
+- Personal relationships with subordinates or vendors
+
+**Disclosure Process**: Submit Conflict of Interest Form to HR within 30 days of situation arising.
+
+### 6.3 Confidentiality
+Employees have access to confidential information including:
+- Customer data and contracts
+- Financial information
+- Product development plans
+- Personnel information
+
+**Requirements**:
+- Sign confidentiality agreement upon hire
+- Do not discuss confidential information outside work
+- Protect documents and data from unauthorized access
+- Return all confidential materials upon termination
+
+### 6.4 Anti-Harassment Policy
+Contoso prohibits harassment of any kind, including:
+- Sexual harassment
+- Bullying or intimidation
+- Discrimination based on protected characteristics
+
+**Reporting**: Contact HR, your manager, or use anonymous hotline: 1-800-555-0199
+
+---
+
+## 7. Workplace Safety
+
+### 7.1 Health and Safety
+- Report all injuries immediately to supervisor
+- Follow safety protocols for your role
+- Participate in emergency drills
+- Use personal protective equipment when required
+
+### 7.2 Ergonomics
+- Request ergonomic assessment if experiencing discomfort
+- Adjust workstation to proper height and distance
+- Take regular breaks from computer work
+
+### 7.3 Emergency Procedures
+- Know location of fire exits and assembly points
+- Report safety hazards to Facilities
+- Keep emergency contact information current in HR system
+
+---
+
+## 8. Technology and Equipment
+
+### 8.1 Company Equipment
+- Laptop, phone, and accessories are company property
+- Use equipment for business purposes only
+- Report lost or stolen equipment immediately
+- Return all equipment upon termination
+
+### 8.2 Acceptable Use Policy
+**Permitted**:
+- Business communications
+- Reasonable personal use during breaks
+- Professional development and learning
+
+**Prohibited**:
+- Downloading unauthorized software
+- Accessing inappropriate websites
+- Sharing login credentials
+- Using company resources for personal business
+
+### 8.3 Data Security
+- Use strong passwords (12+ characters, changed every 90 days)
+- Enable multi-factor authentication
+- Lock computer when away from desk
+- Do not store sensitive data on personal devices
+- Report suspected security incidents immediately
+
+### 8.4 Social Media
+**Personal Social Media**:
+- Do not speak on behalf of Contoso without authorization
+- Do not share confidential company information
+- Include disclaimer if discussing work-related topics
+- Be respectful and professional
+
+**Company Social Media**:
+- Only authorized employees may post on company accounts
+- Follow brand guidelines and approval process
+
+---
+
+## 9. Separation of Employment
+
+### 9.1 Resignation
+- Provide 2 weeks' notice in writing
+- Return all company property
+- Complete exit interview
+- Final paycheck includes unused vacation time
+
+### 9.2 Termination
+- Company reserves right to terminate at-will employment
+- Severance pay may be offered based on circumstances
+- COBRA benefits information provided
+
+---
+
+## 10. Acknowledgment
+
+By signing below, you acknowledge that you have received, read, and understood the Contoso Employee Handbook. You agree to comply with all policies and procedures outlined herein.
+
+This handbook is not a contract of employment. Contoso reserves the right to modify policies at any time with or without notice.
+
+**Questions?** Contact HR at hr@contoso.com or extension 5000.
+
+---
+
+**Document Control**:
+- Document ID: HR-HANDBOOK-2024
+- Owner: Human Resources Department
+- Review Frequency: Annual
+- Next Review: January 2025

@@ -1,0 +1,628 @@
+LOGO USAGE & BRAND IDENTITY GUIDELINES
+Brand Standards | Version 2.0 | January 2024
+
+=============================================================================
+LOGO OVERVIEW
+=============================================================================
+
+OUR LOGO:
+The company logo consists of the brand mark (icon) and wordmark (company name).
+It is the primary visual identifier of our brand.
+
+LOGO ELEMENTS:
+1. Brand Mark (Icon) - Geometric shape with company symbol
+2. Wordmark - Company name in Inter Bold typeface
+3. Full Logo - Combination of brand mark + wordmark
+
+LOGO VERSIONS:
+We have multiple logo variations for different use cases. Always use
+the appropriate version for the context.
+
+=============================================================================
+PRIMARY LOGO VERSIONS
+=============================================================================
+
+1. FULL COLOR LOGO (Primary)
+Use: Most common use case
+Background: White or light backgrounds
+Format: Color brand mark + black wordmark
+Files: logo-full-color.svg, .png, .pdf
+
+When to Use:
+✓ Website header
+✓ Marketing materials
+✓ Email signatures
+✓ Social media profiles
+✓ Default choice for most applications
+
+2. REVERSE LOGO (White on Dark)
+Use: Dark backgrounds
+Background: Dark blue, black, or dark images
+Format: White brand mark + white wordmark
+Files: logo-reverse.svg, .png, .pdf
+
+When to Use:
+✓ Dark website sections
+✓ Video overlays with dark backgrounds
+✓ Printed materials with dark backgrounds
+✓ Dark clothing or merchandise
+
+3. MONOCHROME BLACK
+Use: Single-color applications
+Background: White or light backgrounds
+Format: All black (brand mark + wordmark)
+Files: logo-black.svg, .png, .pdf
+
+When to Use:
+✓ Faxes and photocopies
+✓ Newspaper ads (black and white)
+✓ Embroidery or engraving
+✓ When color printing not available
+
+4. MONOCHROME WHITE
+Use: Single-color on dark backgrounds
+Background: Dark backgrounds
+Format: All white (brand mark + wordmark)
+Files: logo-white.svg, .png, .pdf
+
+When to Use:
+✓ Screen printing on dark materials
+✓ Etching or engraving on dark surfaces
+✓ When reverse color version needed
+
+5. BRAND MARK ONLY (Icon)
+Use: Small spaces or when already established
+Background: Various (use appropriate color version)
+Format: Icon only, no wordmark
+Files: icon-color.svg, icon-black.svg, icon-white.svg
+
+When to Use:
+✓ Social media profile pictures (square crop)
+✓ Favicon (website browser icon)
+✓ App icons
+✓ Small applications where wordmark won't be legible
+✓ When brand recognition already established
+
+6. WORDMARK ONLY (Text)
+Use: Very wide spaces
+Background: Various
+Format: Company name only, no icon
+Files: wordmark-color.svg, wordmark-black.svg
+
+When to Use:
+✓ Website footers (horizontal space)
+✓ Email headers (narrow horizontal)
+✓ Rarely used (prefer full logo when possible)
+
+=============================================================================
+LOGO CLEARSPACE & SIZING
+=============================================================================
+
+CLEARSPACE (Protected Area):
+Always maintain clear space around the logo equal to the height of the
+letter "o" in the wordmark on all sides.
+
+Minimum Clearspace: 1x the height of "o"
+Preferred Clearspace: 2x the height of "o" (when space allows)
+
+Do NOT place any elements within the clearspace:
+✗ Text
+✗ Other logos
+✗ Graphics or images
+✗ Border lines
+
+MINIMUM SIZES:
+
+Digital (Screen):
+- Full Logo: 120px wide (minimum)
+- Brand Mark Only: 32px wide (minimum)
+
+Print:
+- Full Logo: 0.75 inches wide (minimum)
+- Brand Mark Only: 0.25 inches wide (minimum)
+
+Below these sizes:
+- Logo may become illegible
+- Use larger size or brand mark only
+
+MAXIMUM SIZES:
+No maximum size, but consider context:
+- Logo should not dominate page
+- Maintain appropriate scale relative to content
+- Use good judgment (logo shouldn't be hero element)
+
+=============================================================================
+LOGO USAGE GUIDELINES
+=============================================================================
+
+DO'S:
+
+✓ Use official logo files only (never recreate)
+✓ Maintain original proportions (no stretching)
+✓ Ensure sufficient contrast with background
+✓ Place on clean, uncluttered backgrounds
+✓ Use appropriate color version for background
+✓ Maintain minimum clearspace
+✓ Download from brand portal: brand.company.com/logos
+✓ Use vector files (SVG, EPS, PDF) when possible
+✓ Ask brand team if unsure: brand@company.com
+
+DON'TS:
+
+✗ Do NOT alter, stretch, or distort logo
+✗ Do NOT change logo colors (use official versions only)
+✗ Do NOT add effects (shadows, outlines, gradients, glows)
+✗ Do NOT rotate logo (always horizontal)
+✗ Do NOT recreate or redraw logo
+✗ Do NOT place on busy or low-contrast backgrounds
+✗ Do NOT use old or outdated logo versions
+✗ Do NOT place inside shapes or containers
+✗ Do NOT add text or modify wordmark
+✗ Do NOT use low-resolution or pixelated versions
+
+=============================================================================
+LOGO MISUSE EXAMPLES
+=============================================================================
+
+INCORRECT USAGE:
+
+❌ STRETCHED:
+[Logo stretched horizontally or vertically]
+Problem: Distorts proportions, looks unprofessional
+Solution: Always maintain original aspect ratio
+
+❌ WRONG COLORS:
+[Logo in non-brand colors like green, purple, orange]
+Problem: Off-brand, confusing
+Solution: Use official color versions only
+
+❌ ADDED EFFECTS:
+[Logo with drop shadow, glow, outline, gradient]
+Problem: Cluttered, dated, not on-brand
+Solution: Use clean logo files with no effects
+
+❌ POOR CONTRAST:
+[Dark logo on dark background, light logo on light background]
+Problem: Illegible, doesn't meet accessibility standards
+Solution: Use reverse logo for dark backgrounds
+
+❌ BUSY BACKGROUND:
+[Logo on complex photo or pattern]
+Problem: Logo gets lost, hard to read
+Solution: Place on solid background or add background box
+
+❌ TOO SMALL:
+[Logo smaller than minimum size, illegible]
+Problem: Can't read wordmark
+Solution: Use larger size or brand mark only
+
+❌ ROTATED:
+[Logo tilted at an angle]
+Problem: Looks unprofessional and off-brand
+Solution: Always keep logo horizontal
+
+❌ INSIDE SHAPE:
+[Logo placed inside circle, square, or other shape]
+Problem: Constrains logo, adds visual clutter
+Solution: Use logo on its own with clearspace
+
+❌ ALTERED WORDMARK:
+[Logo with modified text, different font, or changed spacing]
+Problem: Inconsistent branding
+Solution: Use official logo files only
+
+❌ MULTIPLE LOGOS:
+[Different logo versions used on same page]
+Problem: Confusing, inconsistent
+Solution: Choose one appropriate version per page/application
+
+=============================================================================
+BACKGROUND USAGE
+=============================================================================
+
+APPROVED BACKGROUNDS:
+
+Solid Colors:
+✓ White (use full color logo)
+✓ Light gray (#F5F5F5 or lighter - use full color logo)
+✓ Brand Blue (#0066FF - use reverse/white logo)
+✓ Dark gray or black (#333333 or darker - use reverse/white logo)
+
+Photographic Backgrounds:
+✓ Use sparingly and carefully
+✓ Place logo on uncluttered area of image
+✓ Ensure high contrast
+✓ Add semi-transparent background box if needed:
+  - White box (80% opacity) for dark logos
+  - Dark box (80% opacity) for light logos
+
+Gradient Backgrounds:
+✓ Use official brand gradients only
+✓ Ensure contrast across entire gradient
+✓ Place logo in area with best contrast
+
+BACKGROUND CONTRAST:
+
+Required Contrast Ratios (WCAG Accessibility):
+- Minimum: 4.5:1 (for text and logos)
+- Preferred: 7:1 (for better readability)
+
+Test contrast:
+- Use online contrast checker tools
+- If logo is hard to see, choose different version
+- Accessibility is not optional
+
+=============================================================================
+LOGO FILE FORMATS
+=============================================================================
+
+VECTOR FORMATS (Preferred):
+
+.SVG (Scalable Vector Graphic)
+- Use for: Web, digital applications
+- Benefits: Scales infinitely, small file size, editable
+- Best for: Websites, web apps, responsive design
+
+.EPS (Encapsulated PostScript)
+- Use for: Print, professional design software
+- Benefits: High quality, editable in Adobe Illustrator
+- Best for: Brochures, posters, large-format print
+
+.PDF (Portable Document Format)
+- Use for: Print, sharing with vendors
+- Benefits: Universal format, preserves quality
+- Best for: Sending to printers, brand guidelines
+
+RASTER FORMATS (When Vector Not Possible):
+
+.PNG (Portable Network Graphic)
+- Use for: Web, presentations, email
+- Benefits: Transparent background, good quality
+- Resolutions available: 
+  - 500px (small)
+  - 1000px (medium)
+  - 2000px (large)
+  - 4000px (extra large)
+- Best for: PowerPoint, email signatures, social media
+
+.JPG (JPEG)
+- Use for: Email, web (when transparency not needed)
+- Benefits: Small file size
+- Note: No transparency, white background only
+- Best for: Email attachments (size-constrained)
+
+FILE NAMING CONVENTION:
+company-logo-[version]-[color]-[size].[format]
+
+Examples:
+- company-logo-full-color.svg
+- company-logo-reverse-white.png
+- company-logo-icon-color-500px.png
+- company-logo-wordmark-black.eps
+
+=============================================================================
+APPLICATION-SPECIFIC GUIDELINES
+=============================================================================
+
+WEBSITE:
+
+Header:
+- Use: Full color logo (SVG format)
+- Size: 120-180px wide
+- Position: Top left (standard)
+- Link: Home page
+- Mobile: May use brand mark only if space limited
+
+Footer:
+- Use: Full color or reverse (depending on footer color)
+- Size: 80-120px wide
+- Position: Left, center, or right (based on layout)
+
+Favicon:
+- Use: Brand mark only (icon)
+- Format: .ico, .png, .svg
+- Sizes: 16x16, 32x32, 48x48, 64x64, 128x128, 256x256
+- Background: Transparent or brand blue
+
+EMAIL SIGNATURE:
+
+- Use: Full color logo (PNG format)
+- Size: 120-150px wide, 72 DPI
+- Position: Above or below name
+- Format: PNG with transparent background
+- Link: Company website (optional)
+
+Template:
+```
+[Your Name]
+[Your Title]
+[Company Logo - 120px wide]
+[Company Name]
+[Your Email] | [Phone]
+[Website]
+```
+
+SOCIAL MEDIA:
+
+Profile Pictures (Square):
+- Use: Brand mark only (icon)
+- Format: PNG, high resolution
+- Size: 400x400px minimum (platforms auto-resize)
+- Spacing: Icon centered with padding
+- Platforms: LinkedIn, Twitter, Facebook, Instagram
+
+Cover Photos (Wide):
+- Use: Full logo (color or reverse depending on background)
+- Position: Left or center
+- Ensure logo doesn't get cut off on mobile
+- Leave room for profile picture overlap (if applicable)
+
+Posts & Content:
+- Use: Full color logo (when branding content)
+- Position: Corner or bottom (subtle)
+- Size: Small enough to not dominate content
+- Watermark: 50-60% opacity if needed
+
+PRESENTATIONS (PowerPoint, Keynote):
+
+Title Slide:
+- Use: Full color logo
+- Size: 1.5-2 inches wide
+- Position: Top left or center
+
+Content Slides:
+- Use: Full color logo (smaller)
+- Size: 0.5-0.75 inches wide
+- Position: Top right or bottom right (consistent throughout)
+
+Dark Slides:
+- Use: Reverse logo (white)
+- Same positioning and sizing as light slides
+
+VIDEO:
+
+Lower Third (During Video):
+- Use: Full color or reverse (depending on background)
+- Size: 10-15% of video width
+- Position: Bottom left or bottom right
+- Duration: 3-5 seconds (typically)
+
+Intro/Outro:
+- Use: Full color or animated logo
+- Size: 20-30% of video frame
+- Position: Centered
+- Background: Clean solid color or subtle animation
+
+Watermark (Throughout Video):
+- Use: Brand mark only (icon) at 30-40% opacity
+- Position: Top right or bottom right
+- Size: Small (2-4% of video width)
+
+MERCHANDISE & SWAG:
+
+T-shirts:
+- Use: Typically brand mark only or wordmark
+- Color: White or black (depending on shirt color)
+- Position: Left chest (small) or center chest (large)
+- Size: 3-4 inches wide (chest), 8-10 inches (center)
+
+Mugs/Drinkware:
+- Use: Full logo or brand mark
+- Color: Based on mug color (ensure contrast)
+- Position: Centered or wrap-around
+
+Stickers:
+- Use: Full color logo or brand mark
+- Die-cut: Logo shape (no background)
+- Size: 2-4 inches (typical)
+
+Notebooks/Stationery:
+- Use: Full color logo
+- Position: Front cover (center or bottom right)
+- Size: 1-2 inches wide
+- Foil stamp or emboss for premium look
+
+PRINT MATERIALS:
+
+Business Cards:
+- Use: Full color logo (front) or reverse (if dark card)
+- Size: 0.75-1 inch wide
+- Position: Top left, center, or bottom
+
+Letterhead:
+- Use: Full color logo
+- Size: 1-1.5 inches wide
+- Position: Top left or top center
+
+Brochures/Flyers:
+- Use: Full color logo
+- Position: Top of first page, back page
+- Size: 1-2 inches wide
+
+Signage:
+- Use: Full color logo (or reverse for dark signs)
+- Size: Based on viewing distance (larger for far viewing)
+- Material: Vector files for scalability
+
+=============================================================================
+PARTNER & CO-BRANDING
+=============================================================================
+
+When using our logo alongside partners:
+
+PARTNER LOGO PLACEMENT:
+
+Option 1: Side-by-Side (Preferred)
+[Our Logo]  |  [Partner Logo]
+- Vertical divider line between logos
+- Equal optical size (not necessarily same dimensions)
+- Maintain clearspace for both logos
+- Align to center or baseline
+
+Option 2: Stacked
+[Our Logo]
+[Partner Logo]
+- Vertically stacked with space between
+- Center-aligned
+- Use when horizontal space limited
+
+SIZING & HIERARCHY:
+
+Equal Partnership:
+- Both logos same optical size
+- Neither logo dominant
+- Equal spacing and clearspace
+
+We are Lead:
+- Our logo 1.5x larger (optically)
+- Our logo positioned first (left or top)
+- More prominent placement
+
+Partner is Lead:
+- Their logo 1.5x larger (optically)
+- Their logo positioned first
+- Our logo secondary but still legible
+
+APPROVAL PROCESS:
+All co-branding must be approved by:
+1. Brand team: brand@company.com
+2. Partnership team: partnerships@company.com
+3. Legal (if contract requires): legal@company.com
+
+=============================================================================
+LOGO DOWNLOAD & ACCESS
+=============================================================================
+
+OFFICIAL LOGO LIBRARY:
+Access all logo files at: brand.company.com/logos
+
+Available Files:
+✓ All logo versions (full, reverse, mono, icon, wordmark)
+✓ All file formats (SVG, EPS, PDF, PNG at multiple sizes)
+✓ All color variations
+✓ Usage guidelines (this document)
+
+LOGIN REQUIRED:
+- Employees: Use SSO login
+- Partners: Request access from brand@company.com
+- Press/Media: media.company.com/logos (public access)
+
+REQUESTING LOGO FILES:
+If you need a version not available:
+- Email brand team: brand@company.com
+- Specify: 
+  - Which logo version needed
+  - File format required
+  - Use case/application
+  - Deadline
+
+LOGO USAGE APPROVAL:
+For non-standard usage (special applications, modifications):
+- Submit request to brand team
+- Include mockup or description
+- Allow 2-3 business days for review
+- Wait for approval before proceeding
+
+=============================================================================
+BRAND ENFORCEMENT
+=============================================================================
+
+If you see logo misuse:
+1. Contact brand team: brand@company.com
+2. Provide screenshot or example
+3. Brand team will follow up with offender
+4. Corrections will be requested
+
+Common Violations:
+- Outdated logo versions
+- Incorrect colors or modifications
+- Poor contrast or placement
+- Recreated/low-quality versions
+
+CONSEQUENCES:
+- Internal: Training and correction
+- Partners: Contract violation notice
+- External: Cease and desist if necessary
+
+=============================================================================
+LOGO UPDATES & VERSIONING
+=============================================================================
+
+CURRENT LOGO:
+Version 2.0 (Launched January 2024)
+
+PREVIOUS VERSIONS:
+- Version 1.0 (2020-2023) - DEPRECATED, do not use
+- Original logo (2018-2020) - DEPRECATED, do not use
+
+WHEN LOGO IS UPDATED:
+- Brand team will announce via email
+- Update logo portal with new files
+- Provide transition timeline
+- Offer support for updates
+
+HOW TO TELL IF LOGO IS CURRENT:
+- Check file metadata (should say "Version 2.0")
+- Download fresh from brand portal (always current)
+- When in doubt, ask brand team
+
+=============================================================================
+FREQUENTLY ASKED QUESTIONS
+=============================================================================
+
+Q: Can I change the logo colors to match my design?
+A: No. Always use official logo versions. If you need the logo on a
+   colored background, choose the appropriate version (color, reverse,
+   or monochrome) but never alter the logo colors themselves.
+
+Q: The logo is too small in my design. Can I make the wordmark larger?
+A: No. Never alter the proportions. Instead, use a larger overall logo
+   size, or use the wordmark-only version if horizontal space is very wide.
+
+Q: Can I put a circle around the brand mark for social media?
+A: No. Use the brand mark as-is without additional shapes or containers.
+   Social platforms will display it in their frame (circle, square, etc.)
+   but don't add extra shapes yourself.
+
+Q: What if the logo doesn't look good on my background?
+A: Choose a different logo version (reverse or monochrome), or choose a
+   different background. Never alter the logo to "make it work."
+
+Q: Can I animate the logo for video?
+A: Simple animations (fade in, slide in) are acceptable. Complex animations
+   or effects require brand team approval. Contact brand@company.com.
+
+Q: I found an old version of the logo online. Can I use it?
+A: No. Always download the current logo from brand.company.com/logos.
+   Old versions are outdated and should not be used.
+
+Q: Do I need permission to use the logo internally?
+A: Employees can use official logo files from the brand portal without
+   permission for standard applications (slides, docs, etc.). Non-standard
+   usage should be reviewed by brand team.
+
+Q: Can partners/vendors use our logo?
+A: Only with written permission and following these guidelines. Partners
+   must request access to logo files and receive approval for usage.
+
+Q: What if I need a logo size or format not available?
+A: Contact brand team (brand@company.com) with your specific needs. They
+   can provide custom files if needed.
+
+Q: Can I use the logo in my email signature?
+A: Yes. Follow the email signature guidelines in this document. Use PNG
+   format, 120-150px wide, linked to website (optional).
+
+=============================================================================
+
+QUESTIONS?
+Contact the Brand Team: brand@company.com
+
+DOWNLOAD LOGOS:
+brand.company.com/logos
+
+BRAND GUIDELINES:
+brand.company.com/guidelines
+
+Version 2.0 | Updated January 2024
+© 2024 [Company Name]. All rights reserved.

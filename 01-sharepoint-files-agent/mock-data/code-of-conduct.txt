@@ -1,0 +1,616 @@
+# CONTOSO CODE OF CONDUCT
+
+**Effective Date**: January 1, 2024  
+**Version**: 4.0  
+**Owner**: Legal & Compliance Department  
+**Approved By**: Chief Executive Officer
+
+---
+
+## Message from the CEO
+
+At Contoso, our reputation is built on trust, integrity, and the ethical conduct of every employee. This Code of Conduct provides guidelines for making decisions that reflect our values and maintain the trust of our customers, partners, and colleagues.
+
+Each of us has a responsibility to uphold these standards. I encourage you to read this Code carefully, ask questions, and speak up if you see behavior that doesn't align with our values.
+
+Together, we build a workplace we can be proud of.
+
+**Sarah Johnson**  
+Chief Executive Officer
+
+---
+
+## Table of Contents
+
+1. Introduction and Core Values
+2. Workplace Conduct and Respect
+3. Conflicts of Interest
+4. Confidentiality and Data Protection
+5. Financial Integrity and Accurate Records
+6. Anti-Corruption and Bribery
+7. Fair Competition and Antitrust
+8. Protection of Company Assets
+9. Social Media and Public Communications
+10. Reporting Violations and Non-Retaliation
+
+---
+
+## 1. Introduction and Core Values
+
+### 1.1 Purpose of This Code
+This Code of Conduct establishes ethical standards and legal requirements for all Contoso employees, contractors, and board members. It is designed to:
+- Guide ethical decision-making
+- Prevent misconduct and legal violations
+- Protect our reputation and stakeholders
+- Create a positive work environment
+
+### 1.2 Applicability
+This Code applies to:
+- All Contoso employees (full-time, part-time, temporary)
+- Officers and directors
+- Contractors and consultants acting on behalf of Contoso
+- Applies globally to all locations and operations
+
+### 1.3 Our Core Values
+**Innovation**: We embrace new ideas and creative solutions  
+**Integrity**: We act honestly and ethically in all situations  
+**Respect**: We value diversity and treat everyone with dignity  
+**Accountability**: We take ownership of our actions and decisions  
+**Customer Focus**: We prioritize customer needs and satisfaction
+
+### 1.4 Individual Responsibility
+Every employee must:
+- Read and understand this Code
+- Comply with all policies and laws
+- Complete annual Code of Conduct training
+- Report suspected violations
+- Cooperate with investigations
+- Ask questions when unsure
+
+**"When in doubt, ask"** - Contact your manager, HR, Legal, or Ethics Hotline
+
+---
+
+## 2. Workplace Conduct and Respect
+
+### 2.1 Equal Employment Opportunity
+Contoso is committed to equal opportunity and does not discriminate based on:
+- Race, color, ethnicity, national origin
+- Gender, sex, sexual orientation, gender identity
+- Religion or religious beliefs
+- Age (40 and over)
+- Disability or medical condition
+- Veteran or military status
+- Genetic information
+- Marital or family status
+- Any other protected characteristic
+
+**Our Commitment**:
+- Fair hiring, promotion, and compensation practices
+- Reasonable accommodations for disabilities and religious practices
+- Inclusive workplace culture
+
+### 2.2 Anti-Harassment Policy
+Contoso prohibits all forms of harassment, including:
+- Sexual harassment (unwanted advances, requests for favors, inappropriate comments)
+- Hostile work environment (offensive jokes, slurs, intimidation)
+- Bullying or threatening behavior
+- Retaliation against those who report harassment
+
+**Examples of Prohibited Conduct**:
+- Unwanted physical contact or advances
+- Sexual jokes, comments, or imagery
+- Derogatory remarks about protected characteristics
+- Threats, intimidation, or aggressive behavior
+- Exclusion or isolation of colleagues
+
+**Zero Tolerance**: Harassment will result in disciplinary action up to and including termination.
+
+### 2.3 Workplace Violence Prevention
+Contoso is committed to a safe, violence-free workplace. Prohibited conduct includes:
+- Physical violence or threats of violence
+- Possession of weapons on company property (except authorized security)
+- Intimidation, stalking, or threatening behavior
+- Destruction of property
+
+**Report Immediately**: Any threats, violent behavior, or safety concerns to Security (ext. 5911) or 911 for emergencies.
+
+### 2.4 Substance Abuse
+**Drug-Free Workplace**:
+- Illegal drugs prohibited on company property and during work hours
+- Working under the influence of illegal drugs or alcohol prohibited
+- Prescription drugs: Use only as prescribed, report impairment concerns to supervisor
+
+**Alcohol at Company Events**:
+- Moderate consumption permitted at approved company events
+- Never drive after drinking; use rideshare or taxi
+- Excessive drinking or intoxication not tolerated
+
+**Assistance Available**: Employee Assistance Program (EAP) provides confidential support for substance abuse issues: 1-800-555-0123
+
+---
+
+## 3. Conflicts of Interest
+
+### 3.1 Definition
+A conflict of interest occurs when personal interests interfere or appear to interfere with Contoso's interests.
+
+**Examples**:
+- Financial interest in a competitor, customer, or supplier
+- Outside employment with competitor or business partner
+- Hiring or supervising family members
+- Personal relationships with subordinates
+- Using company position for personal gain
+- Accepting gifts or favors that create obligation
+
+### 3.2 Disclosure Requirement
+**You must disclose**:
+- Financial investments in competitors, customers, or suppliers (>$10,000 or 1% ownership)
+- Outside employment or board positions
+- Business relationships with family members
+- Gifts or entertainment exceeding $100 from business partners
+- Personal relationships with direct reports or subordinates
+
+**How to Disclose**:
+1. Complete Conflict of Interest Disclosure Form
+2. Submit to HR and your manager within 30 days of conflict arising
+3. Update annually during Code of Conduct training
+4. Await approval before proceeding with activity
+
+### 3.3 Outside Employment
+**Permitted With Approval**:
+- Must not interfere with Contoso job duties
+- Cannot involve competitors or conflict with Contoso business
+- No use of Contoso time, equipment, or confidential information
+- Manager and HR approval required
+
+**Prohibited**:
+- Working for direct competitors
+- Consulting for customers or suppliers without approval
+- Using Contoso relationships for personal business
+
+### 3.4 Family and Personal Relationships
+**Hiring Relatives**:
+- Permitted with disclosure and HR approval
+- Cannot create reporting relationship (direct or indirect)
+- Must maintain professional boundaries
+
+**Romantic Relationships**:
+- Disclose relationships with direct reports or subordinates
+- Reporting relationship must be changed
+- Consensual relationships not prohibited but must be disclosed
+- Favoritism or preferential treatment prohibited
+
+### 3.5 Corporate Opportunities
+Employees may not:
+- Take personal advantage of opportunities discovered through Contoso employment
+- Use Contoso property, information, or position for personal gain
+- Compete with Contoso business interests
+
+**Example Violation**: Learning of real estate opportunity through work and purchasing property for personal investment before Contoso can act.
+
+---
+
+## 4. Confidentiality and Data Protection
+
+### 4.1 Confidential Information
+Employees have access to confidential and proprietary information including:
+- Customer data and contracts
+- Financial information and business strategies
+- Product development plans and trade secrets
+- Personnel information and salaries
+- M&A plans and negotiations
+- Intellectual property and source code
+
+**Obligations**:
+- Sign confidentiality agreement upon hire
+- Protect confidential information during and after employment
+- Do not discuss confidential matters outside work
+- Limit internal sharing to "need to know" basis
+- Secure documents and data from unauthorized access
+
+### 4.2 Data Privacy and Security
+**Protecting Customer Data**:
+- Follow data privacy laws (GDPR, CCPA, etc.)
+- Collect only necessary data with proper consent
+- Use data only for authorized business purposes
+- Implement security controls (encryption, access restrictions)
+- Report data breaches immediately (within 2 hours)
+
+**Personal Data Handling**:
+- Strong passwords (12+ characters, unique, changed every 90 days)
+- Multi-factor authentication required
+- Lock computer when away (Windows + L or Cmd + Ctrl + Q)
+- Do not share login credentials
+- Use VPN for remote access
+- Encrypt sensitive data in transit and at rest
+
+**Prohibited**:
+- Storing confidential data on personal devices
+- Using personal email for business communications
+- Sharing credentials or allowing others to use your account
+- Bypassing security controls
+
+### 4.3 Insider Trading
+**Prohibition**: Using material non-public information to trade securities or sharing such information with others.
+
+**Material Information** includes:
+- Financial results before public announcement
+- Merger, acquisition, or divestiture plans
+- Major contracts, wins, or losses
+- Executive changes
+- Product launches or discontinuations
+- Regulatory actions or lawsuits
+
+**Trading Windows**:
+- Only trade Contoso stock during designated trading windows
+- Executives and certain employees subject to pre-clearance requirements
+- Blackout periods before earnings announcements
+
+**Violation Consequences**: Termination, civil penalties (up to 3x profit), criminal prosecution (up to 20 years imprisonment)
+
+---
+
+## 5. Financial Integrity and Accurate Records
+
+### 5.1 Financial Reporting Accuracy
+All financial records and reports must be:
+- Accurate, complete, and timely
+- Supported by appropriate documentation
+- Prepared in accordance with GAAP and company policies
+- Subject to internal controls and audits
+
+**Prohibited**:
+- False or misleading entries
+- Unrecorded funds or assets ("slush funds")
+- Improper revenue recognition
+- Expense misclassification
+- Document destruction to avoid disclosure
+
+### 5.2 Business Records and Documentation
+**Requirements**:
+- Maintain accurate records of business transactions
+- Retain documents per retention policy (typically 7 years)
+- Do not destroy documents related to litigation or investigations
+- Follow document retention and disposal procedures
+
+**Examples**:
+- Expense reports with receipts
+- Contracts and agreements
+- Time sheets and payroll records
+- Emails and communications
+- Meeting minutes and decisions
+
+### 5.3 Internal Controls and Audits
+**Cooperation Required**:
+- Provide accurate information to auditors
+- Do not interfere with or obstruct audits
+- Report control weaknesses or concerns
+- Implement corrective actions promptly
+
+---
+
+## 6. Anti-Corruption and Bribery
+
+### 6.1 Prohibition on Bribes and Kickbacks
+Contoso strictly prohibits:
+- Offering, giving, requesting, or accepting bribes
+- Kickbacks or illegal payments
+- Facilitation payments to government officials
+- Anything of value to improperly influence business decisions
+
+**Applies To**:
+- Government officials and employees
+- Customers and suppliers
+- Partners and agents
+- Any business relationship
+
+### 6.2 Gifts and Entertainment
+**Giving Gifts/Entertainment**:
+- Must be reasonable, infrequent, and for legitimate business purpose
+- No cash or cash equivalents (gift cards, checks)
+- Maximum value: $100 per person per occasion
+- Requires manager approval for amounts over $50
+- Must comply with recipient's organization policies
+- Prohibited if intended to influence business decision
+
+**Receiving Gifts/Entertainment**:
+- May accept modest gifts and entertainment (under $100)
+- Must disclose gifts over $100 to manager
+- Decline if creates sense of obligation
+- Never solicit gifts or favors
+- Government employees: Special restrictions apply (often $0 limit)
+
+**Examples Permitted**:
+- Vendor lunch during business meeting ($50 meal)
+- Promotional items (branded pens, mugs, t-shirts)
+- Holiday gift basket ($75 value)
+
+**Examples Prohibited**:
+- $500 gift card
+- All-expenses-paid vacation
+- Expensive jewelry or electronics
+- Cash or checks
+- Anything contingent on business decision
+
+### 6.3 Government Interactions
+**Heightened Rules for Government Business**:
+- Strict gift and hospitality limits (often $0 for government employees)
+- Competitive bidding requirements
+- Lobbying regulations and registration
+- Political contribution restrictions
+- Truthful and accurate information required
+
+**Prior Approval Required** for:
+- Gifts or meals for government officials
+- Political contributions using company funds
+- Lobbying activities
+- Government contract negotiations
+
+---
+
+## 7. Fair Competition and Antitrust
+
+### 7.1 Antitrust Compliance
+Contoso competes fairly and complies with antitrust and competition laws.
+
+**Prohibited Conduct**:
+- Price fixing with competitors
+- Bid rigging or market allocation
+- Monopolistic practices
+- Tying arrangements (forcing customers to buy product B to get product A)
+- Predatory pricing to eliminate competition
+
+### 7.2 Competitor Interactions
+**Do Not Discuss with Competitors**:
+- Pricing strategies or specific pricing
+- Customer lists or market division
+- Production capacity or sales volumes
+- Bids or bid strategies
+- Terms and conditions offered to customers
+
+**Trade Association Meetings**:
+- Have clear business purpose and agenda
+- Legal counsel present recommended
+- Do not engage in prohibited discussions
+- Leave meeting if inappropriate topics raised
+
+### 7.3 Obtaining Competitive Intelligence
+**Permitted**:
+- Publicly available information (websites, reports, news)
+- Trade shows and conferences
+- Customer feedback and market research
+- Publicly filed documents (SEC filings, patents)
+
+**Prohibited**:
+- Misrepresentation or deception to obtain information
+- Hiring competitors' employees solely to obtain confidential information
+- Theft or unauthorized access to competitors' information
+- Violating non-disclosure agreements
+
+---
+
+## 8. Protection of Company Assets
+
+### 8.1 Physical Assets
+Employees must protect company property including:
+- Computers, phones, equipment
+- Office furniture and supplies
+- Vehicles and machinery
+- Inventory and products
+- Facilities and buildings
+
+**Responsibilities**:
+- Use assets for business purposes (reasonable personal use permitted)
+- Prevent loss, theft, or damage
+- Report missing or stolen property immediately
+- Return all assets upon termination
+
+### 8.2 Intellectual Property
+Contoso's intellectual property includes:
+- Patents, trademarks, copyrights
+- Software source code and algorithms
+- Trade secrets and know-how
+- Business processes and methods
+- Branding and marketing materials
+
+**Protection**:
+- Inventions and creations during employment belong to Contoso
+- Sign IP assignment agreements
+- Use copyright and trademark notices
+- Report IP infringement
+- Respect others' IP rights (don't use unlicensed software or content)
+
+### 8.3 IT Resources and Acceptable Use
+**Company IT Systems Include**:
+- Computers, laptops, tablets, phones
+- Email and productivity software
+- Internet and network access
+- Cloud storage and applications
+
+**Acceptable Use**:
+- Primary purpose: Business use
+- Reasonable personal use permitted (brief, non-interfering)
+- Professional and legal content only
+
+**Prohibited Use**:
+- Accessing inappropriate or illegal content
+- Downloading unauthorized software or files
+- Using IT resources for personal business or profit
+- Excessive personal use during work hours
+- Circumventing security controls
+- Sending harassing or offensive communications
+
+**No Expectation of Privacy**: Company reserves right to monitor, access, and disclose information on company systems.
+
+---
+
+## 9. Social Media and Public Communications
+
+### 9.1 Personal Social Media Use
+**Guidelines**:
+- Include disclaimer: "Views expressed are my own and do not represent Contoso"
+- Do not disclose confidential company information
+- Do not speak on behalf of Contoso without authorization
+- Be respectful and professional (conduct reflects on Contoso)
+- Do not disparage company, colleagues, customers, or competitors
+- Respect copyrights and intellectual property
+
+**When Discussing Work**:
+- Indicate you work for Contoso if relevant to discussion
+- Do not reveal confidential information (financials, strategies, customer data)
+- Do not make commitments or statements on behalf of company
+- Avoid conflicts with your job duties or Contoso interests
+
+### 9.2 Company Social Media and Communications
+**Authorization Required**:
+- Only designated spokespersons may speak on behalf of Contoso
+- Media inquiries: Refer to Corporate Communications (ext. 5050)
+- Investor inquiries: Refer to Investor Relations (ext. 5051)
+- Legal matters: Refer to Legal Department (ext. 5052)
+
+**Posting on Official Channels**:
+- Must follow brand guidelines and approval process
+- Maintain professional tone and accuracy
+- Do not engage in arguments or negative exchanges
+
+### 9.3 Confidentiality in Public
+**Be Cautious**:
+- Do not discuss confidential matters in public places (airports, cafes, elevators)
+- Do not leave confidential documents visible or unattended
+- Be aware of shoulder surfing and eavesdropping
+- Use headphones for confidential calls
+- Avoid discussing work with family/friends if confidential
+
+---
+
+## 10. Reporting Violations and Non-Retaliation
+
+### 10.1 Duty to Report
+**You Must Report**:
+- Suspected violations of this Code
+- Illegal or unethical behavior
+- Conflicts of interest
+- Harassment or discrimination
+- Financial irregularities
+- Safety hazards
+- Retaliation against reporters
+
+**"Speak Up Culture"**: We encourage open communication and value employees who raise concerns in good faith.
+
+### 10.2 How to Report
+
+**Option 1: Direct Manager**
+- Discuss concerns with your immediate supervisor
+- Best option for most issues
+
+**Option 2: Human Resources**
+- Contact HR Business Partner or HR Service Center
+- Email: hr@contoso.com or ext. 5000
+
+**Option 3: Legal & Compliance**
+- Email: ethics@contoso.com or ext. 5003
+- For legal violations or compliance concerns
+
+**Option 4: Ethics Hotline (Anonymous)**
+- Phone: 1-800-555-0199 (24/7, toll-free)
+- Website: ethics.contoso.com
+- Confidential and anonymous (if desired)
+- Third-party operated
+- Available in multiple languages
+
+**Option 5: Executive Management**
+- Chief Compliance Officer: compliance@contoso.com
+- General Counsel: legal@contoso.com
+- CEO: ceo@contoso.com (for serious matters)
+
+### 10.3 Investigation Process
+**What Happens After You Report**:
+1. Report received and logged
+2. Initial assessment by Compliance or HR
+3. Investigation conducted (interviews, document review)
+4. Findings documented
+5. Corrective actions taken if violations confirmed
+6. Reporter updated (subject to confidentiality)
+
+**Timeline**: Most investigations completed within 30-60 days
+
+**Confidentiality**: We protect reporter identity to extent possible, but may need to disclose during investigation
+
+### 10.4 Non-Retaliation Policy
+**Prohibition**: Retaliation against anyone who reports concerns in good faith is strictly prohibited.
+
+**Retaliation Includes**:
+- Termination, demotion, or suspension
+- Salary reduction or denied promotion
+- Threats, harassment, or intimidation
+- Exclusion from meetings or projects
+- Unfavorable work assignments
+
+**Protection**: Applies even if investigation finds no violation, as long as report made in good faith
+
+**Consequence**: Retaliation is itself a violation and will result in disciplinary action
+
+### 10.5 Accountability and Discipline
+**Violations May Result In**:
+- Verbal or written warning
+- Required training or counseling
+- Demotion or salary reduction
+- Suspension or termination of employment
+- Civil or criminal prosecution (serious violations)
+
+**Factors Considered**:
+- Severity of violation
+- Intent and circumstances
+- Prior conduct and record
+- Cooperation with investigation
+
+---
+
+## 11. Waivers and Amendments
+
+Waivers of this Code for executive officers or directors may only be granted by the Board of Directors and must be promptly disclosed to shareholders as required by law.
+
+Amendments to this Code must be approved by the CEO and General Counsel.
+
+---
+
+## 12. Resources and Contact Information
+
+**Ethics Hotline**: 1-800-555-0199 or ethics.contoso.com  
+**Human Resources**: hr@contoso.com or ext. 5000  
+**Legal & Compliance**: ethics@contoso.com or ext. 5003  
+**IT Security**: security@contoso.com or ext. 5100  
+**Corporate Communications**: comms@contoso.com or ext. 5050
+
+**Code of Conduct Training**: Available on Learning Portal (learning.contoso.com)  
+**Policy Library**: All company policies available at policies.contoso.com
+
+---
+
+## 13. Acknowledgment and Certification
+
+All employees must:
+- Read and understand this Code of Conduct
+- Complete annual Code of Conduct training
+- Certify compliance annually
+- Report any violations or concerns
+
+**Annual Certification**: You will be asked to certify that you have read, understood, and complied with this Code during annual performance review process.
+
+**Questions**: Contact your manager, HR, Legal, or Ethics Hotline
+
+---
+
+**Remember**: When in doubt, ask. It's better to ask questions than to proceed with uncertainty. Our reputation depends on each of us acting with integrity every day.
+
+**Thank you for upholding Contoso's values and maintaining our culture of ethics and integrity.**
+
+---
+
+**Document Control**:
+- Document ID: LEGAL-COC-2024-001
+- Classification: Public
+- Distribution: All Employees, Contractors, Board Members
+- Review Frequency: Annual
+- Next Review: January 2025

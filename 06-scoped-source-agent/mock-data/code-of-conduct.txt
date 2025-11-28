@@ -1,0 +1,572 @@
+EMPLOYEE CODE OF CONDUCT AND ETHICS
+Human Resources Department | Version 5.0 | Effective: January 1, 2024
+
+=============================================================================
+INTRODUCTION
+=============================================================================
+
+MESSAGE FROM THE CEO:
+
+At our company, we are committed to conducting business with the highest
+standards of integrity, honesty, and ethical behavior. This Code of Conduct
+defines the expectations for all employees, contractors, officers, and board
+members.
+
+Our reputation is built on trust - with customers, partners, employees, and
+communities. Each of us has a responsibility to uphold these standards every
+day. When facing ethical dilemmas, ask yourself:
+
+- Is it legal?
+- Is it consistent with our values?
+- Would I be comfortable if this appeared in the news?
+- Would I want my family to know I did this?
+
+If the answer to any of these is "no," stop and seek guidance.
+
+Thank you for your commitment to doing the right thing, always.
+
+Signed,
+[CEO Name]
+Chief Executive Officer
+
+=============================================================================
+SECTION 1: CORE VALUES AND PRINCIPLES
+=============================================================================
+
+OUR CORE VALUES:
+
+INTEGRITY:
+We are honest, transparent, and ethical in all interactions. We do what we
+say we will do, and we admit mistakes when we make them.
+
+RESPECT:
+We treat everyone with dignity and respect, regardless of position, background,
+or beliefs. We value diverse perspectives and create an inclusive environment.
+
+EXCELLENCE:
+We strive for excellence in everything we do. We hold ourselves accountable
+for results and continuously improve our skills and processes.
+
+COLLABORATION:
+We work together towards common goals. We share knowledge, support each other,
+and celebrate team successes.
+
+CUSTOMER FOCUS:
+We put customers at the center of everything we do. We listen to their needs,
+deliver value, and build long-term relationships.
+
+INNOVATION:
+We encourage creativity and new ideas. We take calculated risks, learn from
+failures, and continuously innovate to stay ahead.
+
+=============================================================================
+SECTION 2: COMPLIANCE WITH LAWS AND REGULATIONS
+=============================================================================
+
+2.1 LEGAL COMPLIANCE
+
+All employees must:
+✓ Comply with all applicable laws, regulations, and company policies
+✓ Understand legal requirements relevant to their role
+✓ Seek guidance when unsure about legal obligations
+✓ Report suspected violations promptly
+
+Key regulations:
+- Labor laws (wage/hour, discrimination, safety)
+- Data privacy (GDPR, CCPA)
+- Financial regulations (SOX, FINRA)
+- Anti-corruption (FCPA, UK Bribery Act)
+- Export controls (ITAR, EAR)
+- Antitrust and competition laws
+
+2.2 ANTI-BRIBERY AND CORRUPTION
+
+PROHIBITED ACTIVITIES:
+✗ Offering or accepting bribes, kickbacks, or improper payments
+✗ Making facilitation payments (even if common practice in region)
+✗ Providing anything of value to government officials to influence decisions
+✗ Money laundering or participating in corrupt schemes
+
+GIFTS AND ENTERTAINMENT:
+Gifts and entertainment must be:
+✓ Reasonable in value (< $100 per instance, $500 per year per recipient)
+✓ Infrequent (not routine)
+✓ Legal and compliant with recipient's policies
+✓ Transparent (disclosed and approved)
+✓ Not intended to influence business decisions
+
+NEVER ACCEPTABLE:
+✗ Cash or cash equivalents (gift cards)
+✗ Gifts to government officials (without prior approval)
+✗ Entertainment without business purpose
+✗ Extravagant or inappropriate gifts (jewelry, luxury items)
+
+APPROVAL REQUIREMENTS:
+- Gifts $50-$100: Manager approval
+- Gifts $100-$500: Director approval + Legal review
+- Gifts >$500: VP approval + Legal review + CEO approval
+- All gifts to government officials: Legal approval required
+
+2.3 CONFLICTS OF INTEREST
+
+DEFINITION:
+A conflict of interest arises when personal interests interfere, or appear to
+interfere, with the company's interests.
+
+EXAMPLES:
+✗ Financial interest in competitor, supplier, or customer
+✗ Outside employment that competes with company
+✗ Hiring or supervising family members
+✗ Personal relationships with direct reports
+✗ Using company resources for personal business
+✗ Taking business opportunities for personal gain
+
+DISCLOSURE REQUIREMENTS:
+Employees must disclose:
+✓ Immediately upon becoming aware of potential conflict
+✓ Complete annual conflict of interest questionnaire
+✓ Update disclosure if circumstances change
+✓ Recuse themselves from related decisions
+
+FAMILY EMPLOYMENT:
+- Family members may be employed if properly disclosed
+- Cannot have reporting relationship (direct or indirect)
+- Cannot be involved in hiring, promotion, or compensation decisions
+- Subject to approval by HR and senior management
+
+=============================================================================
+SECTION 3: WORKPLACE CONDUCT
+=============================================================================
+
+3.1 HARASSMENT AND DISCRIMINATION
+
+ZERO-TOLERANCE POLICY:
+We prohibit all forms of harassment and discrimination based on:
+- Race, color, ethnicity, national origin
+- Religion or religious beliefs
+- Sex, gender, gender identity, gender expression
+- Sexual orientation
+- Age
+- Disability or medical condition
+- Genetic information
+- Marital status, pregnancy, or family status
+- Military or veteran status
+- Any other protected characteristic
+
+PROHIBITED CONDUCT:
+✗ Offensive jokes, comments, or slurs
+✗ Unwelcome sexual advances or requests for sexual favors
+✗ Displaying offensive images or materials
+✗ Intimidation, bullying, or threats
+✗ Physical assault or unwanted touching
+✗ Retaliation against those who report concerns
+
+EVERYONE'S RESPONSIBILITY:
+✓ Treat others with respect and professionalism
+✓ Speak up if you witness inappropriate behavior
+✓ Report harassment or discrimination promptly
+✓ Cooperate with investigations
+
+REPORTING:
+- Manager or HR representative
+- Ethics hotline: 1-800-555-0199 (anonymous)
+- Online: ethics.company.com
+
+NO RETALIATION:
+Retaliation against anyone who reports concerns in good faith is strictly
+prohibited and will result in disciplinary action up to termination.
+
+3.2 WORKPLACE SAFETY
+
+COMMITMENT TO SAFETY:
+We are committed to providing a safe and healthy work environment.
+
+EMPLOYEE RESPONSIBILITIES:
+✓ Follow all safety policies and procedures
+✓ Use required personal protective equipment (PPE)
+✓ Report unsafe conditions immediately
+✓ Report workplace injuries or illnesses
+✓ Participate in safety training
+✓ Avoid working under the influence of drugs or alcohol
+
+PROHIBITED:
+✗ Possession, use, or distribution of illegal drugs on company premises
+✗ Reporting to work under the influence of drugs or alcohol
+✗ Bringing weapons to work (except authorized security personnel)
+✗ Threatening or engaging in workplace violence
+
+INCIDENT REPORTING:
+All workplace accidents, injuries, and near-misses must be reported to:
+- Supervisor or manager (immediately)
+- Safety Officer (within 24 hours)
+- Workers' compensation administrator (if medical treatment needed)
+
+3.3 CONFIDENTIAL INFORMATION
+
+DEFINITION:
+Confidential information includes:
+- Trade secrets (formulas, processes, designs)
+- Business plans and strategies
+- Financial information (non-public)
+- Customer lists and data
+- Employee personal information
+- Proprietary software and technology
+- Merger and acquisition plans
+
+PROTECTION REQUIREMENTS:
+✓ Access only information needed for job duties
+✓ Do not share confidential information outside the company
+✓ Use secure channels for transmitting sensitive data
+✓ Lock workstations when away from desk
+✓ Shred confidential documents
+✓ Return all confidential materials upon termination
+
+EXTERNAL COMMUNICATIONS:
+All inquiries from:
+- Media
+- Investors or analysts
+- Regulators or government agencies
+Must be referred to: Corporate Communications or Legal Department
+
+SOCIAL MEDIA:
+✗ Do not disclose confidential company information
+✗ Do not speak on behalf of the company (unless authorized)
+✓ Include disclaimer if discussing work-related topics: "Views are my own"
+✓ Be respectful and professional
+✓ Respect intellectual property and copyright
+
+=============================================================================
+SECTION 4: FINANCIAL INTEGRITY
+=============================================================================
+
+4.1 ACCURATE RECORDS AND REPORTING
+
+REQUIREMENTS:
+All business records must be:
+✓ Accurate, complete, and timely
+✓ Supported by appropriate documentation
+✓ Compliant with accounting standards (GAAP/IFRS)
+✓ Auditable and retained per policy
+
+PROHIBITED:
+✗ Falsifying records or reports
+✗ Omitting material information
+✗ Creating false or misleading entries
+✗ Destroying records before retention period expires
+✗ Concealing errors or irregularities
+
+SPECIFIC RESPONSIBILITIES:
+
+Time Reporting:
+- Record all hours worked accurately
+- Do not work "off the clock"
+- Include all time worked, including overtime
+
+Expense Reporting:
+- Submit only legitimate business expenses
+- Provide receipts and appropriate documentation
+- Follow expense policy limits and approval requirements
+- Do not inflate or fabricate expenses
+
+Revenue Recognition:
+- Record revenue only when earned per accounting standards
+- Do not accelerate or delay revenue recognition for targets
+- Disclose all terms and conditions of sales
+
+4.2 INSIDER TRADING
+
+DEFINITION:
+Buying or selling company stock while in possession of material, non-public
+information (MNPI), or tipping others who trade based on that information.
+
+MATERIAL INFORMATION:
+Information is "material" if a reasonable investor would consider it important
+in making an investment decision. Examples:
+- Financial results (earnings, revenue, forecasts)
+- Mergers, acquisitions, or divestitures
+- Major contract wins or losses
+- Product launches or failures
+- Regulatory approvals or issues
+- Leadership changes
+- Significant legal matters
+
+NON-PUBLIC INFORMATION:
+Information not yet disclosed to the public via press release, SEC filing, or
+other broadly disseminated means.
+
+PROHIBITED ACTIVITIES:
+✗ Trading company stock while aware of MNPI
+✗ Tipping others (friends, family) about MNPI
+✗ Trading stock of other companies based on MNPI learned through work
+
+TRADING WINDOWS:
+- Open window: 3 days after earnings release until month-end of quarter
+- Blackout period: Last month of quarter through earnings release
+- Special blackouts: Announced for M&A or other events
+
+PRE-CLEARANCE:
+Officers, directors, and certain employees must pre-clear all trades with
+Legal Department.
+
+PENALTIES:
+Violations may result in:
+- Civil penalties (up to 3x profit gained or loss avoided)
+- Criminal penalties (up to $5 million fine and 20 years imprisonment)
+- Termination of employment
+- Disgorgement of profits
+
+4.3 ANTI-MONEY LAUNDERING
+
+COMMITMENT:
+We do not engage in money laundering or facilitate such activities.
+
+RED FLAGS:
+Be alert for:
+⚠️ Unusual payment methods (large cash payments)
+⚠️ Complex or unusual transactions with no clear business purpose
+⚠️ Customers refusing to provide identification
+⚠️ Payments from third parties unrelated to transaction
+⚠️ Requests to split transactions to avoid reporting requirements
+⚠️ Overpayments with requests to refund excess
+
+REPORTING:
+Report suspicious activity to: Legal Department or Compliance Officer
+
+KNOW YOUR CUSTOMER (KYC):
+- Verify customer identity
+- Understand customer's business and source of funds
+- Monitor transactions for unusual patterns
+- Screen against sanctions lists (OFAC, EU, UN)
+
+=============================================================================
+SECTION 5: INFORMATION SECURITY AND DATA PRIVACY
+=============================================================================
+
+5.1 DATA PROTECTION
+
+PERSONAL DATA:
+Respect privacy of:
+- Customers
+- Employees
+- Job applicants
+- Website visitors
+- Business partners
+
+DATA MINIMIZATION:
+✓ Collect only data necessary for specific purpose
+✓ Retain data only as long as needed (per retention schedule)
+✓ Delete data securely when no longer needed
+
+SECURITY MEASURES:
+✓ Use strong passwords (12+ characters, unique per account)
+✓ Enable multi-factor authentication (MFA)
+✓ Encrypt sensitive data at rest and in transit
+✓ Lock devices when unattended
+✓ Report lost or stolen devices immediately
+✓ Do not share accounts or passwords
+
+PROHIBITED:
+✗ Accessing personal data without business need
+✗ Sharing personal data outside authorized systems
+✗ Using personal data for unauthorized purposes
+✗ Taking personal data offsite without approval and encryption
+
+5.2 CYBERSECURITY
+
+PHISHING AWARENESS:
+Be skeptical of:
+⚠️ Unexpected emails requesting sensitive information
+⚠️ Emails with urgent or threatening language
+⚠️ Links or attachments from unknown senders
+⚠️ Requests to verify account credentials
+
+BEST PRACTICES:
+✓ Verify sender before clicking links or opening attachments
+✓ Hover over links to check actual destination
+✓ Report suspicious emails to IT Security
+✓ Use corporate email for business (not personal email)
+✓ Do not bypass security controls (VPN, firewall)
+
+INCIDENT REPORTING:
+Report immediately:
+- Suspected phishing or malware
+- Lost or stolen devices
+- Unauthorized access to systems or data
+- Data breaches or leaks
+
+Contact: Security Operations Center (SOC) - security@company.com | x5100
+
+5.3 ACCEPTABLE USE OF TECHNOLOGY
+
+PERMITTED USES:
+✓ Business-related work
+✓ Reasonable personal use (email, web browsing during breaks)
+✓ Professional development (online training, research)
+
+PROHIBITED USES:
+✗ Illegal activities
+✗ Accessing inappropriate content (pornography, hate speech)
+✗ Downloading unauthorized software
+✗ Using company resources for personal business
+✗ Excessive personal use impacting productivity
+✗ Sending offensive or harassing messages
+
+MONITORING:
+Company reserves the right to monitor:
+- Email, internet usage, and file storage
+- Company-owned devices (laptops, phones)
+- Network activity
+Employees have no expectation of privacy on company systems.
+
+=============================================================================
+SECTION 6: REPORTING AND ENFORCEMENT
+=============================================================================
+
+6.1 REPORTING VIOLATIONS
+
+SPEAK UP CULTURE:
+We encourage employees to raise concerns without fear of retaliation.
+
+REPORTING CHANNELS:
+
+Manager or HR:
+First line for most concerns
+
+Ethics Hotline:
+1-800-555-0199 (24/7, anonymous)
+
+Ethics Website:
+ethics.company.com (anonymous submission)
+
+Legal Department:
+legal@company.com (for legal/compliance issues)
+
+Audit Committee:
+auditcommittee@company.com (for accounting/financial concerns)
+
+WHAT TO REPORT:
+- Violations of law or company policy
+- Conflicts of interest
+- Fraud, theft, or embezzlement
+- Safety hazards or injuries
+- Harassment or discrimination
+- Retaliation
+- Accounting or financial irregularities
+- Data breaches
+
+ANONYMITY:
+- Ethics hotline and website allow anonymous reporting
+- Company will protect identity of reporters to extent possible
+- Some situations may require disclosure for proper investigation
+
+6.2 NO RETALIATION
+
+PROTECTION:
+Employees who report concerns in good faith are protected from retaliation.
+
+RETALIATION INCLUDES:
+✗ Termination or demotion
+✗ Reduced pay or hours
+✗ Unfavorable assignments or transfers
+✗ Exclusion from meetings or opportunities
+✗ Intimidation or harassment
+
+CONSEQUENCES:
+Retaliation is a serious violation and will result in disciplinary action
+up to and including termination.
+
+6.3 INVESTIGATIONS
+
+PROCESS:
+When a concern is reported:
+1. Initial assessment (24-48 hours)
+2. Investigation (interviews, document review)
+3. Findings and conclusions
+4. Corrective action (if warranted)
+5. Follow-up and closure
+
+EMPLOYEE COOPERATION:
+Employees are required to:
+✓ Cooperate fully with investigations
+✓ Provide truthful information
+✓ Maintain confidentiality
+✓ Refrain from interfering with investigation
+
+CONFIDENTIALITY:
+Investigation details shared only on need-to-know basis.
+
+6.4 DISCIPLINARY ACTION
+
+VIOLATIONS:
+Violations of this Code may result in:
+- Verbal or written warning
+- Mandatory retraining
+- Suspension (with or without pay)
+- Termination
+- Civil or criminal prosecution (if applicable)
+
+FACTORS CONSIDERED:
+- Severity of violation
+- Intent (intentional vs. negligent)
+- Prior violations
+- Cooperation with investigation
+- Position and responsibilities
+
+MANAGERS:
+Managers who fail to report or address violations, or who retaliate against
+reporters, will face disciplinary action up to termination.
+
+=============================================================================
+SECTION 7: WAIVERS AND AMENDMENTS
+=============================================================================
+
+WAIVERS:
+Waivers of this Code:
+- For officers or directors: Require Board of Directors approval and public disclosure
+- For other employees: Require Chief Compliance Officer approval
+
+AMENDMENTS:
+This Code may be amended by Board of Directors. Material amendments will be
+disclosed as required by law.
+
+=============================================================================
+CERTIFICATION
+=============================================================================
+
+ANNUAL CERTIFICATION:
+All employees must:
+✓ Read and understand this Code of Conduct
+✓ Complete annual Code of Conduct training
+✓ Certify compliance annually
+✓ Disclose any violations or potential conflicts
+
+I hereby acknowledge that I have read, understand, and agree to comply with
+the Employee Code of Conduct and Ethics. I understand that violations may
+result in disciplinary action up to and including termination.
+
+Employee Name: _______________________
+Employee ID: _______________________
+Department: _______________________
+Signature: _______________________
+Date: _______________________
+
+=============================================================================
+DOCUMENT CONTROL
+=============================================================================
+
+Document Version: 5.0
+Effective Date: January 1, 2024
+Next Review: January 1, 2025
+Owner: Chief Compliance Officer
+Approved by: Board of Directors
+
+Contact Information:
+Ethics Hotline: 1-800-555-0199 (24/7, anonymous)
+Ethics Website: ethics.company.com
+Email: ethics@company.com
+
+REVISION HISTORY:
+Version 4.0 (Jan 2023): Initial comprehensive Code
+Version 4.1 (Jun 2023): Added social media guidance
+Version 4.2 (Sep 2023): Updated data privacy section
+Version 5.0 (Jan 2024): Major update with cybersecurity and AI ethics

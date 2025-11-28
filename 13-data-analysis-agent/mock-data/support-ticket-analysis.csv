@@ -1,0 +1,41 @@
+ticket_id,created_date,category,priority,status,resolution_time_hours,satisfaction_rating,customer_segment,product_area,resolved_by
+T001,2024-01-05,Technical Issue,High,Resolved,4.5,5,Enterprise,Authentication,Tier 2
+T002,2024-01-05,How-To Question,Low,Resolved,0.8,4,SMB,Dashboard,Tier 1
+T003,2024-01-06,Bug Report,Critical,Resolved,2.1,5,Enterprise,API,Engineering
+T004,2024-01-06,Feature Request,Medium,Open,N/A,N/A,Mid-Market,Analytics,Product
+T005,2024-01-07,Technical Issue,Medium,Resolved,6.3,4,Mid-Market,Integration,Tier 2
+T006,2024-01-08,How-To Question,Low,Resolved,1.2,5,SMB,Reporting,Tier 1
+T007,2024-01-08,Bug Report,High,Resolved,8.7,3,Enterprise,Dashboard,Engineering
+T008,2024-01-09,Account Issue,Medium,Resolved,3.5,5,Mid-Market,Billing,Tier 1
+T009,2024-01-10,Technical Issue,High,Resolved,5.2,4,Enterprise,Mobile App,Tier 2
+T010,2024-01-11,How-To Question,Low,Resolved,0.9,5,SMB,Export,Tier 1
+T011,2024-01-12,Bug Report,Medium,Resolved,12.4,4,Mid-Market,Notifications,Engineering
+T012,2024-01-13,Feature Request,Low,Open,N/A,N/A,SMB,UI/UX,Product
+T013,2024-01-14,Technical Issue,Critical,Resolved,1.8,5,Enterprise,Performance,Engineering
+T014,2024-01-15,Account Issue,High,Resolved,4.1,4,Enterprise,Security,Tier 2
+T015,2024-01-16,How-To Question,Low,Resolved,1.5,5,Mid-Market,Collaboration,Tier 1
+T016,2024-01-17,Bug Report,High,Resolved,7.9,4,Enterprise,API,Engineering
+T017,2024-01-18,Technical Issue,Medium,Resolved,5.8,5,Mid-Market,Integration,Tier 2
+T018,2024-01-19,Feature Request,Medium,Open,N/A,N/A,Enterprise,Automation,Product
+T019,2024-01-20,How-To Question,Low,Resolved,1.1,4,SMB,Mobile App,Tier 1
+T020,2024-01-21,Bug Report,Critical,Resolved,3.2,5,Enterprise,Authentication,Engineering
+T021,2024-01-22,Technical Issue,High,Resolved,6.7,4,Mid-Market,Dashboard,Tier 2
+T022,2024-01-23,Account Issue,Medium,Resolved,2.9,5,SMB,Billing,Tier 1
+T023,2024-01-24,How-To Question,Low,Resolved,0.7,5,Mid-Market,Analytics,Tier 1
+T024,2024-01-25,Bug Report,Medium,Resolved,10.3,3,Enterprise,Reporting,Engineering
+T025,2024-01-26,Technical Issue,High,Resolved,4.8,4,Enterprise,SSO,Tier 2
+T026,2024-01-27,Feature Request,Low,Open,N/A,N/A,Mid-Market,Export,Product
+T027,2024-01-28,How-To Question,Low,Resolved,1.3,5,SMB,Dashboard,Tier 1
+T028,2024-01-29,Bug Report,High,Resolved,6.1,4,Enterprise,Mobile App,Engineering
+T029,2024-01-30,Technical Issue,Medium,Resolved,7.5,5,Mid-Market,Performance,Tier 2
+T030,2024-01-31,Account Issue,High,Resolved,3.8,4,Enterprise,Security,Tier 2
+T031,2024-02-01,How-To Question,Low,Resolved,0.9,5,SMB,Integration,Tier 1
+T032,2024-02-02,Bug Report,Critical,Resolved,2.5,5,Enterprise,API,Engineering
+T033,2024-02-03,Technical Issue,High,Resolved,5.4,4,Mid-Market,Notifications,Tier 2
+T034,2024-02-04,Feature Request,Medium,Open,N/A,N/A,Enterprise,Analytics,Product
+T035,2024-02-05,How-To Question,Low,Resolved,1.0,5,Mid-Market,Collaboration,Tier 1
+T036,2024-02-06,Bug Report,Medium,Resolved,9.8,4,Enterprise,Dashboard,Engineering
+T037,2024-02-07,Technical Issue,High,Resolved,4.2,5,Enterprise,Authentication,Tier 2
+T038,2024-02-08,Account Issue,Medium,Resolved,3.1,4,SMB,Billing,Tier 1
+T039,2024-02-09,How-To Question,Low,Resolved,1.4,5,Mid-Market,Reporting,Tier 1
+T040,2024-02-10,Bug Report,High,Resolved,7.3,4,Enterprise,Mobile App,Engineering

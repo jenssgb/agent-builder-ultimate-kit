@@ -1,0 +1,35 @@
+product_id,product_name,category,price,cost,units_sold,revenue,profit,region,sales_rep,order_date,customer_segment
+P001,Enterprise Cloud Suite,Software,2499.00,800.00,145,362355.00,246355.00,North America,John Stevens,2024-01-15,Enterprise
+P002,Analytics Dashboard Pro,Software,599.00,180.00,289,173111.00,121011.00,North America,Noah Taylor,2024-01-18,Mid-Market
+P003,Mobile App Builder,Software,399.00,120.00,423,168777.00,118077.00,Europe,James Wright,2024-01-22,SMB
+P004,API Gateway Service,Software,899.00,250.00,178,159922.00,115522.00,North America,John Stevens,2024-02-05,Enterprise
+P005,Security Compliance Pack,Software,1299.00,400.00,92,119508.00,82708.00,North America,Noah Taylor,2024-02-12,Enterprise
+P006,Data Integration Tool,Software,749.00,220.00,201,150549.00,106329.00,Europe,James Wright,2024-02-20,Mid-Market
+P007,Workflow Automation,Software,449.00,135.00,334,149966.00,104876.00,Asia Pacific,John Stevens,2024-03-01,SMB
+P008,Customer Portal,Software,999.00,300.00,156,155844.00,109044.00,North America,Noah Taylor,2024-03-10,Mid-Market
+P009,Reporting Engine,Software,699.00,200.00,267,186633.00,133233.00,Europe,James Wright,2024-03-18,Enterprise
+P010,Cloud Storage 1TB,Infrastructure,199.00,60.00,512,101888.00,71168.00,North America,Noah Taylor,2024-04-02,SMB
+P001,Enterprise Cloud Suite,Software,2499.00,800.00,167,417533.00,283733.00,Europe,James Wright,2024-04-15,Enterprise
+P002,Analytics Dashboard Pro,Software,599.00,180.00,312,186888.00,130728.00,North America,John Stevens,2024-04-22,Mid-Market
+P003,Mobile App Builder,Software,399.00,120.00,445,177555.00,124155.00,Asia Pacific,Noah Taylor,2024-05-05,SMB
+P004,API Gateway Service,Software,899.00,250.00,189,169911.00,122661.00,Europe,James Wright,2024-05-12,Enterprise
+P005,Security Compliance Pack,Software,1299.00,400.00,103,133797.00,92597.00,North America,John Stevens,2024-05-20,Enterprise
+P006,Data Integration Tool,Software,749.00,220.00,223,167027.00,117927.00,North America,Noah Taylor,2024-06-01,Mid-Market
+P007,Workflow Automation,Software,449.00,135.00,378,169722.00,118692.00,Europe,James Wright,2024-06-10,SMB
+P008,Customer Portal,Software,999.00,300.00,178,177822.00,124422.00,Asia Pacific,John Stevens,2024-06-18,Mid-Market
+P009,Reporting Engine,Software,699.00,200.00,289,201911.00,144211.00,North America,Noah Taylor,2024-07-02,Enterprise
+P010,Cloud Storage 1TB,Infrastructure,199.00,60.00,567,112833.00,78813.00,Europe,James Wright,2024-07-15,SMB
+P001,Enterprise Cloud Suite,Software,2499.00,800.00,189,472311.00,321111.00,North America,John Stevens,2024-07-22,Enterprise
+P002,Analytics Dashboard Pro,Software,599.00,180.00,334,200066.00,139926.00,Asia Pacific,Noah Taylor,2024-08-05,Mid-Market
+P003,Mobile App Builder,Software,399.00,120.00,489,195111.00,136389.00,Europe,James Wright,2024-08-12,SMB
+P004,API Gateway Service,Software,899.00,250.00,201,180699.00,130449.00,North America,John Stevens,2024-08-20,Enterprise
+P005,Security Compliance Pack,Software,1299.00,400.00,115,149385.00,103485.00,North America,Noah Taylor,2024-09-01,Enterprise
+P006,Data Integration Tool,Software,749.00,220.00,245,183505.00,129605.00,Europe,James Wright,2024-09-10,Mid-Market
+P007,Workflow Automation,Software,449.00,135.00,412,184988.00,129412.00,Asia Pacific,John Stevens,2024-09-18,SMB
+P008,Customer Portal,Software,999.00,300.00,195,194805.00,136305.00,North America,Noah Taylor,2024-10-02,Mid-Market
+P009,Reporting Engine,Software,699.00,200.00,312,218088.00,155688.00,Europe,James Wright,2024-10-15,Enterprise
+P010,Cloud Storage 1TB,Infrastructure,199.00,60.00,623,123977.00,86577.00,North America,John Stevens,2024-10-22,SMB
+P001,Enterprise Cloud Suite,Software,2499.00,800.00,201,502299.00,341499.00,Asia Pacific,Noah Taylor,2024-11-01,Enterprise
+P002,Analytics Dashboard Pro,Software,599.00,180.00,356,213244.00,149124.00,Europe,James Wright,2024-11-10,Mid-Market
+P003,Mobile App Builder,Software,399.00,120.00,523,208677.00,145923.00,North America,John Stevens,2024-11-18,SMB
+P004,API Gateway Service,Software,899.00,250.00,215,193285.00,139535.00,North America,Noah Taylor,2024-11-25,Enterprise

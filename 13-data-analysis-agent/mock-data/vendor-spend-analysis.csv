@@ -1,0 +1,13 @@
+vendor_name,category,annual_spend,contract_start,contract_end,payment_terms,risk_level,performance_score,renewals,last_audit_date
+CloudVendor,Infrastructure,260000,2024-01-01,2027-12-31,Net 30,Low,4.5,2,2024-06-15
+DataProvider Inc,Analytics,145000,2023-06-01,2025-05-31,Net 45,Medium,4.2,1,2024-03-20
+SecurityCorp,Cybersecurity,185000,2024-02-01,2026-01-31,Net 30,Low,4.8,0,2024-08-10
+MarketingTools Co,Marketing,98000,2023-09-01,2024-08-31,Net 30,High,3.7,3,2024-02-28
+LegalServices LLC,Professional Services,125000,2024-01-15,2025-01-14,Net 60,Low,4.6,1,2024-07-22
+HRSoftware Solutions,Human Resources,78000,2023-11-01,2025-10-31,Net 30,Medium,4.1,2,2024-05-15
+OfficeSupplies Plus,Office Operations,45000,2024-03-01,2025-02-28,Net 15,Low,4.3,4,2024-09-05
+TravelAgency Global,Travel,134000,2023-07-01,2024-06-30,Net 30,Medium,3.9,2,2024-04-18
+TelecomProvider,Communications,67000,2024-04-01,2026-03-31,Net 45,Low,4.4,1,2024-10-12
+SaaS Platform A,Software,245000,2023-10-15,2025-10-14,Net 30,Low,4.7,1,2024-06-28
+ConsultingFirm XYZ,Professional Services,312000,2024-01-01,2024-12-31,Net 60,High,3.6,0,2024-08-20
+PaymentProcessor,Financial Services,89000,2023-12-01,2025-11-30,Net 30,Low,4.5,2,2024-07-15

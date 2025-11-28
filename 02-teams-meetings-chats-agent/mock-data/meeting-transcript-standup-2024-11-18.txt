@@ -1,0 +1,176 @@
+# MOCK MEETING TRANSCRIPT
+## Project Alpha - Weekly Standup
+**Meeting ID**: proj-alpha-standup-20241118  
+**Date**: Monday, November 18, 2024  
+**Time**: 9:00 AM - 9:30 AM PST  
+**Organizer**: Jennifer Martinez (Project Manager)  
+**Attendees**: Jennifer Martinez, Sarah Chen, Mike Thompson, David Rodriguez, Lisa Kim
+
+---
+
+**[9:00 AM] Jennifer Martinez:**  
+Good morning everyone! Let's get started with our weekly standup. We have a packed agenda today. First, I want to discuss the launch date, then we'll cover sprint progress, and finally address any blockers. 
+
+**[9:01 AM] Jennifer Martinez:**  
+So, big news - we need to push our launch date from December 15 to January 10. I know this isn't ideal, but our database vendor informed us on Friday that the migration tools won't be ready until late December. Rather than rush and risk issues, I'm recommending we move the date. Thoughts?
+
+**[9:02 AM] Sarah Chen:**  
+That's disappointing, but I agree it's the right call. Rushing database migration is asking for trouble. Plus, it gives us more time for testing.
+
+**[9:02 AM] Mike Thompson:**  
+Makes sense. Will this affect our Q4 goals and budget?
+
+**[9:03 AM] Jennifer Martinez:**  
+Good question, Mike. I spoke with our VP last week, and they're supportive of the delay. We'll need to reallocate some Q4 budget to Q1, but it's already approved. The business case still holds.
+
+**[9:04 AM] David Rodriguez:**  
+What about the client? Have they been informed?
+
+**[9:04 AM] Jennifer Martinez:**  
+Yes, I briefed the client on Friday. They're understanding since they're also dealing with year-end freezes. The January launch actually works better for their go-live planning.
+
+**[9:05 AM] Jennifer Martinez:**  
+Okay, so decision made - launch date is officially January 10, 2025. I'll send updated timeline to everyone after this call.
+
+**[9:06 AM] Jennifer Martinez:**  
+Next topic - let's go around for sprint updates. Sarah, want to start with engineering?
+
+**[9:06 AM] Sarah Chen:**  
+Sure! Engineering team completed 18 out of 20 story points last sprint. We finished the user authentication module and API endpoint refactoring. The two incomplete stories are the performance optimization tasks - we're carrying those over because they're dependent on the new database schema.
+
+**[9:07 AM] Sarah Chen:**  
+For this sprint, we're focusing on the data migration scripts and integration testing. We've allocated 22 story points and feel confident about delivery.
+
+**[9:08 AM] Jennifer Martinez:**  
+Great progress, Sarah. Any blockers on your end?
+
+**[9:08 AM] Sarah Chen:**  
+Yes, actually. We still don't have access to the staging environment. IT was supposed to provision it two weeks ago. It's becoming critical for our integration testing.
+
+**[9:09 AM] David Rodriguez:**  
+I can help with that. I'll escalate to IT leadership today and get you access by Wednesday. Is that acceptable?
+
+**[9:09 AM] Sarah Chen:**  
+Perfect, thanks David!
+
+**[9:10 AM] Jennifer Martinez:**  
+Action item: David to get staging environment access for engineering by November 20. Moving on - Mike, how's QA looking?
+
+**[9:10 AM] Mike Thompson:**  
+QA is in good shape. We've automated 45 test cases so far, with a goal of 60 by month-end. Test coverage is at 78%, which is on track for our 85% target.
+
+**[9:11 AM] Mike Thompson:**  
+One concern though - the new authentication flow has some edge cases we haven't fully documented. Sarah, can we schedule a 30-minute session this week to walk through the user flows?
+
+**[9:11 AM] Sarah Chen:**  
+Absolutely. How about Wednesday afternoon? I'm free after 2 PM.
+
+**[9:12 AM] Mike Thompson:**  
+Works for me. I'll send a meeting invite.
+
+**[9:12 AM] Jennifer Martinez:**  
+Good collaboration, team. Lisa, anything from the UX side?
+
+**[9:12 AM] Lisa Kim:**  
+Yes! We completed usability testing last week with 12 participants. Overall feedback was very positive - average SUS score of 82, which exceeds our 75 target.
+
+**[9:13 AM] Lisa Kim:**  
+We did identify one pain point in the dashboard navigation. Users were confused about where to find their account settings. I've created wireframes for a revised nav structure. Can I get 15 minutes on Friday's design review to present?
+
+**[9:14 AM] Jennifer Martinez:**  
+Definitely. I'll add it to Friday's agenda. How big of a change are we talking?
+
+**[9:14 AM] Lisa Kim:**  
+Pretty minor - just moving two menu items and adding an icon. Should be less than 2 story points of dev work.
+
+**[9:14 AM] Sarah Chen:**  
+Sounds reasonable. Send me the wireframes and I'll estimate it properly.
+
+**[9:15 AM] Jennifer Martinez:**  
+Perfect. David, any updates from the business side?
+
+**[9:15 AM] David Rodriguez:**  
+Two things - first, legal approved the updated terms of service, so we're clear for launch on that front. Second, marketing is requesting a demo environment by December 1 for their pre-launch campaign materials.
+
+**[9:16 AM] David Rodriguez:**  
+The demo environment needs to be stable and have sample data loaded. Can engineering support that?
+
+**[9:16 AM] Sarah Chen:**  
+December 1 is tight, but doable. We'll need to prioritize the data seeding scripts. Let me add that to our sprint planning.
+
+**[9:17 AM] Jennifer Martinez:**  
+Action item: Sarah to ensure demo environment ready for marketing by December 1. Anything else, David?
+
+**[9:17 AM] David Rodriguez:**  
+That's it from me.
+
+**[9:18 AM] Jennifer Martinez:**  
+Okay, let's talk about the technology stack decision we've been debating. We need to finalize whether we're using Azure or AWS for hosting. I know we've discussed this before, but we need a final call today.
+
+**[9:19 AM] Sarah Chen:**  
+From an engineering perspective, I recommend Azure. We already have expertise in-house, the integration with our existing Microsoft 365 environment is seamless, and the pricing came in 15% lower than AWS for our usage pattern.
+
+**[9:20 AM] Mike Thompson:**  
+I agree with Azure. Plus, their DevOps pipeline integration is better for our CI/CD needs.
+
+**[9:20 AM] David Rodriguez:**  
+Any concerns from a business continuity or vendor lock-in perspective?
+
+**[9:21 AM] Sarah Chen:**  
+We'll architecture the application to be cloud-agnostic where possible, so we can migrate if needed. And Azure's SLA of 99.95% uptime meets our requirements.
+
+**[9:21 AM] Jennifer Martinez:**  
+Alright, decision made - we're going with Azure. I'll update the architecture docs and notify procurement. Good recommendation, Sarah.
+
+**[9:22 AM] Jennifer Martinez:**  
+Last item - budget update. We're tracking 8% under budget for the quarter, which gives us some cushion. However, with the launch date moving to January, we'll need to ensure our Q1 budget allocation is adequate.
+
+**[9:23 AM] Jennifer Martinez:**  
+I'm meeting with finance tomorrow to finalize the numbers. If anyone has additional resource needs for Q1, please email me by end of day today.
+
+**[9:24 AM] Lisa Kim:**  
+I may need a freelance designer for two weeks in January for marketing collateral. Probably $5-6K. Is that feasible?
+
+**[9:24 AM] Jennifer Martinez:**  
+Should be fine. Send me a brief justification and I'll include it in my request.
+
+**[9:25 AM] Jennifer Martinez:**  
+Alright, let's review action items before we wrap:
+1. Jennifer - Send updated launch timeline to team and client by EOD today
+2. David - Escalate staging environment access, resolve by Wednesday Nov 20
+3. Sarah and Mike - Schedule auth flow review session for Wednesday afternoon
+4. Lisa - Present navigation wireframes at Friday's design review
+5. Sarah - Prioritize demo environment setup for marketing by December 1
+6. Jennifer - Update architecture docs to reflect Azure decision
+7. Jennifer - Meet with finance tomorrow for Q1 budget allocation
+8. Lisa - Send freelance designer request to Jennifer by EOD today
+
+**[9:26 AM] Jennifer Martinez:**  
+Did I miss anything?
+
+**[9:26 AM] Mike Thompson:**  
+Nope, that covers it.
+
+**[9:27 AM] Sarah Chen:**  
+All good!
+
+**[9:27 AM] Jennifer Martinez:**  
+Excellent. Thanks everyone for the productive discussion. See you all at Friday's design review. Have a great week!
+
+**[9:27 AM] David Rodriguez:**  
+Thanks, Jen!
+
+**[9:27 AM] Lisa Kim:**  
+Thanks everyone!
+
+---
+
+**Meeting Summary:**
+- **Key Decisions**: Launch date moved to January 10, 2025; Azure selected for cloud hosting
+- **Action Items**: 8 total (see list above)
+- **Next Meeting**: Friday design review
+- **Blockers Identified**: Staging environment access (being resolved)
+- **Budget Status**: 8% under budget for Q4
+
+**Transcript generated by Microsoft Teams** 
+**Meeting Recording available at**: [Link to recording]
