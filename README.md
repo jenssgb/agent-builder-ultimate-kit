@@ -8,6 +8,8 @@
 
 This kit demonstrates **every Agent Builder capability**:
 
+![Agent Builder UI](https://raw.githubusercontent.com/jenssgb/agent-builder-ultimate-kit/main/.github/agent-builder-ui.png)
+
 ### Knowledge
 *Choose the sources your agent will use to generate responses*
 
