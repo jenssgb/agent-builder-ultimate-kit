@@ -10,45 +10,36 @@ This kit demonstrates **every Agent Builder capability**:
 
 ![Agent Builder UI](https://raw.githubusercontent.com/jenssgb/agent-builder-ultimate-kit/main/.github/agent-builder-ui.png)
 
-### Knowledge
-*Choose the sources your agent will use to generate responses*
+### 📚 Knowledge
 
-**📁 Add files, meetings, chats, emails, and websites**
-- 📁 **SharePoint** → Demo 01 - HR policy assistant, searches company documents
-- 👥 **Teams** → Demo 02 - Searches meeting transcripts and team chats
-- 📧 **Outlook** → Demo 03 - Finds info from your email history
-- 🌐 **Web** → Demo 04 - Researches documentation and public sites
+**Add files, meetings, chats, emails, and websites**
+- 📁 SharePoint → **Demo 01** | HR policy assistant
+- 👥 Teams → **Demo 02** | Meeting transcripts & chats
+- 📧 Outlook → **Demo 03** | Email search
+- 🌐 Web → **Demo 04** | Public documentation
 
-**🔍 Search all websites**
-- Demo 05 - Real-time web search for current info
+**Knowledge Toggles**
+- 🔍 Search all websites → **Demo 05** | Real-time web search
+- 🔒 Only use specified sources → **Demo 06** | Compliance mode
+- 👤 Reference people in organization → **Demo 07** | Employee directory
 
-**🔒 Only use specified sources**
-- Demo 06 - Compliance-safe, only uses approved sources
+**Add other data sources** *(Copilot Connectors)*
+- 🔴 Azure DevOps → **Demo 08** | Work items & wiki
+- 🔵 ServiceNow → **Demo 09** | IT support KB & tickets
+- 🌐 Enterprise Websites → **Demo 10** | Internal intranets
 
-**👤 Reference people in organization**
-- Demo 07 - Finds employees and expertise in your org
+### ⚡ Capabilities
 
-**🔌 Add other data sources** *(Copilot Connectors)*
-- 🔴 **Azure DevOps** → Demo 08 - Searches work items and wiki (requires admin)
-- 🔵 **ServiceNow** → Demo 09 - IT support KB and tickets (requires admin)
-- 🌐 **Enterprise Websites** → Demo 10 - Internal intranet search (requires admin)
+**📊 Code Interpreter** | *Analyze data, create charts, generate code*
+- **Demo 11** | Data analysis with Python
+- **Demo 13** | Multi-source: Code + SharePoint + Files
 
-### Capabilities
+**🎨 Image Generator** | *Create AI-generated images and art*
+- **Demo 12** | AI image creation
+- **Demo 14** | Multi-source: Images + Web + Brand guidelines
 
-**📊 Create documents, charts, and code** *(Code Interpreter)*
-- *Analyze data, graph math equations, and create code snippets, Word, Excel, and PowerPoint files*
-- Demo 11 - Analyzes data, creates charts with Python
-- Demo 13 - Code Interpreter + documents (multi-source)
-
-**🎨 Create images** *(Image Generator)*
-- *Create visual aids like images and art in response to user prompts*
-- Demo 12 - Creates AI images and graphics
-- Demo 14 - Image Generator + web search + brand guide
-
-### 🚀 Advanced Combinations
-- **Demo 13** - Code Interpreter + SharePoint + Files
-- **Demo 14** - Image Generator + Web Search + SharePoint
-- **Demo 15** - **All features** combined - ultimate assistant
+### 🚀 Advanced
+- **Demo 15** | All features combined
 
 ---
 
