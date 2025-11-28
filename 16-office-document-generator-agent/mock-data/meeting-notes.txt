@@ -1,0 +1,62 @@
+Q4 Sales Review Meeting
+Date: November 28, 2024
+Attendees: Sarah Chen (VP Sales), Mike Johnson (Sales Director), Lisa Wang (Regional Manager), Tom Martinez (Analyst)
+
+AGENDA
+1. Q4 Performance Review
+2. Regional Analysis
+3. Product Mix Discussion
+4. 2025 Planning
+5. Action Items
+
+DISCUSSION POINTS
+
+Q4 Performance Review:
+- Total Q4 revenue reached $558,000, exceeding target by 12%
+- Software segment showed strongest growth at 18% QoQ
+- Hardware sales recovered in December after slow October
+- Services maintain steady growth trajectory
+
+Regional Performance:
+- North America: $318,000 (57% of total), best performing region
+- Europe: $255,000 (46% of total), strong software sales
+- Asia Pacific: $218,000 (39% of total), growing hardware demand
+- Latin America: $124,000 (22% of total), emerging market potential
+
+Product Analysis:
+- Software: 60% of revenue, highest margins
+- Hardware: 30% of revenue, improved supply chain
+- Services: 10% of revenue, upsell opportunities identified
+
+Key Wins:
+- Enterprise software deal with Contoso Corp ($250K annual)
+- Hardware refresh cycle drove December surge
+- New service packages gaining traction
+
+Challenges:
+- Hardware supply chain still volatile
+- Competition increasing in Asia Pacific
+- Services attach rate needs improvement
+
+2025 Planning:
+- Target: 25% revenue growth
+- Focus on software expansion
+- Increase services penetration
+- Explore partnership opportunities in Latin America
+
+DECISIONS
+1. Increase software sales team by 3 headcount in Q1 2025
+2. Launch new service bundle packages in Q2 2025
+3. Conduct competitive analysis in Asia Pacific market
+4. Establish partner program in Latin America
+
+ACTION ITEMS
+1. Sarah: Approve budget for new sales hires (Due: Dec 15)
+2. Mike: Develop service bundle pricing (Due: Jan 15)
+3. Lisa: Complete Asia Pacific competitive research (Due: Dec 31)
+4. Tom: Create 2025 revenue forecast model (Due: Dec 20)
+5. All: Review and provide feedback on 2025 plan (Due: Jan 5)
+
+NEXT MEETING
+Date: January 10, 2025
+Topic: Q1 2025 Kickoff and Strategy Review

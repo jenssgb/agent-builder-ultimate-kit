@@ -36,6 +36,7 @@ This kit demonstrates **every Agent Builder capability**:
 **📊 Code Interpreter** *(No License Required)*
 - *Analyze data, create charts, generate code*
 - **Demo 11** | Data analysis with Python
+- **Demo 16** | Office document generation (Word, Excel, PowerPoint)
 
 **🎨 Image Generator** *(No License Required)*
 - *Create AI-generated images and art*
@@ -82,6 +83,7 @@ This kit demonstrates **every Agent Builder capability**:
 | **13** | **Data Analysis** | Code Interpreter + documents (multi-source) | 15 min | ✅ 7 CSV files |
 | **14** | **Marketing Content** | Image Generator + web search + brand guide | 15 min | ✅ 7 brand files |
 | **15** | **All Features** | Everything combined - ultimate assistant | 20 min | ✅ Uses other demos |
+| **16** | **Office Document Generator** | Creates Word, Excel, PowerPoint files | 10 min | ✅ 3 files |
 
 ---
 
