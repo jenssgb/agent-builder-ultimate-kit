@@ -35,20 +35,20 @@ This kit demonstrates **every Agent Builder capability**:
 
 **📊 Code Interpreter** *(No License Required)*
 - *Analyze data, create charts, generate code*
-- **Demo 11** | Data analysis with Python *(No License)*
+- **Demo 11** | Data analysis with Python
 
 **🎨 Image Generator** *(No License Required)*
 - *Create AI-generated images and art*
-- **Demo 12** | AI image creation *(No License)*
+- **Demo 12** | AI image creation
 
 ---
 
-### 🚀 Multi-Capability Combinations *(License Required)*
+### 🚀 Multi-Capability Combinations *(Requires M365 Copilot License or PAYGO)*
 
 **Combining Capabilities + Internal Knowledge**
-- **Demo 13** | Code Interpreter + SharePoint + Files *(Requires License)*
-- **Demo 14** | Image Generator + Web + SharePoint *(Requires License)*
-- **Demo 15** | All features combined *(Requires License)*
+- **Demo 13** | Code Interpreter + SharePoint + Files
+- **Demo 14** | Image Generator + Web + SharePoint
+- **Demo 15** | All features combined
 
 ---
 
