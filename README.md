@@ -70,23 +70,144 @@ This kit demonstrates **every Agent Builder capability**:
 
 ## Quick Start
 
-### Option A: Automated Setup (Recommended)
+### Option A: Automated SharePoint Setup (Recommended)
+
+**Prerequisites:**
+- SharePoint admin access
+- Tenant name (e.g., `contoso` for `contoso.sharepoint.com`)
+
+**Steps:**
 ```powershell
 # 1. Clone this repo
 git clone https://github.com/jenssgb/agent-builder-ultimate-kit.git
 cd agent-builder-ultimate-kit
 
-# 2. Run SharePoint setup (uploads all mock data)
+# 2. Run SharePoint setup script
 .\setup-sharepoint.ps1
-```
-See [SETUP-GUIDE.md](SETUP-GUIDE.md) for details.
 
-### Option B: Manual Demo
+# 3. Follow prompts
+# - Enter tenant name: contoso
+# - Enter site name: AgentBuilderDemo
+# - Authenticate with admin account
+# - Script creates site + uploads 47 files
+```
+
+**What the script does:**
+1. ✅ Installs PnP.PowerShell module (if needed)
+2. ✅ Creates SharePoint site (if doesn't exist)
+3. ✅ Creates 8 folders for demo data
+4. ✅ Uploads all mock data files (47 files)
+5. ✅ Optional: Shares site with organization (auto-detects EN/DE/FR)
+6. ✅ Provides folder URLs for Agent Builder
+
+**Example output:**
+```
+╔════════════════════════════════════════════════════════════════╗
+║  Agent Builder Ultimate Kit - SharePoint Setup                ║
+╚════════════════════════════════════════════════════════════════╝
+
+Step 1: Tenant Configuration
+Enter your tenant name: contoso
+Enter site name: AgentBuilderDemo
+
+Step 2: Checking dependencies...
+✓ PnP.PowerShell already installed
+
+Step 3: Connecting to SharePoint...
+✓ Connected to tenant admin
+
+Step 4: Setting up SharePoint site...
+✓ Site created successfully
+
+Step 5: Uploading mock data files...
+📁 01-Employee-Docs
+   ✓ Folder created
+   Uploading 5 files...
+     ✓ benefits-guide-2024.txt
+     ✓ code-of-conduct.txt
+     ✓ employee-handbook-2024.txt
+     ✓ expense-reimbursement-sop.txt
+     ✓ remote-work-policy.txt
+...
+
+═══════════════════════════════════════════════════════════════
+                    SETUP COMPLETE
+═══════════════════════════════════════════════════════════════
+
+📊 Upload Statistics:
+  ✓ 01-Employee-Docs              5 files
+  ✓ 02-Meeting-Transcripts        5 files
+  ✓ 03-Email-Archives             5 files
+  ✓ 06-Compliance-Docs            5 files
+  ✓ 08-Azure-DevOps-Docs          3 files
+  ✓ 13-Sales-Data                 7 files
+  ✓ 14-Marketing-Assets           7 files
+  ✓ 15-Combined-Knowledge        10 files
+
+📈 Summary:
+  Total files uploaded: 47
+  Failed uploads:       0
+
+🔗 SharePoint Site:
+  https://contoso.sharepoint.com/sites/AgentBuilderDemo
+
+📂 Folder URLs for Agent Builder:
+  01-Employee-Docs
+    https://contoso.sharepoint.com/sites/AgentBuilderDemo/Shared Documents/01-Employee-Docs
+  02-Meeting-Transcripts
+    https://contoso.sharepoint.com/sites/AgentBuilderDemo/Shared Documents/02-Meeting-Transcripts
+  ...
+
+💡 Next Steps:
+  1. Open Agent Builder: https://copilot.cloud.microsoft
+  2. Create or edit an agent
+  3. Add Knowledge Sources → SharePoint
+  4. Select folders from the list above
+  5. Test your agent with the demo scenarios!
+
+✨ Ready to build amazing agents! ✨
+```
+
+### Option B: Manual SharePoint Setup
+
+If you don't have admin access or prefer manual setup:
+
+**1. Create SharePoint Site:**
+- Go to SharePoint Admin Center
+- Create new **Team Site**: "Agent Builder Demo Hub"
+
+**2. Create Folder Structure:**
+In the **Documents** library, create these folders:
+- `01-Employee-Docs`
+- `02-Meeting-Transcripts`
+- `03-Email-Archives`
+- `06-Compliance-Docs`
+- `08-Azure-DevOps-Docs`
+- `13-Sales-Data`
+- `14-Marketing-Assets`
+- `15-Combined-Knowledge`
+
+**3. Upload Mock Data:**
+From the cloned repo, upload files from each demo's `mock-data/` folder to corresponding SharePoint folder.
+
+**4. Use in Agent Builder:**
+- Open [copilot.cloud.microsoft](https://copilot.cloud.microsoft)
+- Create agent → Knowledge sources → SharePoint
+- Select your folders
+
+### Option C: Quick Demo (No Setup)
+
+Test agents without SharePoint setup using:
+- **Demo 05** - Web Search (no setup needed)
+- **Demo 11** - Code Interpreter (upload files directly)
+- **Demo 12** - Image Generator (no files needed)
+
+**Steps:**
 1. **Pick a demo** from the list below
-2. **Open its folder** (e.g., `01-sharepoint-files-agent/`)
-3. **Read the README** - has everything you need
+2. **Open its folder** (e.g., `11-code-interpreter-agent/`)
+3. **Read the README** - complete config + demo script
 4. **Go to** [microsoft365.com/chat](https://microsoft365.com/chat)
-5. **Click "Create agent"** and copy the config from the README
+5. **Click "Create agent"** and copy the config from README
 6. **Test it!**
 
 ---
@@ -334,10 +455,56 @@ agent-builder-ultimate-kit/
 - ❌ Not testing edge cases (what if source has no answer?)
 
 ### Troubleshooting
+
+**Agent Issues:**
 - **Not finding info?** Check permissions to sources, verify files uploaded
 - **Slow responses?** Too many knowledge sources - remove unnecessary ones
 - **No citations?** Add "Always cite sources with document names" to instructions
 - **Wrong knowledge?** Use "Only use specified sources" toggle for compliance
+
+**SharePoint Setup Script Issues:**
+- **"Access Denied"** - Ensure SharePoint admin permissions, try running PowerShell as Administrator
+- **PnP.PowerShell installation fails** - Run manually: `Install-Module -Name PnP.PowerShell -Scope CurrentUser -Force -AllowClobber`
+- **Site already exists** - Script detects and skips creation, only uploads files
+- **File upload failures** - Check file size limits (30MB for Excel, 512MB others), verify file isn't locked
+- **Authentication prompts** - First: Tenant admin login, Second: Site access (use same account)
+- **Organization sharing fails** - Manual fallback: Site Settings → Permissions → Share with "Everyone except external users"
+
+---
+
+## SharePoint Architecture
+
+```
+SharePoint Site: "Agent Builder Demo Hub"
+└── Documents/
+    ├── 01-Employee-Docs/ (5 files, ~25KB)
+    ├── 02-Meeting-Transcripts/ (5 files, ~15KB)
+    ├── 03-Email-Archives/ (5 files, ~20KB)
+    ├── 06-Compliance-Docs/ (5 files, ~30KB)
+    ├── 08-Azure-DevOps-Docs/ (3 files, ~12KB)
+    ├── 13-Sales-Data/ (7 files, ~45KB)
+    ├── 14-Marketing-Assets/ (7 files, ~40KB)
+    └── 15-Combined-Knowledge/ (10 files, ~60KB)
+
+Total: 47 files, ~247KB
+Within Agent Builder limits: ✅
+  - Max 100 files per agent (using 47)
+  - Max 512MB per file
+  - Max 30MB for Excel files
+```
+
+### Folder Mapping by Demo
+
+| Demo # | Agent Name | SharePoint Folder |
+|--------|------------|-------------------|
+| **01** | HR Policy Assistant | `01-Employee-Docs` |
+| **02** | Meeting Insights Analyzer | `02-Meeting-Transcripts` |
+| **03** | Email Intelligence Agent | `03-Email-Archives` |
+| **06** | Compliance Scoped Agent | `06-Compliance-Docs` |
+| **08** | Azure DevOps Agent | `08-Azure-DevOps-Docs` |
+| **13** | Sales Data Analyst | `13-Sales-Data` |
+| **14** | Marketing Content Creator | `14-Marketing-Assets` |
+| **15** | All Features Showcase | `15-Combined-Knowledge` |
 
 ---
 
