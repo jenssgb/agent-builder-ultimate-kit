@@ -8,26 +8,27 @@
 
 This kit demonstrates **every Agent Builder capability**:
 
-### 📚 Knowledge Sources
+### 📚 Knowledge
+**Add files, meetings, chats, emails, and websites:**
 - ✅ **SharePoint** sites, folders, and files (Demo 01)
 - ✅ **Teams** chats and meetings (Demo 02)
-- ✅ **Email** search in personal mailbox (Demo 03)
+- ✅ **Email** - My emails toggle (Demo 03)
 - ✅ **Public websites** (up to 4 URLs) (Demo 04)
 - ✅ **Embedded files** (up to 20 files) (All demos)
 
-### 🔍 Knowledge Toggles
-- ✅ **Web search** - Real-time Bing search (Demo 05)
-- ✅ **Scoped sources** - Compliance-safe mode (Demo 06)
-- ✅ **People directory** - Find employees and expertise (Demo 07)
+**Knowledge toggles:**
+- ✅ **Search all websites** - Real-time web search (Demo 05)
+- ✅ **Only use specified sources** - Compliance mode (Demo 06)
+- ✅ **Reference people in organization** - Employee directory (Demo 07)
 
-### 🔌 Copilot Connectors
+**Add other data sources (Connectors):**
 - ✅ **Azure DevOps** - Work items and wiki (Demo 08)
-- ✅ **ServiceNow** - KB, tickets, and catalog (Demo 09)
+- ✅ **ServiceNow** - KB, tickets, catalog (Demo 09)
 - ✅ **Enterprise Websites** - Internal intranets (Demo 10)
 
 ### ⚡ Capabilities
-- ✅ **Code Interpreter** - Python, data analysis, charts (Demo 11, 13)
-- ✅ **Image Generator** - AI image creation (Demo 12, 14)
+- ✅ **Create documents, charts, and code** - Code Interpreter (Demo 11, 13)
+- ✅ **Create images** - Image Generator (Demo 12, 14)
 
 ### 🚀 Advanced
 - ✅ **Multi-capability** combinations (Demo 13, 14, 15)
