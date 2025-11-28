@@ -11,40 +11,40 @@ This kit demonstrates **every Agent Builder capability**:
 ### Knowledge
 *Choose the sources your agent will use to generate responses*
 
-**Add files, meetings, chats, emails, and websites**
-- 📁 SharePoint → Demo 01
-- 👥 Teams → Demo 02
-- 📧 Outlook → Demo 03
-- 🌐 Web → Demo 04
-
-**Search all websites**
-- Demo 05
-
-**Only use specified sources**
-- Demo 06
-
-**Reference people in organization**
-- Demo 07
-
-**Add other data sources**
-- 🔴 Azure DevOps → Demo 08
-- 🔵 ServiceNow → Demo 09
-- 🌐 Enterprise Websites → Demo 10
+| UI Feature | Demo | Use Case |
+|------------|------|----------|
+| **📁 Add files, meetings, chats, emails, and websites** | | |
+| → SharePoint | Demo 01 | HR policy assistant, searches company documents |
+| → Teams | Demo 02 | Searches meeting transcripts and team chats |
+| → Outlook | Demo 03 | Finds info from your email history |
+| → Web | Demo 04 | Researches documentation and public sites |
+| **🔍 Search all websites** | Demo 05 | Real-time web search for current info |
+| **🔒 Only use specified sources** | Demo 06 | Compliance-safe, only uses approved sources |
+| **👤 Reference people in organization** | Demo 07 | Finds employees and expertise in your org |
+| **🔌 Add other data sources** | | |
+| → Azure DevOps | Demo 08 | Searches work items and wiki (requires admin) |
+| → ServiceNow | Demo 09 | IT support KB and tickets (requires admin) |
+| → Enterprise Websites | Demo 10 | Internal intranet search (requires admin) |
 
 ### Capabilities
 
-**Code Interpreter**
-- *Analyze data, graph math equations, and create code snippets, Word, Excel, and PowerPoint files*
-- 📄 Word | 📊 Excel | 📽️ PowerPoint
-- Demo 11, Demo 13
+| UI Feature | Demo | Use Case |
+|------------|------|----------|
+| **📊 Create documents, charts, and code** | | |
+| *Analyze data, graph math equations, and create code snippets, Word, Excel, and PowerPoint files* | | |
+| 📄 Word \| 📊 Excel \| 📽️ PowerPoint | Demo 11 | Analyzes data, creates charts with Python |
+| | Demo 13 | Code Interpreter + documents (multi-source) |
+| **🎨 Create images** | | |
+| *Create visual aids like images and art in response to user prompts* | | |
+| | Demo 12 | Creates AI images and graphics |
+| | Demo 14 | Image Generator + web search + brand guide |
 
-**Image Generator**
-- *Create visual aids like images and art in response to user prompts*
-- Demo 12, Demo 14
-
-### 🚀 Advanced
-- ✅ **Multi-capability** combinations (Demo 13, 14, 15)
-- ✅ **All features** combined (Demo 15)
+### 🚀 Advanced Combinations
+| Demo | Features Combined |
+|------|-------------------|
+| Demo 13 | Code Interpreter + SharePoint + Files |
+| Demo 14 | Image Generator + Web Search + SharePoint |
+| Demo 15 | **All features** - ultimate assistant |
 
 ---
 
