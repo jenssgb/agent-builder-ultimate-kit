@@ -29,7 +29,9 @@ This kit demonstrates **every Agent Builder capability**:
 **Knowledge Controls**
 - 🔒 Only use specified sources → **Demo 06** | Compliance mode
 
-### ⚡ Capabilities
+---
+
+### ⚡ Capabilities *(No License Required)*
 
 **📊 Code Interpreter** | *Analyze data, create charts, generate code*
 - **Demo 11** | Data analysis with Python
@@ -39,7 +41,9 @@ This kit demonstrates **every Agent Builder capability**:
 - **Demo 12** | AI image creation
 - **Demo 14** | Multi-source: Images + Web + Brand guidelines
 
-### 🚀 Advanced
+---
+
+### 🚀 Advanced Combinations
 - **Demo 15** | All features combined
 
 ---
