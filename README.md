@@ -12,21 +12,22 @@ This kit demonstrates **every Agent Builder capability**:
 
 ### 📚 Knowledge
 
-**Add files, meetings, chats, emails, and websites**
+**Internal Knowledge** *(Requires M365 Copilot License or PAYGO)*
 - 📁 SharePoint → **Demo 01** | HR policy assistant
 - 👥 Teams → **Demo 02** | Meeting transcripts & chats
 - 📧 Outlook → **Demo 03** | Email search
-- 🌐 Web → **Demo 04** | Public documentation
+- 👤 People directory → **Demo 07** | Employee directory
+- 🔌 **Copilot Connectors:**
+  - 🔴 Azure DevOps → **Demo 08** | Work items & wiki
+  - 🔵 ServiceNow → **Demo 09** | IT support KB & tickets
+  - 🌐 Enterprise Websites → **Demo 10** | Internal intranets
 
-**Knowledge Toggles**
-- 🔍 Search all websites → **Demo 05** | Real-time web search
+**External Knowledge** *(No License Required)*
+- 🌐 Public websites (scoped) → **Demo 04** | Up to 4 public URLs
+- 🔍 Web search (all websites) → **Demo 05** | Real-time Bing search
+
+**Knowledge Controls**
 - 🔒 Only use specified sources → **Demo 06** | Compliance mode
-- 👤 Reference people in organization → **Demo 07** | Employee directory
-
-**Add other data sources** *(Copilot Connectors)*
-- 🔴 Azure DevOps → **Demo 08** | Work items & wiki
-- 🔵 ServiceNow → **Demo 09** | IT support KB & tickets
-- 🌐 Enterprise Websites → **Demo 10** | Internal intranets
 
 ### ⚡ Capabilities
 
