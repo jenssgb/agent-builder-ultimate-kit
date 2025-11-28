@@ -9,26 +9,23 @@
 This kit demonstrates **every Agent Builder capability**:
 
 ### 📚 Knowledge
-**Add files, meetings, chats, emails, and websites:**
-- ✅ **SharePoint** sites, folders, and files (Demo 01)
-- ✅ **Teams** chats and meetings (Demo 02)
-- ✅ **Email** - My emails toggle (Demo 03)
-- ✅ **Public websites** (up to 4 URLs) (Demo 04)
-- ✅ **Embedded files** (up to 20 files) (All demos)
-
-**Knowledge toggles:**
-- ✅ **Search all websites** - Real-time web search (Demo 05)
-- ✅ **Only use specified sources** - Compliance mode (Demo 06)
-- ✅ **Reference people in organization** - Employee directory (Demo 07)
-
-**Add other data sources (Connectors):**
-- ✅ **Azure DevOps** - Work items and wiki (Demo 08)
-- ✅ **ServiceNow** - KB, tickets, catalog (Demo 09)
-- ✅ **Enterprise Websites** - Internal intranets (Demo 10)
+- ✅ **Add files, meetings, chats, emails, and websites**
+  - SharePoint sites/folders (Demo 01)
+  - Teams chats/meetings (Demo 02)
+  - My emails (Demo 03)
+  - Public websites (Demo 04)
+  - Embedded files (All demos)
+- ✅ **Search all websites** (Demo 05)
+- ✅ **Only use specified sources** (Demo 06)
+- ✅ **Reference people in organization** (Demo 07)
+- ✅ **Add other data sources** - Copilot Connectors
+  - Azure DevOps (Demo 08)
+  - ServiceNow (Demo 09)
+  - Enterprise Websites (Demo 10)
 
 ### ⚡ Capabilities
-- ✅ **Create documents, charts, and code** - Code Interpreter (Demo 11, 13)
-- ✅ **Create images** - Image Generator (Demo 12, 14)
+- ✅ **Create documents, charts, and code** (Demo 11, 13)
+- ✅ **Create images** (Demo 12, 14)
 
 ### 🚀 Advanced
 - ✅ **Multi-capability** combinations (Demo 13, 14, 15)
