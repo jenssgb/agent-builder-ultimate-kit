@@ -1,6 +1,8 @@
 # Agent Builder Ultimate Kit
 
-**15 ready-to-use demos** for Microsoft 365 Copilot Agent Builder with complete configurations, mock data, and step-by-step guides.
+**16 ready-to-use demos** for Microsoft 365 Copilot Agent Builder with complete configurations, mock data, and step-by-step guides.
+
+> 🚀 **NEW:** Automated SharePoint setup script! See [SETUP-GUIDE.md](SETUP-GUIDE.md)
 
 ---
 
@@ -55,6 +57,18 @@ This kit demonstrates **every Agent Builder capability**:
 
 ## Quick Start
 
+### Option A: Automated Setup (Recommended)
+```powershell
+# 1. Clone this repo
+git clone https://github.com/jenssgb/agent-builder-ultimate-kit.git
+cd agent-builder-ultimate-kit
+
+# 2. Run SharePoint setup (uploads all mock data)
+.\setup-sharepoint.ps1
+```
+See [SETUP-GUIDE.md](SETUP-GUIDE.md) for details.
+
+### Option B: Manual Demo
 1. **Pick a demo** from the list below
 2. **Open its folder** (e.g., `01-sharepoint-files-agent/`)
 3. **Read the README** - has everything you need
@@ -64,7 +78,7 @@ This kit demonstrates **every Agent Builder capability**:
 
 ---
 
-## All 15 Demos
+## All 16 Demos
 
 | # | Demo | What It Does | Time | Mock Data |
 |---|------|--------------|------|-----------|
