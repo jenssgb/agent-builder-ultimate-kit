@@ -206,6 +206,45 @@ foreach ($folder in $folders) {
     Write-Host "    $folderUrl" -ForegroundColor DarkGray
 }
 
+Write-Host "`n🔐 Optional: Share site with your organization" -ForegroundColor Yellow
+Write-Host "──────────────────────────────────────────────" -ForegroundColor Gray
+$shareWithOrg = Read-Host "Share site with all users for easy demo access? (Y/N)"
+
+if ($shareWithOrg -eq 'Y' -or $shareWithOrg -eq 'y') {
+    Write-Host "`nAttempting to grant Read access to organization..." -ForegroundColor Gray
+    
+    # Try common group names (English, German, French)
+    $groupNames = @(
+        "Everyone except external users",
+        "Jeder außer externen Benutzern", 
+        "Tout le monde sauf les utilisateurs externes",
+        "Everyone",
+        "All Users",
+        "All Company"
+    )
+    
+    $permissionGranted = $false
+    foreach ($groupName in $groupNames) {
+        try {
+            Set-PnPGroupPermissions -Identity $groupName -AddRole "Read" -ErrorAction Stop
+            Write-Host "  ✓ Read permissions granted to '$groupName'" -ForegroundColor Green
+            $permissionGranted = $true
+            break
+        } catch {
+            # Try next group name
+        }
+    }
+    
+    if (-not $permissionGranted) {
+        Write-Host "  ⚠ Auto-grant failed. Please share manually:" -ForegroundColor Yellow
+        Write-Host "    1. Open: $SiteUrl/_layouts/15/user.aspx" -ForegroundColor DarkGray
+        Write-Host "    2. Click 'Share' → Add your organization's group" -ForegroundColor DarkGray
+        Write-Host "    3. Grant 'Read' permission" -ForegroundColor DarkGray
+    }
+} else {
+    Write-Host "  ℹ Skipped. You can share manually later via Site Settings → Permissions" -ForegroundColor Gray
+}
+
 Write-Host "`n💡 Next Steps:" -ForegroundColor Yellow
 Write-Host "───────────────" -ForegroundColor Gray
 Write-Host "  1. Open Agent Builder: https://copilot.cloud.microsoft" -ForegroundColor White
