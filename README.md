@@ -80,6 +80,10 @@ agent-builder-demo-cases/
 │       ├── remote-work-policy.txt
 │       ├── benefits-guide-2024.txt
 │       ├── expense-reimbursement-sop.txt
+│       └── code-of-conduct.txt
+└── ... (and 14 more demo folders)
+```
+
 ---
 
 ## Key Info
@@ -102,34 +106,7 @@ agent-builder-demo-cases/
 - 📧 Email search
 - 👥 Teams search
 - 👤 People directory
-- 🔌 Connectors (Azure DevOps, ServiceNow, etc.) Knowledge Sources (Up to 20 total)
-
-| Source Type | Icon | Limit | License Required |
-|-------------|------|-------|-----------------|
-| SharePoint sites/folders | 📁 | Up to 100 files total | Yes |
-| Teams chats | 👥 | Up to 5 specific chats | Yes (license only) |
-| My Teams chats and meetings | 👥 | All chats/meetings | Yes (license only) |
-| My emails | 📧 | Personal mailbox only | Yes (license only) |
-| Embedded files | 📎 | Up to 20 files, 512MB each | Yes |
-| Public websites | 🌐 | Up to 4 URLs | Yes |
-| Web search | 🌐 | Toggle "Search all websites" | No |
-| People directory | 👤 | Toggle "Reference people in organization" | Yes (license only) |
-| Copilot connectors | 🔌 | Admin-enabled only | Yes (license only) |
-
-### Capabilities (Funktionen)
-
-| Capability | Toggle Name | License Required | Purpose |
-|------------|-------------|-----------------|---------|
-| **Code Interpreter** | "Create documents, charts, and code" | No | Python data analysis, charts, math |
-| **Image Generator** | "Create images" | No | AI image generation (Designer) |
-
-### Toggles
-
-| Toggle | Location | Purpose |
-|--------|----------|---------|
-| **Search all websites** | Knowledge section | Enable real-time web search |
-| **Only use specified sources** | Knowledge section | Strict source control (compliance) |
-| **Reference people in organization** | Knowledge section | Search employee directory |
+- 🔌 Connectors (Azure DevOps, ServiceNow, etc.)
 
 ---
 
@@ -144,7 +121,9 @@ agent-builder-demo-cases/
 **Common issues:**
 - Not finding info? Check you have permissions to the sources
 - Slow? Too many knowledge sources - remove what you don't need
-- No citations? Add "Always cite sources" to instructions---
+- No citations? Add "Always cite sources" to instructions
+
+---
 
 ## Learn More
 
